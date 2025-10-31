@@ -109,31 +109,144 @@ const config = {
       },
       footer: {
         style: "dark",
+
         links: [
           {
-            title: "Useful Links",
+            title: "Solutions",
             items: [
               {
-                label: "Website",
-                href: "https://ans.co.uk",
+                label: "Managed Cloud",
+                href: "https://www.ans.co.uk/cloud-services/",
               },
               {
-                label: "Glass",
-                href: "https://ans.glass",
+                label: "Azure Managed Services",
+                href: "https://www.ans.co.uk/cloud-services/azure/",
+              },
+              {
+                label: "AWS Managed Services",
+                href: "https://www.ans.co.uk/cloud-services/aws/",
+              },
+              {
+                label: "Dynamics 365",
+                href: "https://www.ans.co.uk/dynamics-365/",
+              },
+              {
+                label: "Private Cloud",
+                href: "https://www.ans.co.uk/cloud-services/private-cloud/",
+              },
+              {
+                label: "Low-code Platform",
+                href: "https://www.ans.co.uk/low-code-platform/",
+              },
+              {
+                label: "Managed Security",
+                href: "https://www.ans.co.uk/managed-security-services/",
+              },
+              {
+                label: "Data & AI",
+                href: "https://www.ans.co.uk/data-ai/",
+              },
+              {
+                label: "Channel",
+                href: "https://ans.co.uk/channel",
               },
             ],
           },
           {
-            title: "More",
+            title: "About ANS",
             items: [
               {
-                label: "GitHub",
-                href: "https://github.com/ans-group/ans.co.uk-docs#",
+                label: "Our Company",
+                href: "https://www.ans.co.uk/our-company/",
+              },
+              {
+                label: "Our Partners",
+                href: "https://www.ans.co.uk/our-partners/",
+              },
+              {
+                label: "Our UK Data Centres",
+                href: "https://www.ans.co.uk/data-centres/",
+              },
+              {
+                label: "ANS Reviews",
+                href: "https://www.ans.co.uk/our-company/ans-reviews/",
+              },
+              {
+                label: "Insights",
+                href: "https://www.ans.co.uk/insights/",
+              },
+              {
+                label: "Terms & Conditions",
+                href: "https://www.ans.co.uk/terms-and-conditions/",
+              },
+              {
+                label: "Corporate Guidance",
+                href: "https://www.ans.co.uk/corporate-guidance/",
+              },
+            ],
+          },
+          {
+            title: "Careers",
+            items: [
+              {
+                label: "Careers",
+                href: "https://www.ans.co.uk/careers/",
+              },
+              {
+                label: "Open Roles",
+                href: "https://www.ans.co.uk/careers/open-roles/",
+              },
+              {
+                label: "Why work at ANS",
+                href: "https://www.ans.co.uk/careers/why-work-at-ans/",
+              },
+              {
+                label: "Life at ANS",
+                href: "https://www.ans.co.uk/careers/life-at-ans/",
+              },
+              {
+                label: "Apprenticeships",
+                href: "https://www.ans.co.uk/careers/apprenticeships/",
+              },
+            ],
+          },
+          {
+            title: "Get in Touch",
+            items: [
+              {
+                label: "SALES: 0800 458 4545",
+                href: "tel:08004584545",
+              },
+              {
+                label: "SUPPORT: 0800 230 0032",
+                href: "tel:08002300032",
+              },
+            ],
+          },
+          {
+            title: "Support",
+            items: [
+              {
+                label: "Get in touch",
+                href: "https://www.ans.co.uk/lets-talk/",
+              },
+              {
+                label: "ANS Glass",
+                href: "https://ans.glass",
+              },
+              {
+                label: "Press & Media Enquiries",
+                href: "https://www.ans.co.uk/press-enquiries/",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ANS Group LTD. Built with Docusaurus.`,
+        // copyright: `© ANS Group LTD ${new Date().getFullYear()}. All rights reserved.`,
+        copyright: `
+            <div>
+              <p>© ANS Group LTD ${new Date().getFullYear()}. All rights reserved.</p>
+              <p>ANS Group Limited, registered in England and Wales, company registration number 03176761, registered office 1 Archway, Birley Fields, Manchester M15 5QJ</p>
+            </div>`,
       },
       prism: {
         theme: prismThemes.github,

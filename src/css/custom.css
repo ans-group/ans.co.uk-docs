@@ -30,17 +30,19 @@
   --ifm-link-color: #fff;
 
   body,
-  nav {
+  .menu {
     background: #2b385b;
     z-index: 1;
   }
 
-  .navbar,
-  .menu {
+  footer,
+  nav,
+  article,
+  .navbar {
     background: #202e52;
   }
+
   footer {
-    background: #202e52;
     z-index: 1;
   }
 
@@ -49,7 +51,7 @@
   }
 
   .theme-doc-footer {
-    background: #2b385c;
+    /* background: #2b385c; */
     padding-bottom: 20px;
   }
   
@@ -64,12 +66,13 @@
   }
   
   article {
-    border-bottom: 1px solid #bcd7ed;
+    padding: 20px 20px 0px 20px;
+    border-radius: 11px;
+    /* border-bottom: 1px solid #bcd7ed; */
   }
-  
+
   kbd {
     background: #2b385c;
     border: 1px solid #bcd7ed;
-
   }
 }
