@@ -1,50 +1,79 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
+import clsx from "clsx";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
+import Link from "@docusaurus/Link";
+import SearchBarWrapper from "../../theme/SearchBar";
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
+    title: "Cloud Technology",
+    Svg: require("../../svg/cloud_management.svg").default,
+    nav: "/docs/cloud",
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    title: "Domain and DNS Management",
+    Svg: require("../../svg/feature-flag.svg").default,
+    nav: "/docs/domains-and-dns-management",
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    title: "Backup and High Availability",
+    Svg: require("../../svg/coins.svg").default,
+    nav: "/docs/backup-and-high-availability",
+  },
+  {
+    title: "Email",
+    Svg: require("../../svg/email.svg").default,
+    nav: "/docs/email",
+  },
+  {
+    title: "Security",
+    Svg: require("../../svg/security_recommendations.svg").default,
+    nav: "/docs/security",
+  },
+  {
+    title: "eCommerce Stacks",
+    Svg: require("../../svg/dx-score-white.svg").default,
+    nav: "/docs/ecommerce-stacks",
+  },
+  {
+    title: "Monitoring and usage management",
+    Svg: require("../../svg/monitoring.svg").default,
+    nav: "/docs/monitoring-and-usage-management",
+  },
+  {
+    title: "Networking",
+    Svg: require("../../svg/monitoring.svg").default,
+    nav: "/docs/networking",
+  },
+  {
+    title: "Operating Systems",
+    Svg: require("../../svg/monitoring.svg").default,
+    nav: "/docs/operating-systems",
+  },
+  {
+    title: "Webcelerator",
+    Svg: require("../../svg/go-live-white.svg").default,
+    nav: "/docs/webcelerator/",
+  },
+  {
+    title: "Colocation",
+    Svg: require("../../svg/dx-score-white.svg").default,
+    nav: "/docs/colocation/",
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description, nav }) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
+    <div className={clsx("col col--4")}>
+      <Link to={nav}>
+        <div className="text--center">
+          {Svg ? <Svg className={styles.featureSvg} role="img" /> : null}
+        </div>
+        <div className="text--center padding-horiz--md">
+          <Heading as="h3">{title}</Heading>
+          <p>{description}</p>
+        </div>
+      </Link>
     </div>
   );
 }
