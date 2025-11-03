@@ -1,0 +1,6 @@
+---
+sidebar_label: 'FAQs'
+sidebar_position: 6
+---
+
+# FAQs
