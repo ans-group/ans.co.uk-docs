@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'ANS MDR'
-sidebar_position: 6
+sidebar_label: 'Carbon Black Linux Sensor Supported Distributions and Kernel Versions'
+sidebar_position: 1
 ---
 
-# ANS MDR
+# Carbon Black Linux Sensor Supported Distributions and Kernel Versions
