@@ -40,7 +40,8 @@
   footer,
   nav,
   article,
-  .navbar, .pagination-nav__link {
+  .navbar,
+  .pagination-nav__link {
     background: #202e52;
   }
 
@@ -77,4 +78,9 @@
     background: #2b385c;
     border: 1px solid #bcd7ed;
   }
+}
+
+/* Make SVGs non-interactive to prevent click interference on base url landing page */
+svg {
+  pointer-events: none;
 }
