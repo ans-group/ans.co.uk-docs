@@ -11,12 +11,12 @@ const FeatureList = [
     nav: "/docs/cloud",
   },
   {
-    title: "Domain and DNS Management",
+    title: "Domain & DNS Management",
     Svg: require("../../svg/feature-flag.svg").default,
     nav: "/docs/domains-and-dns-management",
   },
   {
-    title: "Backup and High Availability",
+    title: "Backup & High Availability",
     Svg: require("../../svg/coins.svg").default,
     nav: "/docs/backup-and-high-availability",
   },
@@ -36,9 +36,9 @@ const FeatureList = [
     nav: "/docs/ecommerce-stacks",
   },
   {
-    title: "Monitoring and usage management",
+    title: "Monitoring & Usage Management",
     Svg: require("../../svg/monitoring.svg").default,
-    nav: "/docs/monitoring-and-usage-management",
+    nav: "/docs/monitoring",
   },
   {
     title: "Networking",
