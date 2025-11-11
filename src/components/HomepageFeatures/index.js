@@ -43,7 +43,7 @@ const FeatureList = [
   {
     title: "Networking",
     Svg: require("../../svg/monitoring.svg").default,
-    nav: "/docs/networking",
+    nav: "/docs/network",
   },
   {
     title: "Operating Systems",
