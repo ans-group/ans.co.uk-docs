@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Common Changes'
+sidebar_label: "Common changes"
 sidebar_position: 3
 ---
 
-# Common Changes
+# Common changes

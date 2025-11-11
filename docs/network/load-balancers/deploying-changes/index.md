@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Deploying Changes'
+sidebar_label: "Deploying changes"
 sidebar_position: 3
 ---
 
-# Deploying Changes
+# Deploying changes

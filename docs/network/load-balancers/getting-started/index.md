@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Getting Started'
+sidebar_label: "Getting started"
 sidebar_position: 2
 ---
 
-# Getting Started
+# Getting started

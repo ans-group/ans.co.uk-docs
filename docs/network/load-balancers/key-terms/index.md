@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Key Terms'
+sidebar_label: "Key terms"
 sidebar_position: 1
 ---
 
-# Key Terms
+# Key terms

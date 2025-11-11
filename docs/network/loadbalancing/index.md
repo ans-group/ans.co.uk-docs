@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Classic Load Balancers'
-sidebar_position: 6
+sidebar_label: "Classic load balancers"
+sidebar_position: 4
 ---
 
-# Classic Load Balancers
+# Classic load balancers
