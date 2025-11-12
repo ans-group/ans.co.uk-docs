@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Operating Systems'
+sidebar_label: "Operating systems"
 sidebar_position: 9
 ---
 
-# Operating Systems
+# Operating systems
