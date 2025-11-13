@@ -1,6 +1,6 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "cPanel Overview"
 sidebar_position: 8
 ---
 
-# Overview
+# cPanel Overview
