@@ -1,6 +1,6 @@
 ---
-sidebar_label: "NFS"
-sidebar_position: 12
+sidebar_label: "Network File System (NFS)"
+sidebar_position: 1
 ---
 
-# NFS
+# Network File System (NFS)
