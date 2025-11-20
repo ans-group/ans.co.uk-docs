@@ -58,7 +58,7 @@ const FeatureList = [
   {
     title: "Colocation",
     Svg: require("../../svg/dx-score-white.svg").default,
-    nav: "/docs/ans-glass/data-centre-access",
+    nav: "/docs/colocation",
   },
   {
     title: "ANS Glass",
