@@ -53,7 +53,7 @@ const FeatureList = [
   {
     title: "Webcelerator",
     Svg: require("../../svg/go-live-white.svg").default,
-    nav: "/docs/webcelerator/",
+    nav: "/docs/webcel/",
   },
   {
     title: "Colocation",
