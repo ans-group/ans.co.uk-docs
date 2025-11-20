@@ -58,7 +58,12 @@ const FeatureList = [
   {
     title: "Colocation",
     Svg: require("../../svg/dx-score-white.svg").default,
-    nav: "/docs/colocation/",
+    nav: "/docs/colocation",
+  },
+  {
+    title: "ANS Glass",
+    Svg: require("../../svg/ans-menu-logo.svg").default,
+    nav: "/docs/ans-glass/",
   },
 ];
 
