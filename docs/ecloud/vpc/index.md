@@ -15,31 +15,30 @@ Since eCloud VPC is built on similar VMware technology to most on-premises serve
 
 Each virtual private cloud you create gives you the ability to define networking and create resources in a traditional public cloud way. Each of the VPCs are segregated at the networking layer so you can create independent pools of resources for your computing needs. eCloud VPC has the options for traditional Pay-As-You-Go or by contracting blocks of PAYG spend at discounted rates using our spend plans, with the ability to create and delete all of the resources via our control panel, APIs or command line tools.
 
-<!--
-[Navigating eCloud VPC Control Panel](./navigating-ecloud-vpc-control-panel/)
+- [Navigating eCloud VPC Control Panel](./navigating-ecloud-vpc/)
 
-[VPCs](./vpcs/)
+- [VPCs](./vpc/)
 
-[Marketplace](./marketplace/)
+- [Marketplace](./marketplace/)
 
-[Instances](./instances/)
+- [Instances](./instances/)
 
-[Volumes](./volumes/)
+- [Volumes](./volumes/)
 
-[Floating IPs](./floating-ips/)
+- [Floating IPs](./floating-ip/)
 
-[Networks](./networks/)
+- [Networks](./networks/)
 
-[Routers](./routers/)
+- [Routers](./router/)
 
-[Load Balancers](./load-balancers/)
+- [Load Balancers](./load-balancers/)
 
-[VPNs](./vpns/)
+- [VPNs](./vpn/)
 
-[Firewall Policies (North-South Firewalling)](./firewall-policies/)
+- [Firewall Policies (North-South Firewalling)](./firewall-policies/)
 
-[Network Policies (East-West Firewalling)](./network-policies/)
+- [Network Policies (East-West Firewalling)](./network-policies/)
 
-[eCloud VPC - Cost Management](./ecloud-vpc-cost-management/)
+- [eCloud VPC - Cost Management](./cost-management/)
 
-[How to Migrate to eCloud VPC](./how-to-migrate-to-ecloud-vpc/) -->
+- [How to Migrate to eCloud VPC](./migrations/)

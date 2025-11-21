@@ -7,5 +7,5 @@ sidebar_position: 13
 
 This is the area where you can monitor and manage your spend on eCloud VPC as well as look at our pricing/calculator to predict spend before purchasing eCloud VPC
 
-- Cost Management
-- Discount Plans
+- [Cost Management](./cost-management/)
+- [Discount Plans](./discount-plans/)

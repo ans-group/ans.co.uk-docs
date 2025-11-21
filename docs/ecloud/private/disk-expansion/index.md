@@ -9,8 +9,8 @@ This guide covers the process of expanding the size of your disks on our eCloud 
 
 In MyUKFast, you will be presented with options to alter your allocation of storage to a virtual machine (VM):
 
-- Add a new disk to the server
-- Resize the primary disk (suggested)
+- [Add a new disk to the server](/docs/operating-systems/linux/basics/disk-expansion/add-disk/)
+- [Resize the primary disk (suggested)](/docs/operating-systems/linux/basics/disk-expansion/resize-primary-disk/)
 
 As most customers have a simple large `/` partition, the recommended option is to resize the primary disk on the server and perform a `lvextend` on the `/` volume to make it larger. This is the easiest to perform and doesn’t require the creation of new partitions.
 

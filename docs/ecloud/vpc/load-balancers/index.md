@@ -27,11 +27,11 @@ When ready, click the `Create Load balancer` button to start the deployment. You
 
 IMAGE
 
-When the infrastructure is deployed, you will then be able to manage the configuration of your load balancer. More information on how to configure a load balancer is available in our Getting started guide.
+When the infrastructure is deployed, you will then be able to manage the configuration of your load balancer. More information on how to configure a load balancer is available in our [Getting started](/docs/network/load-balancers/getting-started/) guide.
 
 ## Managing your Load balancer
 
-eCloud Load balancers are managed from two locations, the infrastructure itself is managed from the eCloud VPC section of the Portal, but the management of the load balancer itself, is done via the Load balancer Management screens.
+eCloud Load balancers are managed from two locations, the infrastructure itself is managed from the eCloud VPC section of the Portal, but the management of the load balancer itself, is done via the [Load balancer Management](/docs/network/load-balancers/) screens.
 
 ## Deleting a Load balancer
 

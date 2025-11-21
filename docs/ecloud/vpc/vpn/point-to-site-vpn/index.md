@@ -3,7 +3,7 @@ sidebar_label: "Point-to-Site VPNs"
 sidebar_position: 2
 ---
 
-# Site-to-Site VPNs
+# Point-to-Site VPNs
 
 In eCloud VPC you have the ability to set up Point-to-Site VPNs (Virtual Private Networks), often known as Remote-Access or Client-Access VPNs, allowing remote workers to connect to your eCloud VPC networks securely from their location.
 
