@@ -11,15 +11,15 @@ For example, if you are changing network or firewall settings and accidentally l
 
 In order to access the VM console for your VMs, please browse to the list of your VMs, and find the button below:
 
-IMAGE
+![console button](../../ecloud-private-images/console/consoleButton.png)
 
 For Public VM clients, that button can be found (highlighted in green in this screenshot) here:
 
-IMAGE
+![public console button](../../ecloud-private-images/console/ConsoleButtonPublicVM.png)
 
 For Private and Hybrid VM clients, that button can be found (highlighted in green in this screenshot) here:
 
-IMAGE
+![private console button](../../ecloud-private-images/console/ConsoleButtonPrivateVM.png)
 
 ## Logging Out - Best Practice
 
