@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # eCloud Public Edit CPU
 
-f resource contention on CPU is noticed and additional resource is required this can be easily scaled within ANS Portal by selecting the VM in question which will open the below VM configuration page.
+f resource contention on CPU is noticed and additional resource is required this can be easily scaled within [ANS Portal](https://portal.ans.co.uk/ecloud-public) by selecting the VM in question which will open the below VM configuration page.
 
 IMAGE
 

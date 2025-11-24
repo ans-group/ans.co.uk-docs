@@ -5,7 +5,7 @@ sidebar_position: 11
 
 # Marketplace
 
-Specific OS customisation is available via the eCloud marketplace. From here you can chose a specific template and launch a VM pre-configured for this by selecting the template then launch appliance as shown below:
+Specific OS customisation is available via the [eCloud marketplace](https://portal.ans.co.uk/ecloud-public/marketplace). From here you can chose a specific template and launch a VM pre-configured for this by selecting the template then launch appliance as shown below:
 
 IMAGE
 
@@ -17,4 +17,4 @@ Once the specification is set you can then select to create appliance.
 
 IMAGE
 
-From here this will be visible in your eCloud public VM list, once the build is finished this will have the stack documented in the marketplace template installed.
+From here this will be visible in your eCloud public [VM list](https://portal.ans.co.uk/ecloud-public), once the build is finished this will have the stack documented in the marketplace template installed.
