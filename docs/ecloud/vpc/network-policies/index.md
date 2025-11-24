@@ -17,11 +17,11 @@ This section is exactly the same for Network Policies as Firewall policies;
 
 Add a Policy
 
-IMAGE
+![network policies create](../../vpc-images/network-policies/network-policies-create.png)
 
 Add rules to the policy
 
-IMAGE
+![network policies rules create](../../vpc-images/network-policies/network-policies-rules-create.png)
 
 ## Ordering the Network Rules
 

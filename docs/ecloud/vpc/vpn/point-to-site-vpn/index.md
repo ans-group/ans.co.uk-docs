@@ -23,11 +23,11 @@ To create a VPN Gateway, navigate to the VPN Gateway section from the eCloud VPC
 
 You will be asked to select the VPC Router you wish to deploy the Gateway behind, the Gateway specification and the number of user licenses required.
 
-IMAGE
+![vpn deploy](../../../vpc-images/point-to-point-vpn/vpn-p2s-deploy-1.png)
 
 Your Gateway will then be deployed, this may take a few moments while we configure the networking, you can track progress via the resource sync state, once complete you will be available to configure your users.
 
-IMAGE
+![vpn deploy 2](../../../vpc-images/point-to-point-vpn/vpn-p2s-deploy-2.png)
 
 ## Managing your VPN Gateway
 
@@ -47,11 +47,11 @@ To connect to your VPN Gateway, you will need to install the Cisco AnyConnect cl
 
 If you do not have a VPN client installed, you can download the AnyConnect Client from your VPN Gateway by accessing the Gateway in your browser using the hostname provided in the GLASS portal and logging in with your VPN username and password.
 
-IMAGE
+![vpn connect](../../../vpc-images/point-to-point-vpn/vpn-p2s-connect-1.png)
 
 The VPN Gateway provides users with the installation package and setup instructions for Windows, Mac and Linux devices.
 
-IMAGE
+![vpn connect 2](../../../vpc-images/point-to-point-vpn/vpn-p2s-connect-2.png)
 
 Once installed, users can connect to your VPN Gateway using the credentials created in the GLASS portal.
 

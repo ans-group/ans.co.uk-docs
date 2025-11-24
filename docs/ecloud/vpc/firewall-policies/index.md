@@ -19,23 +19,23 @@ If you have advanced networking, you may also need to add the corresponding rule
 
 To get started, you need to create a policy within the router you wish the rules to be applied to. Note that in most cases users would have default rules created for them on VPC creation, if you did not then you still have the option when there are no policies created:
 
-IMAGE
+![firewall policies](../../vpc-images/firewall-policies/firewall-policies.png)
 
 ## Create a policy - set the name for your first policy and hit the create button.
 
-IMAGE
+![firewall policies create](../../vpc-images/firewall-policies/firewall-policies-create.png)
 
 ## Add some rules to your policy
 
 Set the details of your rule, at the minute you cannot reorder rules so you need to add them in the order in which they are to be checked, or alternatively add 1 rule per policy and then you can reorder everything using the policies.
 
-IMAGE
+![firewall policies rules create](../../vpc-images/firewall-policies/firewall-policies-rules-create.png)
 
-IMAGE
+![firewall policies example](../../vpc-images/firewall-policies/firewall-policies-example.png)
 
 Add further policies & rules as you need.
 
-IMAGE
+![firewall policies example 2](../../vpc-images/firewall-policies/firewall-policies-example2.png)
 
 ## Ordering of firewall rules
 

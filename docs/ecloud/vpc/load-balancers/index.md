@@ -21,11 +21,11 @@ From the load balancer resource screen, click the `Create Load balancer` button,
 
 It is recommended that you give your load balancer an identifying name, you can now configure where you load balancer is intended to deploy to, and choose the specification size for your use case.
 
-IMAGE
+![load balancer deployment](../../vpc-images/load-balancers/load-balancer-deployment.png)
 
 When ready, click the `Create Load balancer` button to start the deployment. You will then be redirected to the overview screen for your new load balancer.
 
-IMAGE
+![load balancer deploying](../../vpc-images/load-balancers/load-balancer-deploying.png)
 
 When the infrastructure is deployed, you will then be able to manage the configuration of your load balancer. More information on how to configure a load balancer is available in our [Getting started](/docs/network/load-balancers/getting-started/) guide.
 

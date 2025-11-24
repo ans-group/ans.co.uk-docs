@@ -21,21 +21,21 @@ Set the CPU, memory and disk space for your instance, pricing can be found on th
 
 Check over the details and then press the launch instance button, in around a minute the instance should be ready for you use.
 
-IMAGE
+![instance create](../../vpc-images/instances/instance-create.png)
 
 Whilst your instance is being built you will see the following banner and the instance will be locked from changes whilst it is being built.
 
-IMAGE
+![instance building](../../vpc-images/instances/instance-building.png)
 
 Once your instance has finished building you will notice it now has a volume and NIC associated with it at the bottom of the form.
 
-IMAGE
+![instance launched](../../vpc-images/instances/instance-launched.png)
 
 ## Power
 
 There are a number of power options available for your instance; • Power on, Reset and Power off are all akin to physical operations of a server such as physically pressing the power off button • Restart and Shutdown are operating system level commands and will try to cleanly restart or shutdown your instance
 
-IMAGE
+![instance power](../../vpc-images/instances/instance-power.png)
 
 ## Instances -> Resize
 
@@ -45,11 +45,11 @@ Change with the slider or the entry box on the right for any item you wish to ch
 
 There will be a note when the changes affect the pricing of your instance:
 
-IMAGE
+![instance resize](../../vpc-images/instances/instance-resize.png)
 
 Whilst your instances size is changing, a banner will be shown and you will locked from making further changes until the request completes, once the request completes, you will be able to make further actions on your instance.
 
-IMAGE
+![instance resize complete](../../vpc-images/instances/instance-resize-complete.png)
 
 ## Instances -> Credentials
 
@@ -57,7 +57,7 @@ On your instance overview screen, click the credentials tab to view the stored p
 
 By default, passwords are hidden due to their sensitivity, you can click to copy the password to your clipboard or click on the eye symbol to view
 
-IMAGE
+![instance credentials](../../vpc-images/instances/instance-credentials.png)
 
 ## Delete Instances
 
@@ -69,4 +69,4 @@ You can delete your instances like all other resources using the trash can icon 
 
 If you wish to see what your instance is doing via it’s (virtual) console (post launch), you can launch the console for the instance from the Instances list view by clicking the ‘>\_ ‘ from the instances card. This will create an hour long session for you, note though after 15 minutes of inactivity the session will be closed.
 
-IMAGE
+![instance console](../../vpc-images/instances/instance-console.png)

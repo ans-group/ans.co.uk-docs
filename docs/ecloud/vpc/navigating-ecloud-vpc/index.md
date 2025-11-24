@@ -25,28 +25,28 @@ Status Complete
 
 The health of the resource is good
 
-IMAGE
+![completed status](../../vpc-images/navigating-ecloud-vpc/status-complete.png)
 
 Status In Progress
 
 The resource is currently being created, updated or deleted
 
-IMAGE
+![in progress status](../../vpc-images/navigating-ecloud-vpc/status-in-progress.png)
 
 Status Failed
 
 The resource, for any number of reasons has failed to create, update or delete
 
-IMAGE
+![failed status](../../vpc-images/navigating-ecloud-vpc/status-failed.png)
 
 Status Deleted
 
 The resource has been successfully deleted and will not show after a refresh.
 
-IMAGE
+![deleted status](../../vpc-images/navigating-ecloud-vpc/status-deleted.png)
 
 ## Cards
 
 Most resources we display are shown as ‘cards’ on ANS Portal, with their display name in bold on the top-left and then the most relevant information for that resource shown below. In this example of a floating IP it displays its name and then the id, the VPC it belongs to, the actual IP, where it is assigned to and its status. The card can be clicked to view further information and make changes to the resource.
 
-IMAGE
+![vpc card](../../vpc-images/navigating-ecloud-vpc/vpc-card.png)

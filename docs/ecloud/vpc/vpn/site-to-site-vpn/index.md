@@ -13,7 +13,7 @@ VPNs can be set up between eCloud VPC Routers which are in the same or different
 
 Select the region you want to create the VPN in using the dropdown on the left hand menu and navigate to the VPNs section also on the left hand menu.
 
-IMAGE
+![vpn view](../../../vpc-images/site-to-site-vpn/vpn-vpnview.png)
 
 VPNs in eCloud VPC consist of three different parts, a VPN Service, Endpoint and Session. These are explained in more detail in the below sections.
 
@@ -23,7 +23,7 @@ A VPN Service has a one-to-one mapping with a Router in eCloud VPC. This means i
 
 To create, select “Create Service”, choose a name, select the relevant VPN and Router, then select “Create Service”.
 
-IMAGE
+![vpn service](../../../vpc-images/site-to-site-vpn/vpn-vpnservice.png)
 
 ### Endpoints
 
@@ -33,7 +33,7 @@ A VPN Endpoint is also where the FIP (external IP) is assigned.
 
 To create, select “Create Endpoint”, choose a name and select the VPN Service you would like this Endpoint to be mapped to. You then have the option to choose either an existing Floating IP (external IP) or request a new one. Finally, select “Create Endpoint” to create the VPN Endpoint (this could take a few minutes to complete).
 
-IMAGE
+![vpn endpoint](../../../vpc-images/site-to-site-vpn/vpn-vpnendpoint.png)
 
 ### Sessions
 
@@ -53,7 +53,7 @@ The “Remote Networks” are the internal IPs and/or Subnets from the remote si
 
 A “Pre-Shared Key (PSK)” needs to be defined, which will need to match the PSK on the remote device.
 
-IMAGE
+![vpn session](../../../vpc-images/site-to-site-vpn/vpn-session.png)
 
 ### Profile Groups
 
