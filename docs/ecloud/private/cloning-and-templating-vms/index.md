@@ -13,7 +13,7 @@ First of all, log into your ANS Portal and choose the option **eCloud -> Hybrid*
 
 You should be presented with a screen similar to this:
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating01.png)
 
 In my client area here you can see that I currently have 1 virtual machine which I’ve named **Web Server 1**. It’s currently **Online** and has the IP address **185.207.108.208**.
 
@@ -26,23 +26,23 @@ Now I want to clone that virtual machine and build a new **Web Server 2** from i
 5. Select the **Datastore** to build the VM on. I left the default set.
 6. Click on **Launch Server** to submit the request. You can see mine listed here:
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating02.png)
 
 7. All being well you should receive a confirmation message on-screen like this:
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating03.png)
 
 8. If you click on the **View VM Details** link you will be taken back to the **VM Details** page as shown. The **Status** here reflects our request status, **Cloning from Existing…**
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating04.png)
 
 9. Back on the main page you should now see both of the VMs listed:
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating05.png)
 
 10. Then once the cloning operation has completed you will be sent a welcome email like this:
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating06.png)
 
 ## Templating VMs
 
@@ -52,16 +52,16 @@ This is very similar to the Cloning operation except we must first create the te
 
 2. Scroll down the page a little and click on **Clone to template** as shown:
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating07.png)
 
 3. You should now see a banner at the top of the page saying **Cloning VM to template…**
 
 4. If you now click on the **eCloud Hybrid** or **eCloud Private** link on the left and click on **Templates**, you should see the new template listed:
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating08.png)
 
 5. Now when you click on **Tools** and **Launch VM**, you should see the template listed as shown:
 
-IMAGE
+![cloning and templating](../../ecloud-private-images/cloning-templating-vms/CloningAndTemplating09.png)
 
 After a little while you should see the virtual machine be listed as Online. _The login details will be same as the VM the template was created from._
