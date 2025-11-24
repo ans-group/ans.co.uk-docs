@@ -8,7 +8,7 @@ const FeatureList = [
   {
     title: "Cloud Technology",
     Svg: require("../../svg/cloud_management.svg").default,
-    nav: "/docs/cloud",
+    nav: "/docs/ecloud",
   },
   {
     title: "Domain & DNS Management",

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'eCloud VPC'
+sidebar_label: "eCloud VPC"
 sidebar_position: 1
 ---
 
@@ -11,33 +11,34 @@ eCloud VPC enables you to manage every aspect of your cloud environment yourself
 
 Since eCloud VPC is built on similar VMware technology to most on-premises servers, you can migrate seamlessly without the need for significant re-architecture. You can also integrate it with your existing software and systems. All data is secured to industry relevant standards at our UK based centres with 100% data sovereignty guaranteed, and you can be confident that your system will be online 24/7 with ANS’s expert support.
 
-How eCloud VPC works
+## How eCloud VPC works
+
 Each virtual private cloud you create gives you the ability to define networking and create resources in a traditional public cloud way. Each of the VPCs are segregated at the networking layer so you can create independent pools of resources for your computing needs. eCloud VPC has the options for traditional Pay-As-You-Go or by contracting blocks of PAYG spend at discounted rates using our spend plans, with the ability to create and delete all of the resources via our control panel, APIs or command line tools.
-<!-- 
-[Navigating eCloud VPC Control Panel](./navigating-ecloud-vpc-control-panel/)
 
-[VPCs](./vpcs/)
+- [Navigating eCloud VPC Control Panel](./navigating-ecloud-vpc/)
 
-[Marketplace](./marketplace/)
+- [VPCs](./vpc/)
 
-[Instances](./instances/)
+- [Marketplace](./marketplace/)
 
-[Volumes](./volumes/)
+- [Instances](./instances/)
 
-[Floating IPs](./floating-ips/)
+- [Volumes](./volumes/)
 
-[Networks](./networks/)
+- [Floating IPs](./floating-ip/)
 
-[Routers](./routers/)
+- [Networks](./networks/)
 
-[Load Balancers](./load-balancers/)
+- [Routers](./router/)
 
-[VPNs](./vpns/)
+- [Load Balancers](./load-balancers/)
 
-[Firewall Policies (North-South Firewalling)](./firewall-policies/)
+- [VPNs](./vpn/)
 
-[Network Policies (East-West Firewalling)](./network-policies/)
+- [Firewall Policies (North-South Firewalling)](./firewall-policies/)
 
-[eCloud VPC - Cost Management](./ecloud-vpc-cost-management/)
+- [Network Policies (East-West Firewalling)](./network-policies/)
 
-[How to Migrate to eCloud VPC](./how-to-migrate-to-ecloud-vpc/) -->
+- [eCloud VPC - Cost Management](./cost-management/)
+
+- [How to Migrate to eCloud VPC](./migrations/)

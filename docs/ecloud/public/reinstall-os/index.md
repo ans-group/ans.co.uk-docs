@@ -1,6 +1,16 @@
 ---
-sidebar_label: 'Reinstall OS'
+sidebar_label: "Reinstall OS"
 sidebar_position: 10
 ---
 
 # Reinstall OS
+
+You can reinstall the originally selected OS of the virtual machine at any point by selecting the VM from the [ANS Portal](https://portal.ans.co.uk/ecloud-public) VM list then the reinstall OS button shown below:
+
+![reinstall os](../../ecloud-public-images/reinstall-os/reinstallOS.png)
+
+From here you will be prompted for your MyUKFast password as below:
+
+![confirm reinstall](../../ecloud-public-images/reinstall-os/confirmReinstall.png)
+
+This will then re-run our automation to present a fresh install of the operating system.
