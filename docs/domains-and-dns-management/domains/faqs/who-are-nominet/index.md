@@ -1,0 +1,14 @@
+---
+sidebar_label: "Who are Nominet?"
+sidebar_position: 4
+---
+
+# Who are Nominet?
+
+Nominet is an internet [registry](../what-is-a-domain-registry/) company in the UK. It manages the `.uk` domain space, and from 2014 will run `.cymru` and `.wales` too.
+
+Registering and renewing these domains are done through one of the many registrars (like ANS) that work with Nominet.
+
+Nominet will sometimes contact the registrant directly should there be a problem with a domain, or if the domain is coming up for renewal. Registrants also get an online control panel to update their contact details.
+
+Registrar changes can also be done via Nominet if a registrar is unable or unwilling to assist, but a fee is charged.
