@@ -23,10 +23,10 @@ To add the SPF record, first log into SafeDNS in ANS Glass and choose the releva
 
 If you already have `TXT` records configured for the domain you will need to add a new record.
 
-- Within the TXT record section click `Add TXT Record`. This will add a blank record at the end of the record list.
+- Within the `TXT` record section click `Add TXT Record`. This will add a blank record at the end of the record list.
 - Leave hostname blank, under value enter the `SPF` string provided by the SPF wizard, for example:
 
-IMAGE
+![spf](../../domains-images/spf1.png)
 
 - Click `Save Records` at the bottom of the page
 
@@ -34,11 +34,11 @@ If you cannot see the `TXT` Records section you will need to add a new record ty
 
 - Click `Add New Record Type` and select `Add TXT Record` from the dropdown box towards the top right corner.
 
-IMAGE
+![spf](../../domains-images/spf2.png)
 
 - You should now see the `TXT` Records section listed with your new blank record. Leave hostname blank, under value enter the `SPF` string provided by the SPF wizard:
 
-IMAGE
+![spf](../../domains-images/spf3new.png)
 
 - Click `Save Records` at the bottom of the page
 

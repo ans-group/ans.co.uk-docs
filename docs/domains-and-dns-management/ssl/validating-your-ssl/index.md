@@ -17,11 +17,11 @@ In this guide, we are going to be using the File Upload method which is the meth
 
 To complete the validation via File Upload, you will need an FTP Client to upload the verification file to your website. We will show you how to do this with FileZilla, a free and very popular FTP client.
 
-If you do not have an FTP Client, you can get FileZilla [here] (https://filezilla-project.org/download.php)
+If you do not have an FTP Client, you can get FileZilla [here](https://filezilla-project.org/download.php)
 
 First of all, ensure you are logged into your [ANS Glass](https://ans.glass) and then head to the `View Certificates` page under `SSL Certificates`. When on that page, you will see the below showing the SSL Certificates you have purchased from ANS. For this guide, we are going to be using `exampledomain.co.uk`, please substitute the domain you are covering with the SSL in these instructions to ensure that the certificate is installed correctly.
 
-IMAGE
+![list of SSLs](../../domains-images/listofssls.png)
 
 If you haven’t purchased your SSL yet, you can view the SSLs we provide and purchase the certificate(s) you need [here](https:/ans.glass).
 
@@ -29,7 +29,7 @@ Click on the certificate you wish to validate in the table which will redirect y
 
 To validate your SSL Certificate via HTTP File Upload, you need to download the `.txt` file linked within that section of the SSL page. To download the `.txt` file, click on the “this verification `.txt` file” link as shown in the screenshot below.
 
-IMAGE
+![validation ssl stage 1](../../domains-images/step1.png)
 
 Save the file somewhere easy to locate for you later on, that is the file we are going to upload to your website to validation.
 
@@ -75,7 +75,7 @@ Uploading the verification file via FileZilla:
 
 Once the verification file has been uploaded, you need to ensure it is accessible via the link shown in step 3 on your SSL page within ANS Glass. Here is a screenshot of the link for `exampledomain.co.uk`, the URL for your certificate will be different as the links are randomly generated to ensure they are unique.
 
-IMAGE
+![validation ssl stage 2](../../domains-images/step3.png)
 
 A Multi-Domain SSL requires each domain covered under the certificate to be validated. The same verification file needs to be uploaded to each site before the certificate can be issued.
 
@@ -95,7 +95,7 @@ The file’s content will look similar to the below:
 
 Once you have confirmed you are able to see the contents of the file via the link provided on the SSL page, click the red `Verify` button as shown in the screenshot below:
 
-IMAGE
+![validation ssl stage 3](../../domains-images/step4.png)
 
 Your certificate will be issued once it has been validated by the certificate issuer.
 

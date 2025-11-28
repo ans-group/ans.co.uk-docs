@@ -9,7 +9,8 @@ Private keys are generated after purchasing, renewing, reissuing or managing dom
 
 If the key isn’t copied or securely stored the SSL Certificate will need to be completed and reissued (at no extra cost). We recommend only keeping the private key until the installation is completed on all servers where it is required.
 
-Windows servers
+## Windows servers
+
 If you have a Windows server you will still need to copy the private key and store it securely as above, as this is needed to download the PFX required for installation on Windows servers.
 
 ## FAQ

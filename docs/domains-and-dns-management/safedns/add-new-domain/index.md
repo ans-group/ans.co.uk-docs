@@ -9,11 +9,11 @@ Adding a domain into the SafeDNS system allows you to manage the records for tha
 
 Before we delve into the steps required to add a domain to your SafeDNS service, please ensure you’ve configured the domain to work with our SafeDNS system. If your domain was registered with us, then you don’t need to worry about this step, but if you’ve registered the domain with an external service provider, then you may need to follow this guide before you can proceed.
 
-To begin adding a domain into the SafeDNS system, you must first login to your My UKFast client area and access the SafeDNS service via the ‘Services’ menu, which is located across the top of the page in the client area.
+To begin adding a domain into the SafeDNS system, you must first login to your ANS Glass client area and access the SafeDNS service via the `Services` menu, which is located across the top of the page in the client area.
 
-Once you’ve logged into the SafeDNS system, you will need to import the domain by creating your first record for it. You do this by clicking ‘Add Record’ in the top-right of the page. You will be presented with this:
+Once you’ve logged into the SafeDNS system, you will need to import the domain by creating your first record for it. You do this by clicking `Add Record` in the top-right of the page. You will be presented with this:
 
-IMAGE
+![add new domain](../../domains-images/addnewdomain1.png)
 
 Don’t be put off by all the fields. This is all simple to get going.
 
@@ -23,7 +23,7 @@ Next, key in the IP address of your server. This can be found by selecting the `
 
 Once this is in place, you should have something like this:
 
-IMAGE
+![add new domain](../../domains-images/addnewdomain2.png)
 
 At this point you’re ready to go and can click `Add DNS Record`, but you might want to review the next section that’s available: the e-mail section.
 

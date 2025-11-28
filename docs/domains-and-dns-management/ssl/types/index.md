@@ -3,9 +3,9 @@ sidebar_label: "ANS SSL types"
 sidebar_position: 4
 ---
 
-# Different types of SSL certificates available from UKFast
+# Different types of SSL certificates available from ANS
 
-SSL certificates come in various forms, which provide the different features that may be required by your business. The different types of certificates available through UKFast are:
+SSL certificates come in various forms, which provide the different features that may be required by your business. The different types of certificates available through ANS are:
 
 #### Single-Domain SSLs - covers `www.domain.com` and `domain.com`
 

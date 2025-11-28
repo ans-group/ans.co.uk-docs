@@ -62,7 +62,7 @@ You should protect these API credentials as you would the password to your ANS a
 Certbot will emit a warning if it detects that the credentials file can be accessed by other users on your system. The warning reads “Unsafe permissions on credentials configuration file”, followed by the path to the credentials file. This warning will be emitted each time Certbot uses the credentials file, including for renewal, and cannot be silenced except by addressing the issue (e.g., by using a command like `chmod 600` to restrict access to the file).
 :::
 
-- We should now be able to test it works, using the Lets Encrypt staging environment:
+- We should now be able to test it works, using the `Let's Encrypt` staging environment:
 
 ```
 /usr/local/bin/certbot certonly \
@@ -107,13 +107,13 @@ IMPORTANT NOTES:
   Donating to EFF:                    https://eff.org/donate-le
 ```
 
-- This has worked, so we can now switch to use the production Lets Encrypt servers instead. First we delete the staging certificate.
+- This has worked, so we can now switch to use the production `Let's Encrypt` servers instead. First we delete the staging certificate.
 
 ```
 /usr/local/bin/certbot delete --cert-name server1.ukfast.co.uk
 ```
 
-- Then request again but excluding the --test-cert option
+- Then request again but excluding the `--test-cert` option
 
 ```
 /usr/local/bin/certbot certonly \

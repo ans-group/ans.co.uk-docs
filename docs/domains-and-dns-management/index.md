@@ -7,7 +7,7 @@ sidebar_position: 2
 
 Help with managing your domains, DNS records and SSL certificates.
 
-- [Domain Name Management](./domains/)
-- [SafeDNS](./safedns/)
-- [SSL Certificates](./ssl/)
-- [Reverse DNS Records](./rdns/)
+- [Domain Name Management](./domains/index.md)
+- [SafeDNS](./safedns/index.md)
+- [SSL Certificates](./ssl/index.md)
+- [Reverse DNS Records](./rdns/index.md)

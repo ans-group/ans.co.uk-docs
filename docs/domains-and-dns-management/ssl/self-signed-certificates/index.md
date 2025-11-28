@@ -15,7 +15,7 @@ If you are not aware of the self-signed certificate, and if the SSL has not been
 
 Here is what a standard self-signed certificate warning will look like.
 
-IMAGE
+![self-signed warning](../../domains-images/selfsignedwarning.png)
 
 ## How do I create my own Self Signed Certificates?
 

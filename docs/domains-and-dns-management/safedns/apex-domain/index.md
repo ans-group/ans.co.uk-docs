@@ -5,7 +5,7 @@ sidebar_position: 10
 
 # APEX domain
 
-Your domain apex is the second (or third, depending on the TLD) level domain that is provided by your domain registrar. This is the domain that has your NS and `SOA` records set to.
+Your domain apex is the second (or third, depending on the TLD) level domain that is provided by your domain registrar. This is the domain that has your `NS` and `SOA` records set to.
 
 For example, these are apex domains:
 

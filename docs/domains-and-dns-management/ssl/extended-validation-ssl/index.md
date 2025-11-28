@@ -5,7 +5,7 @@ sidebar_position: 7
 
 # Extended Validation SSL
 
-EV SSL certificates provide the highest level of trust, giving customers greater confidence that they are conducting business through a trusted websites. To be approved for the extended validation SSL certificate, there are first several steps and prerequisites that need to be completed.
+EV SSL certificates provide the highest level of trust, giving customers greater confidence that they are conducting business through a trusted website. To be approved for the extended validation SSL certificate, there are first several steps and prerequisites that need to be completed.
 
 ## Prerequisites
 
@@ -41,7 +41,7 @@ For guidance about the different types of validation please see the following gu
 In order to complete the organisation validation you will need to register the company (if not already) with the online directory [Dun & Bradstreet](http://www.dnb.co.uk/).
 
 :::warning
-The information on Dun and Bradstreet must be true to the details provided within the `EV` docs
+The information on Dun & Bradstreet must be true to the details provided within the `EV` docs
 :::
 
 ## Call Back

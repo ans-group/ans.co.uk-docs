@@ -15,7 +15,7 @@ Select the SSL certificate you want and click `Buy Now`. You’ll be asked to pr
 
 - **File Upload** - This is typically the fastest form of validation, but requires you to have access to the webserver currently hosting the domain’s site. You will need to upload a `.txt` file to your website, which must be publicly accessible via the `Protocol` specified, either `HTTP` or `HTTPS`. If you already have an SSL-secured site that is available via `HTTPS`, you should typically choose this option when purchasing the certificate, otherwise leave this on `HTTP`.
 
-  The file will need to be accessible at `http(s)://example.com/.well-known/pki-validation/<MD5 Hash>.txt` - specific instructions are provided in MyUKFast at the point of purchase.
+  The file will need to be accessible at `http(s)://example.com/.well-known/pki-validation/<MD5 Hash>.txt` - specific instructions are provided in [ANS Glass](https://ans.glass) at the point of purchase.
 
   This file will need to be present throughout validation, but can be safely removed once the certificate has been issued.
 

@@ -9,15 +9,15 @@ This is a guide for using SafeDNS to setup subdomain delegation. If you do not h
 
 Login to the [ANS Glass](https://ans.glass/) and browse to SafeDNS.
 
-IMAGE
+![safe DNS zone](../../domains-images/safedns_zone_page.png)
 
 Note your domain `mydomain.example`
 
-Now click on `+ Add Record` and add a new zone called `sudomain.mydomain.example` This will be your new delegated zone.
+Now click on `+ Add Record` and add a new zone called `subdomain.mydomain.example` This will be your new delegated zone.
 
 Once this is created you can click on `mydomain.example` and you will see two new records.
 
-IMAGE
+![subdomain delegation](../../domains-images/subdomain_delegation_zone.png)
 
 You can now manage your zone and records for `subdomain.mydomain.example` in the new zone you just created.
 Now go back to the zone list and manage your new zone `subdomain.mydomain.example` by selecting it.
