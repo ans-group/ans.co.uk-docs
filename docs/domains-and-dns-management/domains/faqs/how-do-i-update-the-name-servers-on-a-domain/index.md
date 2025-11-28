@@ -13,8 +13,8 @@ Please note that nameservers must be set to a hostname (e.g. `ns0.ukfast.net`), 
 
 To update several name servers at once, you can use our bulk update drop down option from the Index page.
 
-IMAGE
+![update name servers](../../../domains-images/domaindropdown.png)
 
 Then you can fill in name server information for multiple domains at the same time.
 
-IMAGE
+![update name servers](../../../domains-images/nameserver.png)

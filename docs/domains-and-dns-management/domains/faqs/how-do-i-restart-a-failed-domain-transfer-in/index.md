@@ -5,7 +5,7 @@ sidebar_position: 48
 
 # How do I restart a failed domain transfer in?
 
-If you are transferring a domain to ANS Glass and the authorisation email is not responded to within 14 days, you will need to restart the transfer process.
+If you are transferring a domain to ANS and the authorisation email is not responded to within 14 days, you will need to restart the transfer process.
 
 To do this in ANS Glass go to `Domains` > `Transfer In Status`.
 

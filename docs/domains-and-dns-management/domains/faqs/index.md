@@ -40,19 +40,19 @@ sidebar_position: 5
 - [How do I resend the domain registrant verification email?](./how-do-i-resend-the-domain-registrant-verification-email/)
 - [What are the new ICANN rules for registering domains?](./what-are-the-new-icann-rules-for-registering-domains/)
 - [What are the requirements to register a .jobs domain?](./what-are-the-requirements-to-register-a-jobs-domain/)
-- [What are the special requirements for registering a .ltd.uk domain?](./what-are-the-special-requirements-for-registering-a-ltd-uk-domain/)
-- [What are the special requirements for registering a .net.uk domain?](./what-are-the-special-requirements-for-registering-a-net-uk-domain/)
-- [What are the special requirements for registering a .plc.uk domain?](./what-are-the-special-requirements-for-registering-a-plc-uk-domain/)
-- [I've just registered a .ltd.uk|.plc.uk|.net.uk domain but it's not showing as registered?](./ive-just-registered-a-ltd-uk-plc-uk-net-uk-domain-but-its-not-showing-as-registered/)
+- [What are the special requirements for registering a `.ltd.uk` domain?](./what-are-the-special-requirements-for-registering-a-ltd-uk-domain/)
+- [What are the special requirements for registering a `.net.uk` domain?](./what-are-the-special-requirements-for-registering-a-net-uk-domain/)
+- [What are the special requirements for registering a `.plc.uk` domain?](./what-are-the-special-requirements-for-registering-a-plc-uk-domain/)
+- [I've just registered a `.ltd.uk`|`.plc.uk`|`.net.uk` domain but it's not showing as registered?](./ive-just-registered-a-ltd-uk-plc-uk-net-uk-domain-but-its-not-showing-as-registered/)
 - [I've registered a domain with another company, how do I point it to my server or hosting space with you?](./ive-registered-a-domain-with-another-company-how-do-i-point-it-to-my-server-or-hosting-space-with-you/)
 - [Why hasn't my .JOBS domain registered yet?](./why-hasnt-my-jobs-domain-registered-yet/)
 
 ## Transferring
 
-- [How do I transfer a .uk domain away from ANS?](./how-do-i-transfer-a-uk-domain-away-from-ans/)
+- [How do I transfer a `.uk` domain away from ANS?](./how-do-i-transfer-a-uk-domain-away-from-ans/)
 - [How do I transfer a domain away from ANS?](./how-do-i-transfer-a-domain-away-from-ans/)
 - [How do I transfer a domain to ANS?](./how-do-i-transfer-a-domain-to-ans/)
-- [How do I transfer a non-.uk domain away from ANS?](./how-do-i-transfer-a-non-uk-domain-away-from-ans/)
+- [How do I transfer a non-`.uk` domain away from ANS?](./how-do-i-transfer-a-non-uk-domain-away-from-ans/)
 - [How do I add my domain into ANS?](./how-do-i-add-my-domain-into-ans/)
 - [What does Import my Domain do?](./what-does-import-my-domain-do/)
 - [What is a domain EPP/authorisation code?](./what-is-a-domain-epp-authorisation-code/)
@@ -81,8 +81,8 @@ sidebar_position: 5
 
 ## Owner details
 
-- [How do I change the registrant of a .uk domain?](./how-do-i-change-the-registrant-of-a-uk-domain/)
-- [Why can't I change the registrant of a .uk domain in ANS Glass?](./why-cant-i-change-the-registrant-of-a-uk-domain-in-ans-glass/)
+- [How do I change the registrant of a `.uk` domain?](./how-do-i-change-the-registrant-of-a-uk-domain/)
+- [Why can't I change the registrant of a `.uk` domain in ANS Glass?](./why-cant-i-change-the-registrant-of-a-uk-domain-in-ans-glass/)
 - [Why has Nominet suspended my domain?](./why-has-nominet-suspended-my-domain/)
 - [How do I update the name servers on a domain?](./how-do-i-update-the-name-servers-on-a-domain/)
 - [What else will trigger the validation process for an existing domain?](./what-else-will-trigger-the-validation-process-for-an-existing-domain/)
@@ -97,5 +97,5 @@ sidebar_position: 5
 
 ## DNS Requirements
 
-- [What are the DNS requirements for .DE Domains](./what-are-the-dns-requirements-for-de-domains/)
-- [What are the DNS requirements for .IT domains?](./what-are-the-dns-requirements-for-it-domains/)
+- [What are the DNS requirements for `.DE` Domains](./what-are-the-dns-requirements-for-de-domains/)
+- [What are the DNS requirements for `.IT` domains?](./what-are-the-dns-requirements-for-it-domains/)

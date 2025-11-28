@@ -13,4 +13,4 @@ When registering a domain in ANS Glass, a TM icon appears next to any available 
 
 Here’s an example of the agreement page:
 
-IMAGE
+![trademark notice agreement](../../../domains-images/domainstrademark.png)

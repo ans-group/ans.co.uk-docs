@@ -5,7 +5,7 @@ sidebar_position: 64
 
 # Why can't I change the registrant of a `.uk` domain in ANS Glass?
 
-To change the registrant of a `.uk` domain you need to complete the transfer process through [Nominet](../who-are-nominet/). Please note there will be a fee of £10 VAT.
+To change the registrant of a `.uk` domain you need to complete the transfer process through [Nominet](../who-are-nominet/). Please note there will be a fee of £10 plus VAT.
 
 To do this, access your Nominet account and select `Your Domains` > `Registrant Transfer` tab. You can then select the domain name(s) you would like to transfer; and confirm the new registrant’s email address, and who will pay the transfer fee.
 

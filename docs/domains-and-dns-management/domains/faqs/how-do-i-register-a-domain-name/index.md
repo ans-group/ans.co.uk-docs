@@ -9,32 +9,32 @@ If you decide that you want to register a domain with ANS, there are 7 easy step
 
 1. Go to the Services tab at the top of ANS Glass. From the drop down menu go to `Register Your Domain Name` under the `Domains` subheading.
 
-IMAGE
+![register a domain name](../../../domains-images/domainreg10.png)
 
 2. You will then be able to see popular domain extensions and prices, along with the upcoming gTLD launch dates.
 
-IMAGE
+![register a domain name](../../../domains-images/domainreg1.png)
 
 3. Enter your desired domain name in the search bar. You will then see if that domain and any possible extensions are available. This section will also let you know the price for the domain, depending on how many years you wish to reserve it for; and you can buy multiple domains at a time.
 
-Note: If you would like to purchase one of the new release gTLDs the registrant will need to confirm it before it can be fully registered.
+   Note: If you would like to purchase one of the new release gTLDs the registrant will need to confirm it before it can be fully registered.
 
-Add your chosen option to your basket and it will appear on the right hand side.
+   Add your chosen option to your basket and it will appear on the right hand side.
 
-IMAGE
+![register a domain name](../../../domains-images/domainreg3.png)
 
 4. Enter your details including contact information for the client you wish to register the domain name for, or select from your existing list of clients.
 
-IMAGE
+![register a domain name](../../../domains-images/domainreg5.png)
 
 5. Double check the information in your basket before proceeding to checkout.
 
-IMAGE
+![register a domain name](../../../domains-images/domainreg6.png)
 
 6. You will then be charged for payment. Choose your preferred card or enter a new one.
 
-IMAGE
+![register a domain name](../../../domains-images/domainreg7.png)
 
 7. Your registration is complete; you will receive a confirmation payment reference. You can also create SafeDNS templates for your new domain, which is particularly useful if you are registering multiple domains. You can also order SSL for your new domain at this point.
 
-IMAGE
+![register a domain name](../../../domains-images/domainreg8.png)

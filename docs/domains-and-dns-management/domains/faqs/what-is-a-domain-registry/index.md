@@ -3,7 +3,7 @@ sidebar_label: "What is a domain registry?"
 sidebar_position: 2
 ---
 
-# Domain Name What is a domain registry?
+# What is a domain registry?
 
 A domain registry holds a database of domain names, and information that goes with them, like who owns it and when it expires. Each registry maintains different TLDs, for example, Nominet looks after `.uk` [domain names](../what-is-a-domain-name/) and DENIC does the same for `.de` in Germany.
 

@@ -5,14 +5,14 @@ sidebar_position: 35
 
 # I've registered a domain with another company, how do I point it to my server or hosting space with you?
 
-To connect your domain to your UKFast server, you need to edit the DNS zone for the domain. This can be done in one of two ways:
+To connect your domain to your ANS server, you need to edit the DNS zone for the domain. This can be done in one of two ways:
 
 1. You can use your domain registrar’s control panel to edit the DNS records and configure it to point at your solution
 2. You can use our SafeDNS system to manage the DNS records.
 
 If you decide on the first option, then your registrar’s control panel should provide guidance on the below. Their service is going to look different to our SafeDNS interface, so things might be done in a slightly different manner. However, the theory is the same and so are the details you need to key into their system.
 
-If you want to us our SafeDNS system, then you must first point your domain at our name servers:
+If you want to use our SafeDNS system, then you must first point your domain at our name servers:
 
 1. `ns0.ukfast.net`
 

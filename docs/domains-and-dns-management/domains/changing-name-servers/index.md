@@ -15,7 +15,7 @@ To change nameservers, you’ll first need to login to the [ANS Glass](https://p
 
 `Products & Services` > `Domains`
 
-Once here, select the domain you’re looking to modify the nameservers for and select the `nameservers` tab
+Once here, select the domain you’re looking to modify the nameservers for and select the `nameservers` tab.
 
 On this page you should see a list of your existing nameservers. To change these, simply delete the existing records from their field, replace these with your new nameservers and save your changes.
 

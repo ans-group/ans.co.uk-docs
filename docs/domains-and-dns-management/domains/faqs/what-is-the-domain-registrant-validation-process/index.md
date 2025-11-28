@@ -17,7 +17,7 @@ On days 10 and 13 reminders are sent to the Admin, Tech and Billing contacts to 
 
 This same process will take place if a “WHOIS Data Reminder Policy” (WDRP) notice, 30 day expiration notice or five day expiration notice bounces.
 
-For domains registered with UKFast: When viewing a domain, extra information will be presented to you to let you know that the registrant contact has not been validated and you have the ability to resend the validation e-mails again.
+For domains registered with ANS: When viewing a domain, extra information will be presented to you to let you know that the registrant contact has not been validated and you have the ability to resend the validation e-mails again.
 
 If your domain is suspended you can remove the suspension by resending the validation email via the View Domain Overview screen in ANS Glass. You can also change the email address that receives the email from the View Domain Registrant screen.
 

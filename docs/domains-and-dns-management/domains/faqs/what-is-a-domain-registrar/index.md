@@ -9,4 +9,4 @@ A domain registrar is a company that offers [domain name](../what-is-a-domain-na
 
 If you buy a domain name through one registrar you can switch to another; which you might do because of competitive pricing, features, or a problem with the registrar.
 
-UKFast offers over [(130 domain extensions)](https://www.ans.co.uk/cloud-services/managed-hosting/), and you can transfer in from another registrar.
+ANS offers over [(130 domain extensions)](https://www.ans.co.uk/cloud-services/managed-hosting/), and you can transfer in from another registrar.

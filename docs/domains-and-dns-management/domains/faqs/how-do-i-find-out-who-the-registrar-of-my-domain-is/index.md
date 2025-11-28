@@ -13,7 +13,7 @@ For all other domains, you can still find the information through [WHOIS](../wha
 
 This is because many companies offer domain registration through one of the larger domain registrars such as Tucows or Enom.
 
-The WHOIS tool should show who your primary registrar is, and from there you can then go to their site where they will usually have a “”find your domain provider”” tool. By entering your domain here it should tell you who the registrar is for that domain.
+The WHOIS tool should show who your primary registrar is, and from there you can then go to their site where they will usually have a “find your domain provider” tool. By entering your domain here it should tell you who the registrar is for that domain.
 
 [Tucows Provider Look up](https://tucowsdomains.com/provider-search/)
 

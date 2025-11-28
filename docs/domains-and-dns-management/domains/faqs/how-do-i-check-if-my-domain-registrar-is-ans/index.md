@@ -13,10 +13,13 @@ For all other domains you can use [WHOIS](../what-is-whois/) to find out who you
 
 The registrar for any ANS domains will be either Enom or Tucows.
 
+```
 Domain Name: UKFAST.COM
 Registry Domain ID: 10737741_DOMAIN_COM-VRSN
 Registrar WHOIS Server: whois.enom.com
 Registrar URL: www.enom.com
+```
+
 However, the quickest and easiest way to find out is to go to the domains section on ANS Glass.
 
 There it will tell you if the domain is with us. You can then edit its details and name servers, and will have the option to renew the domain.

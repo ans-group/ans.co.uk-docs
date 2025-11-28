@@ -15,7 +15,7 @@ For a domain with a `.uk` TLD, moving it to ANS from another registrar should ju
 
 ## Non `.uk` domains
 
-For a non `.uk` TLD domain, the process is slightly more complicated. The first step you need to undertake it to ensure that the `administrative contact` for the domain has a valid email address against it. This address will be needed in the process, so if it’s out of date or inaccurate it’ll need to be updated to a valid managed inbox. This information can be checked with a `WHOIS` lookup. We have one here but any should suffice.
+For a non `.uk` TLD domain, the process is slightly more complicated. The first step you need to undertake it to ensure that the `administrative contact` for the domain has a valid email address against it. This address will be needed in the process, so if it’s out of date or inaccurate it’ll need to be updated to a valid managed inbox. This information can be checked with a `WHOIS` lookup. We have one [here](https://ans.glass) but any should suffice.
 
 :::note
 If you use any privacy protection services that could replace or otherwise obfuscate this email address in the WHOIS database, it’s possible you may have to temporarily disable this. Again, the support team of the registrar providing this service should be able to confirm.

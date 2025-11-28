@@ -3,7 +3,7 @@ sidebar_label: "Transferring from ANS"
 sidebar_position: 2
 ---
 
-# Transferring a domain from ANS
+# Transferring a domain away from ANS
 
 :::note
 This process contains a lot of the same steps as our article on transferring domains into ANS, just from the inverse perspective: - [Transferring a Domain to ANS](../transfer-in/)
@@ -11,7 +11,7 @@ This process contains a lot of the same steps as our article on transferring dom
 
 # `.uk` domains
 
-To transfer a `.uk` domain away from ANS go to Domains > Transfer out, or follow [this link](https://portal.ans.co.uk/domains/transfer_out_stage1.php). Here you can to select the domain(s) you wish to transfer away from ANS from the left hand list, move it to the list on the right, and hit the Next button.
+To transfer a `.uk` domain away from ANS go to `Domains` > `Transfer out`, or follow [this link](https://portal.ans.co.uk/domains/transfer_out_stage1.php). Here you can to select the domain(s) you wish to transfer away from ANS from the left hand list, move it to the list on the right, and hit the `Next` button.
 
 On the next page you will need to enter the `IPS tag` of the registrar you are transferring the domain to. Start typing into the bar to bring up the tags of different registrars, which you can then select from. If you don’t know this tag, it’s worth contacting your new registrar to confirm which tag to use.
 
