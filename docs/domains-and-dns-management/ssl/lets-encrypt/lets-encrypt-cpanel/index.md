@@ -21,11 +21,11 @@ If not installed already, then you will need to [ssh](../../../../operating-syst
 
 Next, open `WHM` and search for **Manage AutoSSL**.
 
-IMAGE
+![AutoSSL search](../../../domains-images/cpanel_autossl_search.png)
 
 Here, you will have a list of providers, and `Let’s Encrypt` will be one of them.
 
-IMAGE
+![Enable autoSSL](../../../domains-images/cpanel_autossl_letsencrypt_enable.png)
 
 Select this provider, and after agreeing to the terms of service this will be available for you to use.
 
@@ -39,7 +39,7 @@ Once you have selected `Let's Encrypt` as a provider, it’s time to generate ce
 
 In the `AutoSSL` section of `WHM`, click on the `Manage Users` tab. Here you will have both global and per account options for enabling/disabling `AutoSSL`.
 
-IMAGE
+![AutoSSL users](../../../domains-images/cpanel_autossl_manageusers.png)
 
 Once enabled, certificates will be automatically renewed close to the expiration date of the SSL.
 
@@ -47,6 +47,6 @@ Once enabled, certificates will be automatically renewed close to the expiration
 
 If you are having issues with generating a certificate, the first place you should check is the **logs** tab in `AutoSSL`
 
-IMAGE
+![AutoSSL logs](../../../domains-images/cpanel_autossl_logs.png)
 
 This should highlight any `Let’s Encrypt` challenge issues you may have. Beyond this, you can raise a support ticket and we can help identify the underlying issues with you.

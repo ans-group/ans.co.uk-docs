@@ -87,7 +87,7 @@ There a couple of different options that `acme.sh` supports for issuing certific
 
 For `webroot` verification you will need to know the document root of your site. You can usually find this information from your web server config files, although commonly they are found in the `/var/www` directory.
 
-Once we know where the document root, is we can begin with issuing certificates.
+Once we know where the document root is we can begin with issuing certificates.
 
 For securing a standard website with `www.` and non-`www.`
 

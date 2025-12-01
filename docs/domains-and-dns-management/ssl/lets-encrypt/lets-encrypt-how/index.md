@@ -50,7 +50,8 @@ If using an API, such as our [SafeDNS API](../../../safedns/safedns-api/), this 
 You should always factor in **DNS propagation** when using this challenge method
 :::
 
-### TLS-ALPN-01
+### TLS-ALPN-01
+
 `TLS-ALPN-01` challenges are currently **not** supported by `certbot`. This type of challenge uses `HTTPS` validation via `TLS`, but requires for the server to be using the `ALPN` protocol. As this is not very common currently, we would recommend you use `HTTP-01` or `DNS-01` as your challenge method.
 
 ## Rate Limits
