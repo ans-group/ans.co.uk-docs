@@ -15,21 +15,21 @@ sidebar_position: 2
 
    - Tick the box “Allow this Veeam Backup & Replication Installation to be managed by the service provider” - this is required for license reporting through our VAC console and also to provide you with licenses if you are purchasing one through ANS. We will not be able to control your Veeam server without these credentials.
 
-   - Select “Next”.
+   - Select `Next`.
 
-[]
+![connect to service provider](../../../backup-availability-images/connecttoserviceprovider.png)
 
 5. Ensure that next to “Verified by” it says “CN=Let’s Encrypt Authority”.
 
 6. If you click on the `Certificate` > `Details` the **Subject** field should be `*.vdraas.ukfast.co.uk`.
 
-[]
+![connect to service provider - certificate](../../../backup-availability-images/connecttoserviceprovider_cert.png)
 
 7. Select `Add…` in the bottom right to add the credentials provided to you by ANS.
 
 8. Select `Apply`.
 
-[]
+![connect to service provider - add credentials](../../../backup-availability-images/connecttoserviceprovider_credentials.png)
 
 9. **Replica Resources** - This section shows you the DRaaS resources provided to you by ANS. Please double check these are correct and get in touch with us if you believe they are not.
 
@@ -42,7 +42,7 @@ sidebar_position: 2
     - **Network** - Select the internal network for the appliance. This section needs to be different for each appliance, if you are launching multiple.
     - **IP address** - The NEA Appliance needs to be given an internal IP address on the network it is going to be attached to. This can be done manually or via DHCP if you have a server set up.
 
-[]
+![connect to service provider - add nea](../../../backup-availability-images/connecttoserviceprovider_add_nea.png)
 
 12. Select `Apply` and then `Next`.
 
