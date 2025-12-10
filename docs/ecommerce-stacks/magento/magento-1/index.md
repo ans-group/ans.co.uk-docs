@@ -3,7 +3,7 @@ sidebar_label: "Magento 1"
 sidebar_position: 1
 ---
 
-# Magento 1
+# [Magento 1](https://business.adobe.com/products/commerce.html)
 
 The ANS Magento 1 optimised stack has been going since 2008. The core components of this stack are:
 
