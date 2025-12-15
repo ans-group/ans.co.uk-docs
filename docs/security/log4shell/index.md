@@ -1,6 +1,20 @@
 ---
-sidebar_label: "Log4J vulnerability"
 sidebar_position: 16
+sidebar_label: "Log4J vulnerability"
+title: Log4J vulnerability
+description: Information regarding the Log4J vulnerability with remediation advice
+keywords:
+  - ukfast
+  - ans
+  - linux
+  - security
+  - vulnerability
+  - log4j
+  - log4shell
+  - java
+  - elasticsearch
+  - tomcat
+  - solr
 ---
 
 # Log4J vulnerability

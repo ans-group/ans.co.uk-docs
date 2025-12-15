@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Wana Decryptor / Wana Decrypt0r 2.0 / WannaCry"
 sidebar_position: 15
+sidebar_label: "Wana Decryptor / Wana Decrypt0r 2.0 / WannaCry"
+title: Wana Decryptor / Wana Decrypt0r 2.0 / WannaCry
+description: Information on patching the WannaCry vulnerability
+keywords:
+  - ukfast
+  - ans
+  - pci
+  - dss
+  - security
+  - vulnerability
+  - cryptolock
+  - wannacry
 ---
 
 # Wana Decryptor / Wana Decrypt0r 2.0 / WannaCry

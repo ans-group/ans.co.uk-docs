@@ -1,9 +1,22 @@
 ---
-sidebar_label: "Brute Force Attacks"
 sidebar_position: 9
+sidebar_label: "Brute force attacks"
+title: Brute force attacks
+description: Basic overview on what brute force attacks are, how to identify, and mitigate them
+keywords:
+  - ukfast
+  - ans
+  - linux
+  - security
+  - brute force
+  - wordpress
+  - password
+  - login
+  - hacking
+  - security
 ---
 
-# Brute Force Attacks
+# Brute force attacks
 
 ## What is a brute force attack?
 

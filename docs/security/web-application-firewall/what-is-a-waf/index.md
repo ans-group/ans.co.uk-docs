@@ -1,6 +1,16 @@
 ---
-sidebar_label: "What is a Web Application Firewall?"
 sidebar_position: 1
+sidebar_label: "What is a Web Application Firewall?"
+title: What is a Web Application Firewall
+description: General information on Web Application Firewalls and how they work
+keywords:
+  - ukfast
+  - ans
+  - ddosx
+  - web application firewall
+  - waf
+  - owasp
+  - owasp top 10
 ---
 
 # What is a Web Application Firewall?

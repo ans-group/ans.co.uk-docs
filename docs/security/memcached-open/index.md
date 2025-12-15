@@ -1,6 +1,19 @@
 ---
-sidebar_label: "Memcached security concerns and reflection/amplification DDoS attacks"
 sidebar_position: 14
+sidebar_label: "Memcached security concerns and reflection/amplification DDoS attacks"
+title: Memcached security concerns and reflection/amplification DDoS attacks
+description: Guidance on securing open Memcached instances
+keywords:
+  - ukfast
+  - ans
+  - linux
+  - security
+  - vulnerability
+  - memcached
+  - hosting
+  - ddos
+  - reflection
+  - amplification
 ---
 
 # Memcached security concerns and reflection/amplification DDoS attacks

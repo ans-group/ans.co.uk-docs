@@ -1,6 +1,15 @@
 ---
-sidebar_label: "Polkit security vulnerability CVE-2021-4034"
 sidebar_position: 17
+sidebar_label: "Polkit security vulnerability CVE-2021-4034"
+title: Polkit security vulnerability CVE-2021-4034
+description: Information on Polkit security vulnerability CVE-2021-4034
+keywords:
+  - ukfast
+  - ans
+  - linux
+  - security
+  - vulnerability
+  - polkit
 ---
 
 # Polkit security vulnerability CVE-2021-4034

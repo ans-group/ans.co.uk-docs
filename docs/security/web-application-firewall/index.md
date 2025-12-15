@@ -1,6 +1,15 @@
 ---
-sidebar_label: "Web Application Firewall"
 sidebar_position: 2
+sidebar_label: "Web Application Firewall"
+title: Web Application Firewall
+description: General information relating to ANS Web Application Firewalls
+keywords:
+  - ukfast
+  - ans
+  - ddosx
+  - web application firewall
+  - waf
+  - owasp top 10
 ---
 
 # Web Application Firewall

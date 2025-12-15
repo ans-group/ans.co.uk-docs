@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Security"
 sidebar_position: 5
+sidebar_label: "Security"
+title: Security | ANS Documentation
+description: Security guidance on ANS security products and general best practices
+keywords:
+  - ans
+  - ukfast
+  - security
+  - ddos
+  - cyber
+  - attack
+  - threats
+  - ddosx
 ---
 
 # Security

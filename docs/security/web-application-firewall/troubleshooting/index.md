@@ -1,6 +1,16 @@
 ---
-sidebar_label: "Troubleshooting (hardware-based WAFs)"
 sidebar_position: 5
+sidebar_label: "Troubleshooting (hardware-based WAFs)"
+title: Troubleshooting (hardware-based WAFs)
+description: Help to troubleshoot common problems when using a Web Application Firewall
+keywords:
+  - ukfast
+  - ans
+  - ddosx
+  - web application firewall
+  - waf
+  - owasp
+  - owasp top 10
 ---
 
 # Troubleshooting (hardware-based WAFs)

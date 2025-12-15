@@ -1,6 +1,17 @@
 ---
-sidebar_label: "ANS Protect"
 sidebar_position: 1
+sidebar_label: "ANS Protect"
+title: ANS Protect
+description: Guidance on ANS's security and monitoring products and general best practices
+keywords:
+  - ans
+  - security
+  - cyber attack
+  - threats
+  - NGAV
+  - EDR
+  - XDR
+  - MDR
 ---
 
 # ANS Protect

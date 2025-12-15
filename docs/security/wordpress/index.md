@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Keeping Wordpress secure"
 sidebar_position: 8
+sidebar_label: "Keeping WordPress secure"
+title: Keeping WordPress secure
+description: How to prevent the most common WordPress security problems
+keywords:
+  - ukfast
+  - ans
+  - hosting
+  - wp
+  - wordpress
+  - clamscan
+  - security
+  - hacking
 ---
 
 # Keeping Wordpress secure

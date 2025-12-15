@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Meltdown & Spectre"
 sidebar_position: 13
+sidebar_label: "Meltdown & Spectre"
+title: Meltdown and Spectre
+description: Detailed guidance on identifying and patching the Meltdown vulnerability on Linux
+keywords:
+  - ukfast
+  - ans
+  - linux
+  - security
+  - vulnerability
+  - meltdown
+  - spectre
+  - hosting
 ---
 
 # Meltdown & Spectre

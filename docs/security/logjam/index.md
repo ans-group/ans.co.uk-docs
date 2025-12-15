@@ -1,6 +1,19 @@
 ---
-sidebar_label: "The Logjam attack"
 sidebar_position: 12
+sidebar_label: "The Logjam attack"
+title: The Logjam attack
+description: How to prevent Logjam attacks based on weak Diffie-Hellman key exchange
+keywords:
+  - logjam
+  - ssl
+  - tls
+  - attack
+  - attacks
+  - log
+  - jam
+  - diffie hellman
+  - ans
+  - ukfast
 ---
 
 # The Logjam attack
@@ -19,13 +32,13 @@ Without going into the maths, DH is based on the exchange of large prime numbers
 
 Plesk 12.5 and higher provide a single script to manage encryption, server-wide. To ensure you're using the encryption settings recommended by Plesk, run following command:
 
-```console
+```
    plesk sbin pci_compliance_resolver --enable
 ```
 
 Alternatively, if you wish to address the Logjam attack only without changing other settings:
 
-```console
+```
    plesk sbin sslmng --strong-dh
 ```
 
@@ -33,7 +46,7 @@ Alternatively, if you wish to address the Logjam attack only without changing ot
 
 To generate a new set of prime numbers for DH to use, run the following command. Please note that generating large prime numbers is a fairly intensive task, so where possible avoid running this on a live server already under high load:
 
-```console
+```
 openssl dhparam -out dhparams.pem 2048
 ```
 
@@ -41,7 +54,7 @@ openssl dhparam -out dhparams.pem 2048
 
 The parameters to change are:
 
-```console
+```
 SSLCipherSuite At least add :!EXPORT, if possible use a modern configuration.
 SSLHonorCipherOrder on
 ```
@@ -50,7 +63,7 @@ SSLHonorCipherOrder on
 
 The parameters to change are:
 
-```console
+```
 ssl_ciphers At least add :!EXPORT, if possible use a modern configuration.
 ssl_prefer_server_ciphers on;
 ssl_dhparam /path/to/dhparams.pem;
@@ -60,26 +73,26 @@ ssl_dhparam /path/to/dhparams.pem;
 
 Add KexAlgorithms to `sshd_config` to avoid algorithms that use DH key exchange with weak keys:
 
-```console
+```
 KexAlgorithms curve25519-sha256@libssh.org, diffie-hellman-group-exchange-sha256
 ```
 
 Change the existing moduli so 1024 bit keys are not available:
 Remove all DH moduli < 2048
 
-```console
+```
 awk '$5 > 2000' /etc/ssh/moduli > ~/moduli
 ```
 
 Check new file looks OK, and doesn't have any 1024 bit keys, then if it's good, copy it into place:
 
-```console
+```
 mv ~/moduli" /etc/ssh/moduli
 ```
 
 Or generate new ones from scratch. This is more computationally expensive, but gives you all new keys:
 
-```console
+```
 ssh-keygen -G moduli.candidates -b 2048 (or 4096 if you're paranoid)
 ssh-keygen -T moduli.safe -f moduli.candidates
 mv moduli.safe /etc/ssh/moduli

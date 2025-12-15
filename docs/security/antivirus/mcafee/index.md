@@ -1,6 +1,15 @@
 ---
-sidebar_label: "Scanning configuration"
 sidebar_position: 1
+sidebar_label: "Scanning configuration"
+title: Scanning configuration
+description: Details on McAfee scanning configuration
+keywords:
+  - antivirus
+  - mcafee
+  - file scan
+  - scanning configuration
+  - ans
+  - ukfast
 ---
 
 # Scanning configuration

@@ -1,6 +1,16 @@
 ---
-sidebar_label: "Getting started with a Web Application Firewall (hardware-based)"
 sidebar_position: 3
+sidebar_label: "Getting started with a Web Application Firewall (hardware-based)"
+title: Getting started with a Web Application Firewall (hardware-based)
+description: Help with setting up a hardware-based Web Application Firewall from ANS
+keywords:
+  - ukfast
+  - ans
+  - ddosx
+  - web application firewall
+  - waf
+  - owasp
+  - owasp top 10
 ---
 
 # Getting started with a Web Application Firewall (hardware-based)

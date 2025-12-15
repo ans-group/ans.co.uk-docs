@@ -1,6 +1,16 @@
 ---
-sidebar_label: "CryptoLocker"
 sidebar_position: 10
+sidebar_label: "CryptoLocker"
+title: CryptoLocker
+description: Best practice advice on protecting against CryptoLocker attacks
+keywords:
+  - ukfast
+  - ans
+  - hosting
+  - crypto
+  - cryptolocker
+  - security
+  - hacking
 ---
 
 # CryptoLocker

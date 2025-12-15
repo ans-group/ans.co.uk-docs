@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Dirty COW"
 sidebar_position: 11
+sidebar_label: "Dirty COW"
+title: Dirty COW
+description: Guidance on patching the Dirty COW vulnerability
+keywords:
+  - vulnerability
+  - dirty cow
+  - patching
+  - security
+  - dss
+  - pci
+  - security
+  - ans
+  - ukfast
 ---
 
 # Dirty COW
