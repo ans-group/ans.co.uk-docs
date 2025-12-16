@@ -1,6 +1,19 @@
 ---
-sidebar_label: "Email"
 sidebar_position: 6
+sidebar_label: "Email"
+title: Email
+description: Information regarding a wide range of email related issues
+keywords:
+  - ukfast
+  - ans
+  - email
+  - mail
+  - exim
+  - postfix
+  - dovecot
+  - blocklist
+  - dkim
+  - spf
 ---
 
 # Email
