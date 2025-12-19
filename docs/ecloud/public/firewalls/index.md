@@ -1,6 +1,19 @@
 ---
-sidebar_label: "Firewalls"
 sidebar_position: 12
+sidebar_label: "Firewalls"
+title: Firewalls
+description: A guide on dedicated and shared firewalls with ANS including information on VPNs
+keywords:
+  - ans
+  - ukfast
+  - networking
+  - networks
+  - firewall
+  - dedicated firewall
+  - shared firewall
+  - vpn
+  - cloud
+  - public cloud
 ---
 
 # Firewalls
@@ -11,7 +24,7 @@ Our dedicated firewalls allow much finer control, as well as advanced features l
 
 ## General ANS firewall information
 
-- [Accessing your firewall configuration through ANS Glass](/docs/network/firewalls/viewconfig/)
+- [Accessing your firewall configuration through ANS Glass](/docs/network/firewalls/view-config/)
 - [Enabling ICMP traffic to ANS servers](/docs/network/firewalls/icmp/)
 
 ## ANS shared firewall guides
@@ -22,17 +35,17 @@ Our dedicated firewalls allow much finer control, as well as advanced features l
 ## ANS dedicated firewall guides
 
 - [Managing ports your dedicated firewall](/docs/network/firewalls/dedi-openport/)
-- [The Access List - Single VLAN](/docs/network/firewalls/dedi-openport/the-access-list-single-vlan/)
-- [The Access List - Multi VLAN](/docs/network/firewalls/dedi-openport/the-access-list-multi-vlan/)
+- [The Access List - Single VLAN](/docs/network/firewalls/dedi-openport/#the-access-list---single-vlan)
+- [The Access List - Multi VLAN](/docs/network/firewalls/dedi-openport/#the-access-list---multi-vlan)
 - [How to secure your dedicated firewall](/docs/network/firewalls/dedi-lockdown/)
 - [Scheduling a dedicated firewall reboot](/docs/network/firewalls/schedule-firewall-reboot/)
 
 ## ANS VPNs on dedicated firewalls
 
-- [ANS-supported VPNs](/docs/network/firewalls/supportedvpns/)
-- [VPN Dashboard](/docs/network/firewalls/vpntab/)
+- [ANS-supported VPNs](/docs/network/firewalls/supported-vpns/)
+- [VPN Dashboard](/docs/network/firewalls/vpn-tab/)
 - [Remote Access VPN Dashboard](/docs/network/firewalls/ra-vpn-tab/)
 - [Site To Site VPN Dashboard](/docs/network/firewalls/s2s-vpn-tab/)
-- [User Administration For AnyConnect VPN](/docs/network/firewalls/vpnusers/)
-- [Two factor authentication (2FA) VPNs](/docs/network/firewalls/vpn2fa/)
-- [VPN capacity on ANS dedicated firewalls](/docs/network/firewalls/vpncapacity/)
+- [User Administration For AnyConnect VPN](/docs/network/firewalls/vpn-users/)
+- [Two factor authentication (2FA) VPNs](/docs/network/firewalls/vpn-2fa/)
+- [VPN capacity on ANS dedicated firewalls](/docs/network/firewalls/vpn-capacity/)
