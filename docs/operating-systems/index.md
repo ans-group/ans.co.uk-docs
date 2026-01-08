@@ -16,6 +16,6 @@ keywords:
 
 Information and guidance relating to the Linux and Windows operating systems.
 
-- [Linux](./linux/)
-- [VMware ESXi](./vmware-esxi/)
-- [Windows](./windows/)
+- [Linux](./linux/index.md)
+- [VMware ESXi](./vmware-esxi/index.md)
+- [Windows](./windows/index.md)

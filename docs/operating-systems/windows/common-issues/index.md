@@ -21,6 +21,6 @@ title: "Common issues"
 - [Testing websites](./testing-websites/)
 - [Cleaning the WBEM repository](./wbem/)
 - [How to enable file download in Internet Explorer on a Windows Server](./ie-file-download/)
-  - [In Windows Server 2008/2008R2 & Windows Server 2012/2012R2](./ie-file-download/)
-  - [In Windows Server 2016](./ie-file-download/)
+  - [In Windows Server 2008/2008R2 & Windows Server 2012/2012R2](./ie-file-download/#in-windows-server-20082008r2--windows-server-20122012r2)
+  - [In Windows Server 2016](./ie-file-download/#in-windows-server-2016)
 - [Changing Windows updates installation options](./windows-updates/)
