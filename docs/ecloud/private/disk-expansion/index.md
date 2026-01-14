@@ -1,13 +1,13 @@
 ---
-sidebar_label: "Disk Expansion (eCloud)"
+sidebar_label: "Disk expansion (eCloud)"
 sidebar_position: 3
 ---
 
-# Disk Expansion (eCloud)
+# Disk expansion (eCloud)
 
 This guide covers the process of expanding the size of your disks on our eCloud Public and Private platforms.
 
-In MyUKFast, you will be presented with options to alter your allocation of storage to a virtual machine (VM):
+In ANS Glass, you will be presented with options to alter your allocation of storage to a virtual machine (VM):
 
 - [Add a new disk to the server](/docs/operating-systems/linux/basics/disk-expansion/add-disk/)
 - [Resize the primary disk (suggested)](/docs/operating-systems/linux/basics/disk-expansion/resize-primary-disk/)
@@ -18,8 +18,8 @@ If you would like to add custom partitions to your server (to separate `/` and `
 
 Resizing disks should be done with care as it can lead to data loss. If you are uncomfortable with resizing a disk you could add a new separate disk.
 
-For users without Commvault or UKFast Backup in place:
-
 :::warning
+**For users without Commvault or ANS Backup in place:**
+
 Before resizing any disk or performing any changes to the logical volume configuration on the server, please ensure that you have taken a backup of your data.
 :::

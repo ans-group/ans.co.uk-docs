@@ -1,6 +1,97 @@
 ---
-sidebar_label: "PHP-FPM is disabled after EasyApache update"
 sidebar_position: 17
+sidebar_label: "PHP-FPM is disabled after EasyApache update"
+title: "PHP-FPM is disabled after EasyApache update"
+description: PHP-FPM is Disabled after EasyApache Update
+keywords:
+  - ukfast
+  - ans
+  - cpanel
+  - whm
+  - bug
+  - control
+  - panel
+  - tutorial
+  - cloud
+  - server
+  - guide
+  - virtual
 ---
 
 # PHP-FPM is disabled after EasyApache update
+
+## Why was PHP-FPM disabled for all my domains?
+
+As of **June 9th 2021**, an `EasyApache` update to `ea-apache24-config-1.0-171` has inadvertently disabled `PHP-FPM` on `cPanel/WHM` servers. The following components of `WHM` have been identified to have been affected.
+
+```
+ea-apache24-config-runtime-1.0-171.172.2.cpanel.noarch
+ea-apache24-config-1.0-171.172.2.cpanel.noarch
+```
+
+This has also caused custom `PHP-FPM` configurations to be removed.
+
+## When will this be resolved?
+
+As of yet, no automatic fix has been pushed out by cPanel. However ANS have successfully tested an interim fix that restores functionality to websites on affected cPanel servers.
+
+## How to re-enable PHP-FPM for a single domain
+
+- Log into WHM.
+- Navigate to `MultiPHP Manager`.
+- In the bottom section, use the tab `User Domain Settings`, use the search bar to search for your domain.
+- To the far right of your domain, click the toggle icon to enable `PHP-FPM`.
+
+## How to re-enable PHP-FPM for all domains
+
+- Log into WHM.
+- Navigate to `MultiPHP Manager`.
+- In the bottom section, within `PHP-FPM` select the button `Enable On All Domains`.
+
+## How to re-enable PHP-FPM & restore custom configurations
+
+:::note
+This section requires you to connect to your server over `SSH`. Please see our guide on [connecting to your server via SSH](../../basics/connecting/) for further assistance.
+:::
+
+To reinstate all domains that were previously using `PHP-FPM` along with any custom configuration, please see the following steps:
+
+- Connect to your server via SSH as the `root` user.
+- Create a file named `fix.pl` with your preferred text editor (`vi`, `vim` or `nano`, for example) and populate it with the following contents:
+
+```
+#!/usr/local/cpanel/3rdparty/bin/perl
+use strict;
+use warnings;
+use Cpanel::JSON;
+use Data::Dumper;
+use File::Slurp;
+use YAML::Syck;
+my $file = "@ARGV";
+my $json = File::Slurp::slurp ($file);
+my $hr = Cpanel::JSON::Load ($json);
+my $yaml = YAML::Syck::Dump ($hr);
+print $yaml . "\n";
+```
+
+- Make sure the file is executable by running:
+
+```
+chmod +x fix.pl
+```
+
+- Run the following loop:
+
+```
+find /var/cpanel/userdata -type f -iname '*fpm.cache' | while read file; do ./fix.pl ${file} > $(echo ${file} | sed 's/cache/yaml/'); done
+```
+
+- Finally, rebuild all of the `PHP-FPM` configurations:
+
+```
+for i in $(cat /etc/userdomains | awk '{print $2}'); do echo "$i"; /scripts/php_fpm_config --rebuild $i; done
+```
+
+:::note
+Please contact ANS support via a Priority Support Ticket for any further assistance with this.
+:::
