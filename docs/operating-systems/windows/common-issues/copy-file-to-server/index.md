@@ -31,7 +31,7 @@ To configure Remote Desktop clipboard, please open the Remote Desktop Connection
 
 You should now be presented with the Remote Desktop Connection application which will look like this.
 
-![mstsc](../../../operating-systems-images/MSTSCoptions.png)
+![mstsc](../../../operating-systems-images/mstscoptions.png)
 
 From this window, please select the `Options` button in the bottom left hand corner of the window. This will expand the window and provide you with a number of options which were previously not visible.
 

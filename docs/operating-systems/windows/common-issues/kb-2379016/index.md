@@ -40,7 +40,7 @@ This patch is a preventative measure, however, and if the issue has already occu
 
 Once the server has booted in to safe mode, select the `Start` menu, type `regedit`, and then press `ENTER` as below.
 
-![Regedit](../../../operating-systems-images/Regedit.png)
+![Regedit](../../../operating-systems-images/regedit.png)
 
 You should now be presented with the Registry Editor. Navigate through the hive to reach the `HTTP` key. The full path to this key is `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\HTTP`. Once you have reached the HTTP key, you should now be presented with the required location as demonstrated below.
 
