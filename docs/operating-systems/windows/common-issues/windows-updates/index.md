@@ -34,13 +34,13 @@ This policy can be changed to suit your needs. For example, you may wish for thi
 
 You should then be able to see a window similar to the below image:
 
-![AutomaticUpdates](../../../operating-systems-images/ConfigureAutomaticUpdates.PNG)
+![AutomaticUpdates](../../../operating-systems-images/ConfigureAutomaticUpdates.png)
 
 - From here, you can change the day and time this is scheduled for.
 
 Alternatively, you can drop down the first box, and choose one of the other four options:
 
-![UpdateOptions](../../../operating-systems-images/AutomaticUpdateOptions.PNG)
+![UpdateOptions](../../../operating-systems-images/AutomaticUpdateOptions.png)
 
 2 - Notify for download and notify for install
 
@@ -62,6 +62,6 @@ If your server is joined to an Active Directory domain, this allows the local ad
 
 Click `Start` -> Type `cmd.exe` -> Right click -> Select `Run as Administrator` -> Accept the UAC Prompt -> Type `gpupdate /force`.
 
-![ForceGroupPolicyUpdate](../../../operating-systems-images/ForceGroupPolicyUpdate.PNG)
+![ForceGroupPolicyUpdate](../../../operating-systems-images/ForceGroupPolicyUpdate.png)
 
 Once this has completed, whatever options you've chosen will take effect.

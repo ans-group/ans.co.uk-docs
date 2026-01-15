@@ -29,15 +29,15 @@ Plesk migrations have to be initiated from the destination Plesk server.
 To begin your migration, you first need to ensure you are logged into your Plesk Web Interface.
 Once you are logged in, click on the "Tools and Settings" link on the left hand side menu.
 
-![Plesk Obsidian Homepage](../../../operating-systems-images/plesk_obsidianhomepage.PNG)
+![Plesk Obsidian Homepage](../../../operating-systems-images/plesk_obsidianhomepage.png)
 
 When you are on the "Tools and Settings" page, click on "Migration and Transfer Manager" which is under "Tools & Resources".
 
-![Plesk Obsidian Tools and Settings](../../../operating-systems-images/plesk_obsidiantoolsandsettings.PNG)
+![Plesk Obsidian Tools and Settings](../../../operating-systems-images/plesk_obsidiantoolsandsettings.png)
 
 Now you are within the Migration and Transfer Manager, click on "Start a New Migration".
 
-![Plesk Obsidian Transfer Manager](../../../operating-systems-images/plesk_migrationandtransfermanager.PNG)
+![Plesk Obsidian Transfer Manager](../../../operating-systems-images/plesk_migrationandtransfermanager.png)
 
 For "Panel type", select Plesk and then populate the rest of the details accordingly.
 
@@ -47,18 +47,18 @@ ANS Linux Servers listen on port 2020 for SSH by default.
 
 Once the details have been filled in, click the "Prepare Migration" button.
 
-![Plesk Obsidian Migration Details](../../../operating-systems-images/plesk_migrationpleskdetails.PNG)
+![Plesk Obsidian Migration Details](../../../operating-systems-images/plesk_migrationpleskdetails.png)
 
 When Plesk has scanned the remote server for migratable Plesk sites, select what you want to copy over.
 Ensure that your chosen Plesk Subscriptions are in the "Selected" box in the "Subscriptions".
 Make sure you have ticked what content you want to transfer under the "Content that must be transferred" section.
 Once you are ready to start the migration, click the "Migrate" button.
 
-![Plesk Obsidian Select Sites to Migrate](../../../operating-systems-images/plesk_selecttomigrate.PNG)
+![Plesk Obsidian Select Sites to Migrate](../../../operating-systems-images/plesk_selecttomigrate.png)
 
 When the migration completes, you can go to the "Domains" page linked on the left hand side menu and see the site(s) you have transferred over.
 
-![Plesk Obsidian List Domains](../../../operating-systems-images/plesk_listdomains.PNG)
+![Plesk Obsidian List Domains](../../../operating-systems-images/plesk_listdomains.png)
 
 You have successfully performed a Plesk to Plesk Migration!
 

@@ -20,7 +20,7 @@ keywords:
 
 By default, PowerShell will use SSL3.0 and TLS1.0. This can prove problematic when performing web requests to sites that have disabled these insecure protocols and you may see an error such as:
 
-![TLSError](../../operating-systems-images/PowershellTLSError.PNG)
+![TLSError](../../operating-systems-images/PowershellTLSError.png)
 
 In order to allow a connection to be established, we can force PowerShell to use a more secure protocol, like TLS 1.2, using this command:
 

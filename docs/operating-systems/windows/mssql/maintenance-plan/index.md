@@ -58,7 +58,7 @@ Once you have configured the options to your requirements as we have below, sele
 You will now be returned to the Maintenance Plan window. From the `Sub plan` menu at the top of the central field, select the calendar icon. You will now be presented with the `Job Schedule Properties` window as below.
 This window denotes how frequently your maintenance plan will run. Please configure this window to your requirements and select `OK`.
 
-![Scheduled](../../../operating-systems-images/schedule1.PNG)
+![Scheduled](../../../operating-systems-images/schedule1.png)
 
 Your maintenance plan is now complete. To view a full list of possible tasks which you can carry out with the maintenance plan in MSSQL, please view the following link:
 

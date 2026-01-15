@@ -27,7 +27,7 @@ To install Telnet, select `Start`, type `run` and select the resultant `run.exe`
 
 Type `pkgmgr /iu:"TelnetClient"` in the run box as below and select `OK`.
 
-![Install Telnet](../../../operating-systems-images/telnetinstalltrimmed.PNG)
+![Install Telnet](../../../operating-systems-images/telnetinstalltrimmed.png)
 
 The `telnet` command will now be active and usable via any Command Prompt window, or PowerShell window.
 
@@ -35,6 +35,6 @@ Open a Command Prompt or a PowerShell window by selecting `Start` and selecting 
 
 If the connection is established, you will receive a response from the remote server as demonstrated below:
 
-![Telnet Demo 80-25](../../../operating-systems-images/pscmdtelnet.PNG)
+![Telnet Demo 80-25](../../../operating-systems-images/pscmdtelnet.png)
 
 If however, you are presented with a blank window, this could mean that the connection could not be established correctly. At this point, to ensure that appropriate access is allowed to and from your target IP it is advised to review firewall rules, etc.

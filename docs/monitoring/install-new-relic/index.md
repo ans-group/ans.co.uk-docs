@@ -83,7 +83,7 @@ For Plesk/cPanel, you should confirm that you are restarting the correct web ser
 
 Once New Relic has captured enough traffic, log back into your New Relic account and data should start to appear in the **APM** tab.
 
-![New Relic Graph](../monitoring-images/newrelic-graph.PNG)
+![New Relic Graph](../monitoring-images/newrelic-graph.png)
 
 ### Installation on a server that is controlled by a panel (such as cPanel or Plesk)
 
@@ -127,11 +127,11 @@ vi /var/www/vhosts/example.com/public_html/info.php
 
 Now browse to `example.com/info.php`, if New Relic is installed correctly, you will see a section on New Relic.
 
-![PHP Info page](../monitoring-images/newrelic-phpinfo.PNG)
+![PHP Info page](../monitoring-images/newrelic-phpinfo.png)
 
 Check that there is a valid license.
 
-![PHP Info licence](../monitoring-images/newrelic-license.PNG)
+![PHP Info licence](../monitoring-images/newrelic-license.png)
 
 If the license shows as `***INVALID***`, run the `newrelic-install install` again and ensure that license key is valid and correct.
 

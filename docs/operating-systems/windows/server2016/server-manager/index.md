@@ -21,16 +21,16 @@ The Server Manager in Windows Server 2016 is no longer located on the taskbar by
 
 Select the `Start` button, and select the `Server Manager` icon from the tile section as below:
 
-![Tile Select](../../../operating-systems-images/viatile.PNG)
+![Tile Select](../../../operating-systems-images/viatile.png)
 
 If you have disabled the tile section of the start menu, the icon is also available from the application list as below:
 
-![App List](../../../operating-systems-images/viaapplist.PNG)
+![App List](../../../operating-systems-images/viaapplist.png)
 
 You will now be presented with the `Server Manager` interface, this interface is exactly the same as in Windows Server 2012 with identical sections as shown below:
 
-![Server Manager](../../../operating-systems-images/servermanager.PNG)
+![Server Manager](../../../operating-systems-images/servermanager.png)
 
-![Manage](../../../operating-systems-images/manage.PNG)
+![Manage](../../../operating-systems-images/manage.png)
 
-![Tools](../../../operating-systems-images/tools.PNG)
+![Tools](../../../operating-systems-images/tools.png)

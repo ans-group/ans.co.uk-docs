@@ -24,8 +24,8 @@ Please follow the below quick guide to access the Computer Management console in
 
 Right click on the `Start` button. You will be presented with a context box as below.
 
-![Context box](../../../operating-systems-images/rightclickstart.PNG)
+![Context box](../../../operating-systems-images/rightclickstart.png)
 
 Select `Computer Management` from the context box and you will now be presented with the familiar Computer Management console as below:
 
-![Computer management](../../../operating-systems-images/computermanagement.PNG)
+![Computer management](../../../operating-systems-images/computermanagement.png)

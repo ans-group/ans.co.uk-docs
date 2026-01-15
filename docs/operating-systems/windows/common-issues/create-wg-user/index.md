@@ -21,7 +21,7 @@ To create a new user account on your server, please follow the below guide:
 
 Open `Server Manager` from the Taskbar, select `Tools` and then select `Computer Management` as below:
 
-![server manager tools](../../../operating-systems-images/SMtools.PNG)
+![server manager tools](../../../operating-systems-images/SMtools.png)
 
 Once the Computer Management console opens, you will see a selection of menu entries in the left hand field under the headings `System Tools`, `Storage`, and `Services and Applications`.
 Pop out the arrow next to system tools, and pop out the arrow next to the newly visible `Local Users and Groups` menu item.

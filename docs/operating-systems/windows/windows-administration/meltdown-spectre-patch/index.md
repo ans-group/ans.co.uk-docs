@@ -80,11 +80,11 @@ If you don't have automatic updates scheduled on your ANS servers, here's how to
 
 Click `Start` and type `Windows Update` to search for the Windows Update utility.
 
-![Server 2008 R2 Start Menu](../../../operating-systems-images/2008-WindowsUpdates1.PNG)
+![Server 2008 R2 Start Menu](../../../operating-systems-images/2008-WindowsUpdates1.png)
 
 In Windows Updates, you can click on the `Check for Updates` option on the left hand menu to check for any newly released updates.
 
-![Server 2008 R2 Windows Updates](../../../operating-systems-images/2008-WindowsUpdates2.PNG)
+![Server 2008 R2 Windows Updates](../../../operating-systems-images/2008-WindowsUpdates2.png)
 
 ### Windows Server 2012 R2
 

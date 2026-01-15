@@ -26,11 +26,11 @@ In order to connect to a Microsoft SQL Server instance, you will first need to e
 
 In order to connect to the instance, you will need to select `Start`, then navigate to `Microsoft SQL Server Management Studio` as below, and select it from the list of available apps.
 
-![SSMS](../../../operating-systems-images/startssmsopen1.PNG)
+![SSMS](../../../operating-systems-images/startssmsopen1.png)
 
 You will now be presented with the `SQL Server Management Studio`, in most instances, a pane called `Connect to Server` should present itself in which you will enter your connection details. If however this does not present itself, please select `Connect` from the object explorer on the left hand side of the window. This will launch the `Connect to Server` pane as below.
 
-![Login](../../../operating-systems-images/login.PNG)
+![Login](../../../operating-systems-images/login.png)
 
 In order to connect to the instance, you will need to enter the correct connection details in to the `Connect to Server` pane as has been demonstrated above.
 
@@ -42,6 +42,6 @@ Once you have entered the required details, please select `Connect`.
 
 SQL Server Management Studio will now log you in and you will be able to see your SQL instance within the Object Explorer as below.
 
-![Logged in](../../../operating-systems-images/loggedin1.PNG)
+![Logged in](../../../operating-systems-images/loggedin1.png)
 
 You should now be connected to your database and you now have the ability to administer the instance in the same way that you would be able to if you were logged directly in to the database server.

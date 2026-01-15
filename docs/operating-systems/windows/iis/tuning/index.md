@@ -36,7 +36,7 @@ The compression window provides the option to:
 
 Click on `Apply` on the right-hand side to enable compression.
 
-![Compress](../../../operating-systems-images/compress.PNG)
+![Compress](../../../operating-systems-images/compress.png)
 
 :::note
 Dynamic content compression can be a CPU intensive task, please ensure the server or virtual machine is able to handle the additional workload.
@@ -63,7 +63,7 @@ Within `IIS` click on the server name and double-click the `Output Caching` icon
 
 Click on `Apply` on the right-hand side to commit the change.
 
-![Caching](../../../operating-systems-images/caching.PNG)
+![Caching](../../../operating-systems-images/caching.png)
 
 ## Application pool recycling
 
@@ -78,4 +78,4 @@ Under the parameters for recycling :
 
 Click on `OK` to commit the change.
 
-![Recycling](../../../operating-systems-images/apppools.PNG)
+![Recycling](../../../operating-systems-images/apppools.png)

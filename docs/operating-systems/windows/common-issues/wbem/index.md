@@ -34,22 +34,22 @@ To correct this, and reduce the storage footprint of this location, please follo
 
 - Select `Start`, then type `cmd`, right-click the resultant `cmd.exe` and select `Run as administrator`. You will now be presented with a Command Prompt window. Within the Command Prompt, please type `net stop winmgmt` as below and press `Enter`.
 
-![Cmd](../../../operating-systems-images/stop.PNG)
+![Cmd](../../../operating-systems-images/stop.png)
 
 - The command will now stop the `windows management instrumentation` service, in some configurations, the service may also need to close secondary services to completely stop WMI. If so, the command will prompt you to confirm. Enter `Y` and press `Enter`.
 
 - Once the process has been completed, you will receive a notification in the Command Prompt as shown:
 
-![Complete](../../../operating-systems-images/stopped.PNG)
+![Complete](../../../operating-systems-images/stopped.png)
 
 - Now navigate to the WBEM directory which is located in `C:\Windows\System32\wbem`, and right click in any blank space. Select `New` and select `Folder`. Name this folder something intuitive such as `reposold` as below.
 - Move any folder named `repositoryxxx` followed by a number (for example `respository001`) in to the new folder which you have just created.
 
-![Moverepos](../../../operating-systems-images/moverepos.PNG)
+![Moverepos](../../../operating-systems-images/moverepos.png)
 
 - Once all of the required files have finished moving to their new directory return to the Command Prompt and type `net start winmgmt`, then press `Enter`. This will bring Windows Management Instrumentation back online and will confirm that the process has completed as below:
 
-![Starting](../../../operating-systems-images/started.PNG)
+![Starting](../../../operating-systems-images/started.png)
 
 - Once you have completed the above steps, reboot the server to initiate the rebuild of the repository. If everything is working as expected, you can now navigate to the `wbem` folder, and delete the `reposold` folder.
 - If you experience issues, please navigate back to `wbem`, and copy the contents of `reposold` back in to the `wbem` folder.

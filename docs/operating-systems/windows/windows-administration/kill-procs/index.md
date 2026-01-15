@@ -26,15 +26,15 @@ In order to forcibly end a process, you have two methods available to you.
 
 To forcibly end a process using Task Manager, right click on the `Start` menu, and select `Task Manager` as below:
 
-![Taskbar Context](../../../operating-systems-images/rightclick.PNG)
+![Taskbar Context](../../../operating-systems-images/rightclick.png)
 
 You will now be presented with the `Task Manager`. Select the `Processes` tab from the top line as below:
 
-![Task Manager](../../../operating-systems-images/taskmanager.PNG)
+![Task Manager](../../../operating-systems-images/taskmanager.png)
 
 Scroll down the list until you find the process which you wish to end. Right click the process and select `End task` as below:
 
-![End task](../../../operating-systems-images/endtask.PNG)
+![End task](../../../operating-systems-images/endtask.png)
 
 ## End a process using the `tasklist` and `taskkill` commands
 

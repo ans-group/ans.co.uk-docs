@@ -32,13 +32,13 @@ Right click on the `NIC` on which you wish to enable Jumbo Frames and select `Pr
 
 You will now be presented with the NIC properties as below:
 
-![NiC properties](../../../operating-systems-images/nic.PNG)
+![NiC properties](../../../operating-systems-images/nic.png)
 
 From the NIC properties, select `Configure`. You will now be presented with the controller properties, this pane will contain several tabs, please select the `Advanced` tab.
 
 Within the `Advanced` section, you will see several options in the `property` field. Scroll down until you can see "Jumbo Frame" as below.
 
-![NiC Configure](../../../operating-systems-images/nic2.PNG)
+![NiC Configure](../../../operating-systems-images/nic2.png)
 
 Select the `Value` button which is set to `Disabled` in the above example. Select from 2KB MTU - 9KB MTU. NIC properties vary depending on model and manufacturer. In other NIC's the value may need to be entered manually. In this case, enter up to 9000 bytes.
 

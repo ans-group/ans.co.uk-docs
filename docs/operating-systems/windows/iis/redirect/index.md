@@ -27,11 +27,11 @@ To configure a redirect in IIS, please follow the below instructions.
 
 Launch `IIS Manager` on your server by selecting `Server Manager`, then selecting `Tools` and `Internet Information Services Manager`. Once you have opened the IIS Manager, select your site in the `Connections list` and select the `HTTP Redirect` module which should be located in the central field of IIS Manager as below.
 
-![IIS Modules](../../../operating-systems-images/httpredirectmodule.PNG)
+![IIS Modules](../../../operating-systems-images/httpredirectmodule.png)
 
 The centre field should now present the `HTTP Redirect` options as below.
 
-![IIS HTTP Redirect](../../../operating-systems-images/redirectconfigurationexample.PNG)
+![IIS HTTP Redirect](../../../operating-systems-images/redirectconfigurationexample.png)
 
 Within the field `Redirect requests to this destination` please enter the destination URL which you would like to redirect to. Please ensure that you select the tick box next to this option in order to enable it.
 

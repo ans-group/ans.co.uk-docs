@@ -25,12 +25,12 @@ If this is an inconvenience to you, it can be changed to open "This PC" instead.
 
 Right click the `Start` button, and select `Control Panel`, now select `File Explorer Options` from the list of available modules. You will now be presented with the `File Explorer Options` menu as below:
 
-![Explorer options](../../../operating-systems-images/fileexploreroptions.PNG)
+![Explorer options](../../../operating-systems-images/fileexploreroptions.png)
 
 Within this pane, the first option `Open File Explorer to:` needs to be changed. Select the drop down box which contains quick access and select `This PC` from the list as below, and select `OK`.
 
-![Change Default](../../../operating-systems-images/selectdefaultpane.PNG)
+![Change Default](../../../operating-systems-images/selectdefaultpane.png)
 
 Now launch a new instance of `File Explorer` by selecting the `Explorer` (Folder) icon from the taskbar and you will find that the familiar `This PC` window will now be launched as below:
 
-![This-PC](../../../operating-systems-images/thispcopen.PNG)
+![This-PC](../../../operating-systems-images/thispcopen.png)

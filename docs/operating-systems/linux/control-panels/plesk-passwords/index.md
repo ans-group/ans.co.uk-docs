@@ -21,7 +21,7 @@ You can get your Plesk Admin Password via your ANS Glass area as the Primary Con
 Head to your Server's dedicated information page within ANS Glass and scroll down to the bottom.
 As shown in the screenshot below, you will see a "Server Credentials" section where you can enter your ANS password to reveal the credentials we have on record for you server.
 
-![Server Credentials](../../../operating-systems-images/servercredentials.PNG)
+![Server Credentials](../../../operating-systems-images/servercredentials.png)
 
 If you ever change your Plesk Admin password and do not let us know so we can update it on our side, the password in your ANS Glass area will be incorrect.
 Following that, if you forgot your password, you will be unable to gain access to Plesk using the details in ANS Glass.

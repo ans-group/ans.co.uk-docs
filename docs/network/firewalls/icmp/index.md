@@ -24,7 +24,7 @@ While we consider it good security to keep this traffic disabled, we appreciate 
 
 You can create the rule like this:
 
-![ICMP Rule](../../networking-images/editor2_permit_icmp.PNG)
+![ICMP Rule](../../networking-images/editor2_permit_icmp.png)
 
 Please note this will allow all ICMP message types, if you wish to restrict this to certain ICMP types please [raise a support request via ANS Glass](https://ans.glass/support-and-help/incident).
 

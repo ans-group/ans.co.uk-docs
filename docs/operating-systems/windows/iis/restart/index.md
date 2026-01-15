@@ -28,7 +28,7 @@ In order to carry out an IIS reset please follow the below guide.
 
 Select `Start`, type `cmd`, right click `Command Prompt` when it is displayed and select `Run as Administrator` as below:
 
-![Admin Command Prompt Launch](../../../operating-systems-images/admincommandprompt.PNG)
+![Admin Command Prompt Launch](../../../operating-systems-images/admincommandprompt.png)
 
 You will now be presented with a new Command Prompt with administrator level access as below:
 

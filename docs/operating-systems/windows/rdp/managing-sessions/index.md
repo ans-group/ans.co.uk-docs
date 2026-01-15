@@ -29,7 +29,7 @@ You will now be able to view a list of currently connected users as below. Right
 The available options, will depend on the current status of each user, i.e Active, Disconnected, etc.
 :::
 
-![User Sessions](../../../operating-systems-images/manage.PNG)
+![User Sessions](../../../operating-systems-images/manage.png)
 
 - **Send Message** - Allows you to type a message to this user which will display on their desktop once sent.
 - **Connect** - Take over this user's session. If the user is a different account to the one you're logged in with you will be prompted for the new users credentials.

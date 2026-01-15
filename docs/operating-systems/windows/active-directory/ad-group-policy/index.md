@@ -39,38 +39,38 @@ For a Complete Reference guide of all of the available options, please visit the
 
 To create a new group policy object, you will first need to access the Group Policy Management console, you can do so by selecting `Start`, and selecting `Group Policy Management` from the list of available applications as below.
 
-![Group Policy Management](../../../operating-systems-images/grouppolicymanagement.PNG)
+![Group Policy Management](../../../operating-systems-images/grouppolicymanagement.png)
 
 You will now be presented with the Group Policy Management console. Select your domain; in this case `contoso.domain`, and pop out the arrow next to it, which will display current group policy objects. By default you will only see one object name "Default Domain Policy".
 
-![GPM Open](../../../operating-systems-images/gpmopen.PNG)
+![GPM Open](../../../operating-systems-images/gpmopen.png)
 
 Right click on your domain; in this case `contoso.domain`, and select `Create a GPO in this domain, and Link it here...` from the resultant context box as below.
 
-![New GPO](../../../operating-systems-images/rightclickcreate.PNG)
+![New GPO](../../../operating-systems-images/rightclickcreate.png)
 
 You will now be asked to name the Group Policy Object as below and to choose a "Source Starter GPO", please leave this option as `(none)`. This option is used to select a pre-existing Group Policy Object as a template to start from.
 
-![Name GPO](../../../operating-systems-images/namegpo.PNG)
+![Name GPO](../../../operating-systems-images/namegpo.png)
 
 ## Edit a Group Policy Object
 
 You will be able to see your new Group Policy Object in the left hand section of the window. Select it or a pre-existing Group policy object. If this policy is new you will be presented with a notice from the console as below, please select `OK`.
 
-![Notice](../../../operating-systems-images/warning.PNG)
+![Notice](../../../operating-systems-images/warning.png)
 
 Right click on your new or pre-existing Group Policy Object and select `Edit` as below.
 
-![Edit](../../../operating-systems-images/rightclickedit.PNG)
+![Edit](../../../operating-systems-images/rightclickedit.png)
 
 You will now be presented with your policy. The central view will contain `Computer Configuration` and `User Configuration`. You will notice that the same 2 headers are also located in the left hand section of the window as below.
 
-![GPO open](../../../operating-systems-images/policy.PNG)
+![GPO open](../../../operating-systems-images/policy.png)
 
 Pop out the `Policies` section located in both the Computer Configuration and User Configuration headings, and then pop out the `Administrative Templates` section in both headings as below.
 
-![Expanded GPO](../../../operating-systems-images/policyexpanded.PNG)
+![Expanded GPO](../../../operating-systems-images/policyexpanded.png)
 
 In both sections you will see `All Settings` in the left hand pane. Selecting these headings will populate the central view with all of the available Group Policy options for that section as below.
 
-![All Settings](../../../operating-systems-images/downloadoption.PNG)
+![All Settings](../../../operating-systems-images/downloadoption.png)

@@ -41,7 +41,7 @@ To check the port in which the SQL Server is configured to listen on, you would 
   - Then `IP Addresses`
   - Scroll down until you see your internal server IP and check `TCP port`
 
-![Instance options](../../../operating-systems-images/sql_configuration_manager.PNG)
+![Instance options](../../../operating-systems-images/sql_configuration_manager.png)
 
 ## Opening the MSSQL Ports on your firewall
 

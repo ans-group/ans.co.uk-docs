@@ -20,7 +20,7 @@ keywords:
 
 To run the `netstat` command, you will first need to open a Command Prompt as administrator. To do so, select `Start`, type `cmd`, right click the resultant `cmd.exe` and `Run as Administrator` as below:
 
-![CMD](../../../operating-systems-images/cmdprompt.PNG)
+![CMD](../../../operating-systems-images/cmdprompt.png)
 
 ## Finding processes running on a port
 
@@ -30,7 +30,7 @@ In the Command Prompt, type `netstat -ano | find ":Required port number"`, for e
 
 The Command Prompt will now display any processes listening on port 25 as below:
 
-![Netstat 25](../../../operating-systems-images/netstatspecificport.PNG)
+![Netstat 25](../../../operating-systems-images/netstatspecificport.png)
 
 At the right hand side of the result, you will see a number, this number is a PID (Process Identifier), this number is assigned to a specific process on your server.
 
@@ -42,7 +42,7 @@ This will now display a context box with a number of options as below, please se
 
 Now search through the list of PID's to find the one matching the PID listed by your `netstat` command. In this example 844, which as you can see below is occupied by the hMailServer application.
 
-![PID Found](../../../operating-systems-images/identifyportholdingpid.PNG)
+![PID Found](../../../operating-systems-images/identifyportholdingpid.png)
 
 This means that port 25 is being occupied by hMailServer, which is as expected.
 
@@ -60,7 +60,7 @@ In the Command Prompt, type `netstat -ano` and press `Enter`.
 
 This will present you with a list of all current connections to and from your server as below:
 
-![Flat netstat](../../../operating-systems-images/netstatdisplay.PNG)
+![Flat netstat](../../../operating-systems-images/netstatdisplay.png)
 
 Right click on the taskbar, and select `Task Manager`, select `Processes`, and right click on the `Title` bar. Select `PID` from the resultant list.
 Find the PID of the program for which you are trying to find the corresponding port. Now review the connections in `Command Prompt` to find the Correct PID. Look to the left of the Command Prompt on the matching line to see which port that specific PID is using.

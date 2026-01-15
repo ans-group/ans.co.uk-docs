@@ -30,7 +30,7 @@ There are two types of cache control within CDN, "Respect Origin Cache Control H
 - Find the domain you would like to configure and select it.
 - On the `Configure` page, select the `CDN` tab.
 
-![connect](../../networking-images/cdnnorules.PNG)
+![connect](../../networking-images/cdnnorules.png)
 
 On this page you can add "Global" and "Per URI" rules, "Global" rules apply to your entire domain and "Per URI" rules apply to a specified domain extension only.
 
@@ -44,7 +44,7 @@ ans ddosx domain cdn rule list mydomain.example
 
 - Within the CDN tab of DDoSX, select `Add Rule for Entire Domain`.
 
-![connect](../../networking-images/globalcacherule.PNG)
+![connect](../../networking-images/globalcacherule.png)
 
 - Select the MIME types that you want CDN to cache (hold `Ctrl` to select multiple for this rule).
 - Define the type of cache control (outlined [above](#types-of-cache-control)).
@@ -55,7 +55,7 @@ ans ddosx domain cdn rule list mydomain.example
 ans ddosx domain cdn rule create mydomain.example --cache-control "Origin" --mime-type "font/*" --mime-type "text/javascript" --type "global" --uri "/"
 ```
 
-![connect](../../networking-images/customcachecontrol.PNG)
+![connect](../../networking-images/customcachecontrol.png)
 
 - If selecting "Custom", use the drop-down menus to define the amount of time the content should be cached for.
 - Select `Add Rule` to create this rule and repeat for all other rules.
@@ -70,7 +70,7 @@ ans ddosx domain cdn rule create mydomain.example --cache-control "Custom" --mim
 
 Following the same process as when adding global caching rules but with control over the domain extension.
 
-![connect](../../networking-images/uricacherule.PNG)
+![connect](../../networking-images/uricacherule.png)
 
 For example, adding `/static-content` to the `URI` field will apply the rule to any content hosted within `http://www.example.com/static-content`.
 

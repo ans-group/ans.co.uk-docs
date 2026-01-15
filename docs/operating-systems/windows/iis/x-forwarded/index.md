@@ -87,19 +87,19 @@ Launch `Server Manager` by selecting `Start`. Selecting `Server Manager` from th
 
 Within Server Manager, select `Tools` from the top section, and select `Internet Information Services (IIS)` from the resulting list as below.
 
-![Server Manager](../../../operating-systems-images/servermanager.PNG)
+![Server Manager](../../../operating-systems-images/servermanager.png)
 
 You will now be presented with the `IIS Manager`. From the connection pane on the left hand side of the window, select your site (if you wish to have logging for specific sites) or select the server instance (if you wish to enable logging for all sites.) Once you have made your selection, select `Logging` from the `Feature` view in the centre of the window as below.
 
-![Logging](../../../operating-systems-images/logging.PNG)
+![Logging](../../../operating-systems-images/logging.png)
 
 You will now be presented with the logging options. Under the `Log File` section, select format `W3C` and choose the `Select Fields...` button next to it as below.
 
-![Logging options](../../../operating-systems-images/logoptions.PNG)
+![Logging options](../../../operating-systems-images/logoptions.png)
 
 The `W3C Logging Fields` pane will now presented. In this pane, please select `Add Field` from the bottom of the pane as below.
 
-![Fields](../../../operating-systems-images/addfield.PNG)
+![Fields](../../../operating-systems-images/addfield.png)
 
 In the resulting `Add Custom Field` pane, enter the following:
 
@@ -109,11 +109,11 @@ In the resulting `Add Custom Field` pane, enter the following:
 
 The `Add Custom Field` pane should now look as follows:
 
-![field complete](../../../operating-systems-images/fieldcomplete.PNG)
+![field complete](../../../operating-systems-images/fieldcomplete.png)
 
 Now select `OK` and you will be returned to the `W3C Logging Fields` pane, where your new field should be visible as below. Select `OK` to complete the process.
 
-![Complete](../../../operating-systems-images/logoptions2.PNG)
+![Complete](../../../operating-systems-images/logoptions2.png)
 
 Further information and different functions of the IIS 8.5 Enhanced Logging module can be found at the link below:
 

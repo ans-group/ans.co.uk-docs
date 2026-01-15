@@ -23,7 +23,7 @@ In an Active Directory Environment, you can make use of security groups for appl
 
 Log in to the Domain controller using administrator credentials, once logged in, select `Start`, and select `Active Directory Users and Computers` from the available list of applications as below.
 
-![AD Users and Computers](../../../operating-systems-images/adusersandcomputers.PNG)
+![AD Users and Computers](../../../operating-systems-images/adusersandcomputers.png)
 
 You will now be presented with the `Active Directory Users and Computers` window. On the left hand side of the window you will see your domain; in this example `contoso.domain`. Please pop out the menu by selecting the pop out arrow next to the domain.
 Several more menu items will now be presented. From those new items, right click on the `Users` folder, select `New` and select `Group` as below.

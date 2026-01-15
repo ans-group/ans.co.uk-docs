@@ -36,7 +36,7 @@ To enable the new functionality, you will need to add the following custom log f
 
 This can be done through IIS by adding custom logging fields:
 
-![IIS Logging](../../../operating-systems-images/iiscustomlogging.PNG)
+![IIS Logging](../../../operating-systems-images/iiscustomlogging.png)
 
 Or you can add them directly to the `applicationHost.config` as custom log fields:
 

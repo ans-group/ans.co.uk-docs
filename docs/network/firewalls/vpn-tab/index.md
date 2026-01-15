@@ -17,7 +17,7 @@ keywords:
 
 The VPN dashboard shows the current connection numbers for VPNs on your firewall and provides the access to the more detailed views of the two different types of VPNs that are available to you.
 
-![VPN Dashboard](../../networking-images/editor2_vpn_dashboard.PNG)
+![VPN Dashboard](../../networking-images/editor2_vpn_dashboard.png)
 
 ## Remote Access
 

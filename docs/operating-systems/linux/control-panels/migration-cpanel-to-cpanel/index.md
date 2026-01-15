@@ -32,11 +32,11 @@ cPanel migrations have to be initiated from the destination cPanel server.
 Once you are logged in to WHM, use the search box in the top left under the WHM logo to search for "Transfer Tool".
 Click on "Transfer Tool" to be directed to the Transfer Tool page in which you can start your migration.
 
-![cPanel Home Transfer](../../../operating-systems-images/cpanel_searchtransfertool.PNG)
+![cPanel Home Transfer](../../../operating-systems-images/cpanel_searchtransfertool.png)
 
 Now you are within the Transfer Tool section of WHM, fill in the details accordingly for the server you want to pull your data from.
 
-![cPanel Transfer Tool Start](../../../operating-systems-images/cpanel_transfertool1.PNG)
+![cPanel Transfer Tool Start](../../../operating-systems-images/cpanel_transfertool1.png)
 
 - Remote Server Address: The IP Address of the other server.
 - Remote SSH Port: The port SSH is bound to on the other server.
@@ -46,26 +46,26 @@ Now you are within the Transfer Tool section of WHM, fill in the details accordi
 ANS Linux Servers listen on port 2020 for SSH by default.
 :::
 
-![cPanel Transfer Tool Details](../../../operating-systems-images/cpanel_transfertool1withdetails.PNG)
+![cPanel Transfer Tool Details](../../../operating-systems-images/cpanel_transfertool1withdetails.png)
 
 Once you have filled in the server details as per the above screenshot, scroll down and select the Remote Server Type.
 
 Next, click the "Scan Remote Server" button which will have the migration tool connect to the remote server and scan for migratable accounts.
 
-![cPanel Transfer Select WHM](../../../operating-systems-images/cpanel_transfertool2.PNG)
+![cPanel Transfer Select WHM](../../../operating-systems-images/cpanel_transfertool2.png)
 
 When the scan completes, select the accounts you want to transfer to your server.
 After selecting what you want to transfer over, click the "Copy" button to start the migration.
 
-![cPanel Select scanned sites for migration](../../../operating-systems-images/cpanel_transfertoolscannedplesk.PNG)
+![cPanel Select scanned sites for migration](../../../operating-systems-images/cpanel_transfertoolscannedplesk.png)
 
 When the migration completes you will see the following page showing that both the transfer of data and restore of the account to your server is complete.
 
-![cPanel Transfer Success](../../../operating-systems-images/cpanel_transfertoolplesksuccess.PNG)
+![cPanel Transfer Success](../../../operating-systems-images/cpanel_transfertoolplesksuccess.png)
 
 After the migration, you can go to the "List Accounts" page in WHM and you will be able to see the account you have just transferred.
 
-![cPanel List accounts to see the transferred site](../../../operating-systems-images/cpanel_transfertoollistaccounts.PNG)
+![cPanel List accounts to see the transferred site](../../../operating-systems-images/cpanel_transfertoollistaccounts.png)
 
 You have successfully performed a cPanel to cPanel Migration!
 

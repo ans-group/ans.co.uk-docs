@@ -19,7 +19,7 @@ keywords:
 
 ANS offers two types of firewalls, shared and dedicated. Both offer a level of customisation via the ANS Glass portal. You can view and customise the configuration of both under the Firewalls menu:
 
-![Firewall location](../../networking-images/editor2_navigation.PNG)
+![Firewall location](../../networking-images/editor2_navigation.png)
 
 After selecting Dedicated or Shared you will be presented with a list of that type of firewall that is associated with your servers. The configuration pages for shared and dedicated firewalls look a little different, but they do let you have the same basic features. On all ANS firewalls you can:
 

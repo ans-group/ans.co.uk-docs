@@ -44,7 +44,7 @@ You will now be presented with the file or folder properties. Select the `Securi
 
 The `Security` tab will display current security rules for this file or directory. Selecting each user or group in the list will display the corresponding permissions. Select `Add` and you will be presented with the `Select Users, Computers, Service Accounts, or Groups` pane, as below:
 
-![Add](../../../operating-systems-images/add.PNG)
+![Add](../../../operating-systems-images/add.png)
 
 In this pane, please type the appropriate user account, in this case `administrator` and select `OK`.
 You will now be returned to the permissions pane, where you will be able to see your newly added user in the list.

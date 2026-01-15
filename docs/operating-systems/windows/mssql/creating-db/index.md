@@ -27,7 +27,7 @@ This guide assumes that you already have [MSSQL Management studio installed](../
 
 From `MSSQL Management Studio`, please select `Databases` from the `Object Explorer` and right click, and select `New Database`.
 
-![Context New Database](../../../operating-systems-images/rightclickcontextnewdb.PNG)
+![Context New Database](../../../operating-systems-images/rightclickcontextnewdb.png)
 
 You will now be presented with the `New Database` pane. By default you will land on the `Options` page of this pane. Within this window, please provide a name for your database and select the database owner.
 
@@ -35,7 +35,7 @@ In the `Database files` section, you will be able to see information about the n
 
 Once you have entered details to your requirements, select options for the `Select a page` menu on the left hand side of the pane.
 
-![General](../../../operating-systems-images/namevisible.PNG)
+![General](../../../operating-systems-images/namevisible.png)
 
 Within the `Options` page, you will be presented with a large number of options which you can change for your new database as below. Once you are happy with your choices select `OK` to create your database.
 
@@ -43,6 +43,6 @@ A thorough explanation of the options and their functions can be found by visiti
 
 - [Database Options](https://msdn.microsoft.com/en-gb/library/ms188124.aspx)
 
-![Options Pane](../../../operating-systems-images/setoptions.PNG)
+![Options Pane](../../../operating-systems-images/setoptions.png)
 
 Your new database should now be visible in the `Databases` section of the Object Explorer.

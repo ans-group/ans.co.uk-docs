@@ -37,10 +37,10 @@ To disable auto restart for updates:
 - Disable the `Reboot` task by right clicking on the `Reboot` task as below and selecting `Disable` from the context menu.
 - Once the `Reboot` task has a status of `Disabled`, you can close the task scheduler.
 
-![Update Orchestrator Tasks](../../../operating-systems-images/reboottask1.PNG)
+![Update Orchestrator Tasks](../../../operating-systems-images/reboottask1.png)
 
 - Open Explorer by selecting the `Folder` icon from the task bar, and navigate to `C:\Windows\System32\Tasks\Microsoft\Windows\UpdateOrchestrator`
 - Right click on the `Reboot` file, and select `Properties`. You will now be presented with the `Reboot Properties` window. Select the `Security` tab and select the `Edit` button.
 - Set file security to `Deny` for all types of access for `SYSTEM`, `LOCAL SERVICE`, `NETWORK SERVICE`. You can do this by selecting each of the mentioned users in turn and selecting the `Deny` box for `Full Control` as below. (This prevents Windows from re-enabling the task.)
 
-![Reboot Task Permissions](../../../operating-systems-images/rebootfileperms.PNG)
+![Reboot Task Permissions](../../../operating-systems-images/rebootfileperms.png)

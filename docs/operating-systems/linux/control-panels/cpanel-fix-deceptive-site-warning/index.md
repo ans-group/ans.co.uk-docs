@@ -43,25 +43,25 @@ Using an alternate browser (as this issue only affects the latest chrome update)
 
 Once logged in, in the navigation bar on the left, click the dropdown for "Networking Setup", and the Select "Change Hostname".
 
-![WHM Change Hostname Option](../../../operating-systems-images/whm-change-hostname-1.PNG)
+![WHM Change Hostname Option](../../../operating-systems-images/whm-change-hostname-1.png)
 
 In the New Hostname box, enter the hostname you've chosen to use, and click "change".
 
-![WHM Change Hostname Page](../../../operating-systems-images/whm-change-hostname-2.PNG)
+![WHM Change Hostname Page](../../../operating-systems-images/whm-change-hostname-2.png)
 
 You'll see a confirmation screen that looks like the following. If no errors are shown then the change was successful.
 
-![WHM Change Hostname Confirmation](../../../operating-systems-images/whm-change-hostname-3.PNG)
+![WHM Change Hostname Confirmation](../../../operating-systems-images/whm-change-hostname-3.png)
 
 WHM Should now automatically update the SSL certificate for the new hostname, but If you want to double check, go to the "Manage Service SSL Certificates" option, under Service configuration in the navigation bar, and check the "Certificate properties" field, to ensure it matches the new hostname.
 
-![WHM Service SSL Certs ](../../../operating-systems-images/whm-service-ssl-certs.PNG)
+![WHM Service SSL Certs ](../../../operating-systems-images/whm-service-ssl-certs.png)
 
 If it does not match, then click the corresponding "reset certificate" option.
 
 Once the `A` record has propagated, you'll now be able to browse the WHM Login, using the server's hostname and port `2087` without any warnings, e.g. `https://server.exampledomain.com:2087/`.
 
-![WHM Successful SSL ](../../../operating-systems-images/whm_successful_ssl.PNG)
+![WHM Successful SSL ](../../../operating-systems-images/whm_successful_ssl.png)
 
 You will also need to update the server's rDNS in ANS Glass to match the new hostname, otherwise you may experience issues sending email from the server. You can use the following guide for this:
 

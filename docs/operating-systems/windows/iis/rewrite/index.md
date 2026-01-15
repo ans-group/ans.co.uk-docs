@@ -34,11 +34,11 @@ Firstly, you will need to obtain the URL Rewrite module for IIS, this can be dow
 
 Once you have obtained the module, please select it from the location which you downloaded it to. Once opened, you should be presented with a licence agreement. Please tick the accept box as below:
 
-![Module Install](../../../operating-systems-images/licenceagreement.PNG)
+![Module Install](../../../operating-systems-images/licenceagreement.png)
 
 Once you have selected the accept box, please click the `Install` button. The installation of the module will begin immediately as below and will confirm once it has completed.
 
-![Module Installing](../../../operating-systems-images/installation.PNG)
+![Module Installing](../../../operating-systems-images/installation.png)
 
 ## Accessing the URL Rewrite module
 
@@ -48,16 +48,16 @@ Select `Server Manager`, you can do this by selecting `Start` and then selecting
 
 Once the `Server Manager` has opened, please select `Tools`, and select `Internet Information Services (IIS)` from the resulting menu as below:
 
-![Server Manager](../../../operating-systems-images/servermanager.PNG)
+![Server Manager](../../../operating-systems-images/servermanager.png)
 
 You will now be presented with the IIS window. Pop out the server instance and then pop out the `Sites` option from the `Connections` pane.
 Select the site which you wish to configure URL rewrites for. Once you have done so, locate the URL Rewrite module in the central feature view. Right click on it as below and select `Open Feature` from the resulting context menu.
 
-![Rewrite module selected](../../../operating-systems-images/moduleselected.PNG)
+![Rewrite module selected](../../../operating-systems-images/moduleselected.png)
 
 You will now be presented with the URL Rewrite module as below. Over to the right hand side of the pane, you will see the `Actions` section. From here you can carry out a number of different functions.
 
-![Rewrite Open](../../../operating-systems-images/moduleopened.PNG)
+![Rewrite Open](../../../operating-systems-images/moduleopened.png)
 
 The URL Rewrite module requires rules to be written for each function you wish to carry out, a guide on how to write these rules can be found at the link below which explains the various different functions and how to implement them.
 

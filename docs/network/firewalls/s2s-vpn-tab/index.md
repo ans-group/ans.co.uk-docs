@@ -18,7 +18,7 @@ keywords:
 
 On the VPN tab of the editor, click the `Details` button on the **Site to Site** Section.
 
-![Site to Site Dashboard](../../networking-images/editor2_s2s_dash.PNG)
+![Site to Site Dashboard](../../networking-images/editor2_s2s_dash.png)
 
 This screen displays information about the currently configured site-to-site VPNs on your firewall. There is also the option to create a site-to-site VPN by clicking the `Add New` button at the top of the page.
 
@@ -27,7 +27,7 @@ This screen displays information about the currently configured site-to-site VPN
 You can see the peer IP and connection status for VPNs configured on the firewall. If the VPN is connected you can force a termination of the tunnel by clicking the `Rekey Connection` button. If you click
 the `Edit` button you are then given the option to change the Peer IP and/or Pre-shared key in use on the tunnel.
 
-![Edit Peer IP](../../networking-images/editor2_change_peer_ip.PNG)
+![Edit Peer IP](../../networking-images/editor2_change_peer_ip.png)
 
 Enter the peer IP and PSK into the boxes provided and click `Update`.
 
@@ -37,7 +37,7 @@ Please note, the change is not made to the firewall until you click `Apply Chang
 
 If you click the `Add New` button at the top of the page you can configure a new site-to-site VPN on your firewall.
 
-![New S2S VPN](../../networking-images/editor2_config_new_s2s.PNG)
+![New S2S VPN](../../networking-images/editor2_config_new_s2s.png)
 
 ### Required elements:
 

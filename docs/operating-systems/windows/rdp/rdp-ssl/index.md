@@ -24,35 +24,35 @@ To configure SSL for RDP, different steps are required for different versions of
 
 Select `Start`, then select `Administrative Tools` from the right side of the `Start Menu`. Now select `Remote Desktop Services`. From the 3 available options, please select `Remote Desktop Session Host Configuration`, as below:
 
-![Session Host Config](../../../operating-systems-images/startmenu.PNG)
+![Session Host Config](../../../operating-systems-images/startmenu.png)
 
 You will now be presented with the `Session Host Configuration` window, as below:
 
-![Session Host Config](../../../operating-systems-images/sessionhostconf.PNG)
+![Session Host Config](../../../operating-systems-images/sessionhostconf.png)
 
 Within the central field you will see the `Connections` section. Within this section, you should have an entry named `RDP-Tcp`. Right click on this and select `Properties`, as below:
 
-![Session Host Prop](../../../operating-systems-images/sessionhostprop.PNG)
+![Session Host Prop](../../../operating-systems-images/sessionhostprop.png)
 
 You will now be presented with the `Properties` for the connection. Within the `General` tab, you will see a number of options in their default state, as below:
 
-![RDP-TCP Prop](../../../operating-systems-images/defaultprops.PNG)
+![RDP-TCP Prop](../../../operating-systems-images/defaultprops.png)
 
 Select the drop down box next to `Security Layer` and select `SSL (TLS 1.0)`. Select the drop down box next to `Encryption Level` and select `High`, as below:
 
-![RDP-TCP prop2](../../../operating-systems-images/newpropswithoutssl.PNG)
+![RDP-TCP prop2](../../../operating-systems-images/newpropswithoutssl.png)
 
 Near the bottom of the pane, you will see a small section named `Certificate` and it will display `Auto Generated` next to it. Click on the `Select` box underneath. You will now be asked to select the SSL certificate which you wish to use, as below:
 
-![SSL Selection](../../../operating-systems-images/selectssl.PNG)
+![SSL Selection](../../../operating-systems-images/selectssl.png)
 
 Select the SSL certificate that you wish to use and select `OK`. You will now be returned to the `RDP-Tcp` properties window as below. You will see that `Auto generated` has now been replaced with your certificate name.
 
-![SSL Selected](../../../operating-systems-images/newpropswithssl.PNG)
+![SSL Selected](../../../operating-systems-images/newpropswithssl.png)
 
 Select `OK` and you will now be presented with a confirmation message as below. This message is a notice that the changes have been made, but they will not apply to any currently logged in sessions.
 
-![Warning](../../../operating-systems-images/confirmation.PNG)
+![Warning](../../../operating-systems-images/confirmation.png)
 
 To force any active connections to disconnect, you can ask the current users to log off and back on again, or you can simply restart the `Remote Desktop Services` service. Any new connections will then be formed using the new security settings which you have just set.
 
@@ -62,15 +62,15 @@ The process for Windows Server 2012 / 2012 R2 is somewhat different. It is a pre
 
 Select `Start`, then select `Administrative Tools` from the list of available applications, as below:
 
-![Admintools](../../../operating-systems-images/admintools.PNG)
+![Admintools](../../../operating-systems-images/admintools.png)
 
 From the list of `Administrative Tools`, please select the `Remote Desktop Services` icon, as below:
 
-![rds options](../../../operating-systems-images/rds.PNG)
+![rds options](../../../operating-systems-images/rds.png)
 
 In the following window, select the `Remote Desktop Gateway Manager` icon from the list, as below:
 
-![RDS gateway manager](../../../operating-systems-images/rdsgw.PNG)
+![RDS gateway manager](../../../operating-systems-images/rdsgw.png)
 
 :::note
 If this is not present then the Remote Desktop Gateway role is missing and you will need to install it.
@@ -78,23 +78,23 @@ If this is not present then the Remote Desktop Gateway role is missing and you w
 
 You will now be presented with the `Gateway Manager` window, as below:
 
-![Gateway Manager](../../../operating-systems-images/gatewaymanager.PNG)
+![Gateway Manager](../../../operating-systems-images/gatewaymanager.png)
 
 From this window, right click on the server name from the left-hand menu and select `Properties`.
 
-![Right click](../../../operating-systems-images/gwrightclickprops.PNG)
+![Right click](../../../operating-systems-images/gwrightclickprops.png)
 
 The `Server Name` properties (in this case `WINDOWS`) will now be displayed. Select the `SSL Certificates` tab, as below:
 
-![SSL options](../../../operating-systems-images/props.PNG)
+![SSL options](../../../operating-systems-images/props.png)
 
 You will see that the `Select an existing certificate from the RD Gateway` option is selected. Select the `Import Certificate` button. In the new window that appears, select the required certificate from the list, then click `Import`.
 
-![Import](../../../operating-systems-images/selecttoimport.PNG)
+![Import](../../../operating-systems-images/selecttoimport.png)
 
 The `Properties` window will now be displayed once more and you will be able to see your certificate selected in the top portion of the pane, as below. Select `OK` to complete the process.
 
-![Selected](../../../operating-systems-images/imported.PNG)
+![Selected](../../../operating-systems-images/imported.png)
 
 :::note
 As with the previous guide, only new sessions will use the new configuration. To ensure users are using the correct connection parameters, please ask them to log off and back on again. Alternatively, restart the `Remote Desktop Services` service.
@@ -106,4 +106,4 @@ The process for Windows Server 2016 is identical to that of Windows Server 2012 
 
 The `Start Menu` has been re-designed in Windows Server 2016. Please view the below screenshot which shows where you will be able to locate the `Windows Administrative Tools`
 
-![Server 2016](../../../operating-systems-images/2016startmenu.PNG)
+![Server 2016](../../../operating-systems-images/2016startmenu.png)

@@ -40,22 +40,22 @@ This patch is a preventative measure, however, and if the issue has already occu
 
 Once the server has booted in to safe mode, select the `Start` menu, type `regedit`, and then press `ENTER` as below.
 
-![Regedit](../../../operating-systems-images/Regedit.PNG)
+![Regedit](../../../operating-systems-images/Regedit.png)
 
 You should now be presented with the Registry Editor. Navigate through the hive to reach the `HTTP` key. The full path to this key is `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\HTTP`. Once you have reached the HTTP key, you should now be presented with the required location as demonstrated below.
 
-![Regedit](../../../operating-systems-images/regeditserviceshttp.PNG)
+![Regedit](../../../operating-systems-images/regeditserviceshttp.png)
 
 Right click on the `HTTP` folder and select `New`, then select `Multi-String value` as below.
 
-![New Multi-string value](../../../operating-systems-images/multistringvalue.PNG)
+![New Multi-string value](../../../operating-systems-images/multistringvalue.png)
 
 A new key will now be created. Name the key `DependOnService` and click in a blank area to set the name. Now right click the `DependOnService` key and select `Modify` as below.
 
-![Modify Context](../../../operating-systems-images/Modify.PNG)
+![Modify Context](../../../operating-systems-images/Modify.png)
 
 You will now be presented with the `Edit Multi-String` pane, in the `Value Data` field, please enter `CRYPTSVC` and select `Enter` as below.
 
-![Cryptsvc entry](../../../operating-systems-images/regkey.PNG)
+![Cryptsvc entry](../../../operating-systems-images/regkey.png)
 
 Please close the Registry Editor, and reboot your server at the earliest opportunity to apply the new Registry Key. On this occasion, leave the server to boot normally and the issue should now be resolved, allowing you to log in as normal.

@@ -46,15 +46,15 @@ This process is identical on Windows Server 200R 2, Windows Server 2012 & 2012 R
 
 Select `Start`, type `regedit`, and select the `regedit.exe` icon which is presented as below:
 
-![Regedit](../../../operating-systems-images/regedit.PNG)
+![Regedit](../../../operating-systems-images/regedit.png)
 
 You will now be presented with the `regedit` window as below:
 
-![Regedit opened](../../../operating-systems-images/regeditopen.PNG)
+![Regedit opened](../../../operating-systems-images/regeditopen.png)
 
 Starting at `HKEY_LOCAL_MACHINE` on the left hand side of the window, please navigate through the hive to the location `\SYSTEM\CurrentcontrolSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0` in the registry, as below:
 
-![TLS 1.0 Root](../../../operating-systems-images/tls1root.PNG)
+![TLS 1.0 Root](../../../operating-systems-images/tls1root.png)
 
 If the TLS 1.0 key is not present, you will need to create it. To do so, please follow the below numbered steps:
 
@@ -73,7 +73,7 @@ Now right click the `Enabled` value, and select `Modify...`. The `Edit DWORD` pa
 
 You should now be able to see your new key as below:
 
-![Server key set](../../../operating-systems-images/serverkeyset.PNG)
+![Server key set](../../../operating-systems-images/serverkeyset.png)
 
 We now need to carry out the same steps for the `Client` key, as follows:
 
@@ -83,6 +83,6 @@ Now right click the `Enabled` value, select `Modify...`, the `Edit DWORD` panel 
 
 You should now be able to see your new `Client` key as below:
 
-![Client key set](../../../operating-systems-images/clientkeyset.PNG)
+![Client key set](../../../operating-systems-images/clientkeyset.png)
 
 The keys to disable TLS 1.0 from the server side and also to refuse client connections using TLS 1.0 are now set. In order for the keys to take effect, your server must now be restarted.

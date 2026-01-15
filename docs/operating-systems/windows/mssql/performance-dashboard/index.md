@@ -36,19 +36,19 @@ Once the Performance Dashboard has been installed, before it can be used, you wi
 
 Now that the setup process for the Performance Dashboard has been completed, you will need to access it via MSSQL Management Studio. To do so, pop out the `Databases` tab in the `Object Explorer`, then right click on the database which you wish to run the Performance Dashboard for (as below). Select `Report`, then `Custom Reports`.
 
-![Right click context](../../../operating-systems-images/rightclickcontextreports.PNG)
+![Right click context](../../../operating-systems-images/rightclickcontextreports.png)
 
 You will now be presented with an `Open File` context box. Navigate to the location where Performance Dashboard has been installed. By default this is `C:\Program Files(x86)\Microsoft SQL Server\110\Tools\Performance Dashboard`. Then select the `performance_dashboard_main.rdl`, as shown:
 
-![Location](../../../operating-systems-images/perdashlocation.PNG)
+![Location](../../../operating-systems-images/perdashlocation.png)
 
 Once you have selected the `performance_dashboard_main.rdl` file, you will be presented with a context box named `Run Custom Report`. This box will contain a warning, like shown. In this instance, select `Run`.
 
-![Warning](../../../operating-systems-images/runreport.PNG)
+![Warning](../../../operating-systems-images/runreport.png)
 
 The Performance Dashboard report will generate, and once complete should be presented in your main field of view.
 
-![Performance](../../../operating-systems-images/perfdashboard.PNG)
+![Performance](../../../operating-systems-images/perfdashboard.png)
 
 :::tip
 You can navigate the Performance Dashboard to review different pieces of information. Generally, any information which is underlined can be selected to provide further details specifically related to that title.

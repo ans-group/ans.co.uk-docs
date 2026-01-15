@@ -125,7 +125,7 @@ WHM does not offer a downgrade option, so any rollback would require a full serv
 - Log into [WHM](../../control-panels/cpanel/).
 - In the _search bar_, search for `MySQL/MariaDB Upgrade`.
 
-![Search](../../../operating-systems-images/mariadbsearch.PNG)
+![Search](../../../operating-systems-images/mariadbsearch.png)
 
 - WHM will show the minimum version as being whatever is installed, and doesn't offer below 5.6 (soon to be 5.7). It also provides a brief description of any **new features**, along with the **release date** and **end of life** date.
 
@@ -139,11 +139,11 @@ The selected MySQL version (5.7) is more than one generation newer than the curr
   - _`Unattended`_ will automatically upgrade the packages and run `mysql_upgrade` _post-installation_. **This is the recommended option.**
   - _`Interactive`_ will prompt you every step of the way.
 
-![Options](../../../operating-systems-images/mariadbupgrade.PNG)
+![Options](../../../operating-systems-images/mariadbupgrade.png)
 
 - Click `Continue`, and the upgrade will complete automatically.
 
-![Options](../../../operating-systems-images/mariadbupgrade2.PNG)
+![Options](../../../operating-systems-images/mariadbupgrade2.png)
 
 :::note
 Be sure to test your website functionality after this change.

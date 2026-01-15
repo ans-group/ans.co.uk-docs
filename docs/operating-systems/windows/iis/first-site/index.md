@@ -25,15 +25,15 @@ In order to begin the process of setting up your first site in IIS, you will fir
 
 Once IIS has been launched, you will be presented with a landing page similar to the one below:
 
-![IIS Landing page](../../../operating-systems-images/IISlandingpage.PNG)
+![IIS Landing page](../../../operating-systems-images/IISlandingpage.png)
 
 From this page, please pop out the server instance (in this case named "Windows2012R2"), and pop out the sites tab to reveal `Default Web Site` as below:
 
-![IIS default site](../../../operating-systems-images/serverinstance.PNG)
+![IIS default site](../../../operating-systems-images/serverinstance.png)
 
 Select the `Default Web Site` and right click to bring up the context menu, select `Remove` from the list of options as below. This will delete the `Default Web Site` from your IIS instance.
 
-![IIS default removed](../../../operating-systems-images/rightclickcontextdelete.PNG)
+![IIS default removed](../../../operating-systems-images/rightclickcontextdelete.png)
 
 Now, right click on the `Sites` tab, and select `Add Website`. You will now be presented with the `Add Website` pane. Within this pane you will need to add several details about the site which you wish to create.
 
@@ -47,6 +47,6 @@ The `Add Website` pane should now look very similar to the example below:
 
 Once you are happy that the details are correct, please select `OK`. You will now be returned to the IIS Manager, where you should be able to see your new site listed within the connections pane on the left hand side of the window.
 
-![New Site Added](../../../operating-systems-images/newsiteactive.PNG)
+![New Site Added](../../../operating-systems-images/newsiteactive.png)
 
 - Your new site is now added to IIS and is ready to accept connections once the required content has been added and the appropriate changes have been made in DNS.

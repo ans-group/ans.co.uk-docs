@@ -23,19 +23,19 @@ Open `Server Manager` either by selecting the Taskbar shortcut, or by selecting 
 
 Once you have opened Server Manager, select `Tools`, then `Computer Management` from the list of options as below:
 
-![Server Manager](../../../operating-systems-images/contextmenu.PNG)
+![Server Manager](../../../operating-systems-images/contextmenu.png)
 
 You will now be presented with the computer management console. On the left hand side of the window, please pop out the `Storage` section of the list, and select `Disk Management`.
 
 In the central field of the window, you should now be presented with the Disk Management console after a few seconds as below:
 
-![Disk Management](../../../operating-systems-images/diskmanagement.PNG)
+![Disk Management](../../../operating-systems-images/diskmanagement.png)
 
 This console will provide you with information about your currently installed hard disk drives, and will also allow you to make changes to the partitioning and file systems of those hard disks, as well as carry out other functions such as extending and shrinking current partitions.
 
 To view this information and make changes, please select the disk of your choice, and right click to view the available options for that drive as below:
 
-![Options](../../../operating-systems-images/diskmanagementcontextmenu.PNG)
+![Options](../../../operating-systems-images/diskmanagementcontextmenu.png)
 
 ## Extending a partition
 
@@ -43,19 +43,19 @@ To extend a partition in order to make use of additional space, follow the steps
 
 When additional capacity is added to a Windows Server, the space needs to be either added to an existing partition, or used to create a new partition, before it becomes usable. The example below shows how extra capacity will appear in the Disk Management console.
 
-![Disk Management-With Extra Space](../../../operating-systems-images/freespacevisible.PNG)
+![Disk Management-With Extra Space](../../../operating-systems-images/freespacevisible.png)
 
 In this example, we would like to extend drive `C:` to make use of the additional 20GB of available disk space. To do this, right click on the drive `C:` partition as below and select `Extend Volume` from the context menu.
 
-![Partition Options](../../../operating-systems-images/rightclickpartition.PNG)
+![Partition Options](../../../operating-systems-images/rightclickpartition.png)
 
 You will now be presented with the `Extend Volume Wizard` shown below, please select `Next`.
 
-![Extend Wizard](../../../operating-systems-images/extendwizard.PNG)
+![Extend Wizard](../../../operating-systems-images/extendwizard.png)
 
 The `Select Disks` pane will now be displayed as below.
 
-![Select Disks](../../../operating-systems-images/spaceselect.PNG)
+![Select Disks](../../../operating-systems-images/spaceselect.png)
 
 This pane will already be configured correctly for you to use the maximum available amount of space on the disk, however 2 options are worth noting.
 
@@ -66,10 +66,10 @@ If for example, you only wish to add 10GB of the 20GB available to drive `C:`, y
 
 You will now be presented with the Completing the Extend Volume Wizard pane as below. Please review the selected setting in the middle of the pane, and then select `Finish`.
 
-![Finish](../../../operating-systems-images/complete.PNG)
+![Finish](../../../operating-systems-images/complete.png)
 
 You will be returned to the Disk Management console, where you will see that the partition has been expanded as per the example below
 
-![Space Added](../../../operating-systems-images/diskmanwithspaceadded.PNG)
+![Space Added](../../../operating-systems-images/diskmanwithspaceadded.png)
 
 The additional space is now usable.

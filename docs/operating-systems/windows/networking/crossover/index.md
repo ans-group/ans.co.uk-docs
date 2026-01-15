@@ -37,11 +37,11 @@ If you host your own solution and wish to configure a crossover connection, plea
 
 Select `Start`, then select `Control Panel` from the list of available applications. Within Control Panel, select `Network and Sharing Centre` as below:
 
-![Network and sharing centre](../../../operating-systems-images/netsharecentre.PNG)
+![Network and sharing centre](../../../operating-systems-images/netsharecentre.png)
 
 You will now be presented with the Network and Sharing Centre. From this window, please select `Change adapter settings` as below:
 
-![Change adapter Settings](../../../operating-systems-images/changeadapter.PNG)
+![Change adapter Settings](../../../operating-systems-images/changeadapter.png)
 
 Right click on your second adapter and select `Properties`. You will now be presented with the NIC properties as below. From this window, select `Internet Protocol Version 4 (IPv4)` from the list and select the `Properties` button.
 

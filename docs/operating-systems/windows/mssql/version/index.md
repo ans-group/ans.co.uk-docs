@@ -25,7 +25,7 @@ If you want to find which version of Microsoft SQL and what Service Pack you are
 
 You will need to open up and connect into Microsoft SQL Server Management Studio. The easiest way in Windows 2012 is to click on `Start` and to start free-typing "SSMS". Then click on `New Query` and paste the below query, which will then present a results window supplying the relevant information:
 
-![SQL Studio Manager Query](../../../operating-systems-images/ssms_Version2.PNG)
+![SQL Studio Manager Query](../../../operating-systems-images/ssms_Version2.png)
 
 ```sql
 USE master
@@ -40,7 +40,7 @@ GO
 
 You can parse the query to check syntax via the green tick highlighted in the above screenshot, or just click on `Execute`.
 
-![Query Results](../../../operating-systems-images/ssms_Version1.PNG)
+![Query Results](../../../operating-systems-images/ssms_Version1.png)
 
 Take a copy of the product results in the query. In this case, when searching `13.0.1771.0`, go to the link below using either `CTRL + F` and search for the build number, or manually scroll and search.
 

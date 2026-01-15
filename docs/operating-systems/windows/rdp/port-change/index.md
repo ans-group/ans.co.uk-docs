@@ -28,7 +28,7 @@ An important part of this process is to ensure that the new port is first opened
 
 In order to change the RDP port, you will first need to access the Registry Editor. Please select `Start`, and type `regedit`. Select the `regedit` application from the list, as below:
 
-![Regedit](../../../operating-systems-images/regedit.PNG)
+![Regedit](../../../operating-systems-images/regedit.png)
 
 You will now be presented with the `Registry Editor` as below. Navigate through the hive until you reach this path:
 
@@ -36,11 +36,11 @@ You will now be presented with the `Registry Editor` as below. Navigate through 
 HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TerminalServer\WinStations\RDP-Tcp
 ```
 
-![Regedit1](../../../operating-systems-images/regedit1.PNG)
+![Regedit1](../../../operating-systems-images/regedit1.png)
 
 Now select the `RDP-Tcp` node, and you will see a number of registry keys in the centre field. Scroll through these keys until you find `PortNumber`. Right click the `PortNumber` key, and select `Modify`. You will now be presented with the `Edit DWORD (32-bit) Value` dialog, as below:
 
-![Regedit Final](../../../operating-systems-images/regedit12.PNG)
+![Regedit Final](../../../operating-systems-images/regedit12.png)
 
 Select the radio button next to `Decimal` in the base section, then in the `Value Data` field, enter the new port which you would like to use for `Remote Desktop Services`. Click `OK` and close the Registry Editor.
 
@@ -50,16 +50,16 @@ Open `Server Manager`. This can be done by either selecting the `Server Manager`
 
 Select `Tools`, then select `Computer Management`, as below:
 
-![Server Manager](../../../operating-systems-images/smcomputermanagement.PNG)
+![Server Manager](../../../operating-systems-images/smcomputermanagement.png)
 
 You will now be presented with the `Computer Management` console, select `Services and Applications` and then select the `Services` option.
 The centre view will now be populated with the services which run on your server. Scroll down the list and select `Remote Desktop Services`, as below:
 
-![RDS](../../../operating-systems-images/rds.PNG)
+![RDS](../../../operating-systems-images/rds.png)
 
 Right click on `Remote Desktop Services` and select `Restart` from the context menu.
 
-![RDS Restart](../../../operating-systems-images/rightclickrestart.PNG)
+![RDS Restart](../../../operating-systems-images/rightclickrestart.png)
 
 At this point all `Remote Desktop` sessions to the server will be terminated while the service restarts. Once the service has finished restarting, you will be able to form your new connection by adding the new port number to the connection string, as demonstrated below:
 

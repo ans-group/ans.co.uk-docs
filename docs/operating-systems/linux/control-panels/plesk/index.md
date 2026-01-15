@@ -43,7 +43,7 @@ Following that, click the "Add Exception" button and then in the pop-up window, 
 Now you are on the Plesk Login Screen, you can log in using the details provided on server launch.
 If you need the details for you Plesk Server, the Primary Contact on your Account can retrieve them via their ANS Glass Area.
 
-![Server Credentials](../../../operating-systems-images/servercredentials.PNG)
+![Server Credentials](../../../operating-systems-images/servercredentials.png)
 
 In addition to the above, you can also connect to your panel though the ANS Glass portal by navigating to the server screen and clicking the link "External Login" as shown in the screenshot below.
 

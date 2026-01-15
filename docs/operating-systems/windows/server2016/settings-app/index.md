@@ -26,11 +26,11 @@ If you are not yet familiar with Windows Server 2016, please use the below overv
 
 In order to access the Settings app, you simply need to select the `Start` button and select the small cog icon on the left hand side of the Start menu as below:
 
-![start settings](../../../operating-systems-images/startsettings.PNG)
+![start settings](../../../operating-systems-images/startsettings.png)
 
 You will now be presented with the Settings app `Windows Settings` window. In this window, you will see 9 different categories as below:
 
-![Settings App](../../../operating-systems-images/settingsapp.PNG)
+![Settings App](../../../operating-systems-images/settingsapp.png)
 
 ## System
 
@@ -38,31 +38,31 @@ The System Category contains the following important sections
 
 - **Display** - Used to change icon size, screen orientation and access advanced display settings.
 
-![Display](../../../operating-systems-images/display.PNG)
+![Display](../../../operating-systems-images/display.png)
 
 - **Apps & Features** - Used to modify or remove an installed application, as well as add optional features and access programs and features.
 
-![apps and features](../../../operating-systems-images/appandfeatures.PNG)
+![apps and features](../../../operating-systems-images/appandfeatures.png)
 
 - **Default apps** - Used to set or change default applications such as internet browsers for web pages and links, email clients for e-mail links, etc.
 
-![Default Apps](../../../operating-systems-images/defaultapps.PNG)
+![Default Apps](../../../operating-systems-images/defaultapps.png)
 
 - **Power & sleep** - To change the screen off timeout, and access advanced power settings.
 
-![Power and Sleep](../../../operating-systems-images/powerandsleep.PNG)
+![Power and Sleep](../../../operating-systems-images/powerandsleep.png)
 
 - **Storage** - To view storage use, as well as to select default save location when downloading files or installing new applications.
 
-![Storage](../../../operating-systems-images/storage.PNG)
+![Storage](../../../operating-systems-images/storage.png)
 
 - **Multitasking** - To set window snap behaviour and choose virtual desktop identification options.
 
-![Multitasking](../../../operating-systems-images/multitasking.PNG)
+![Multitasking](../../../operating-systems-images/multitasking.png)
 
 - **About** - Displays basic information about the server, allows domain connection, renaming of the Server, as well as several other options such as administrative tools, BitLocker settings, and device manager.
 
-![About](../../../operating-systems-images/about.PNG)
+![About](../../../operating-systems-images/about.png)
 
 ## Devices
 
@@ -70,15 +70,15 @@ The Devices category contains the following important sections:
 
 - **Printers & scanners** - Used to add new printers or scanners and to access devices and printers.
 
-![Printers and scanners](../../../operating-systems-images/printersandscanners.PNG)
+![Printers and scanners](../../../operating-systems-images/printersandscanners.png)
 
 - **Connected devices** - Displays information about currently connected peripheral devices as well as providing the option to add a device.
 
-![Connected Devices](../../../operating-systems-images/connecteddevices.PNG)
+![Connected Devices](../../../operating-systems-images/connecteddevices.png)
 
 - **USB** - Provides an option to receive notifications if an issue occurs while connecting USB devices.
 
-![USB](../../../operating-systems-images/usb.PNG)
+![USB](../../../operating-systems-images/usb.png)
 
 ## Network & Internet
 
@@ -86,25 +86,25 @@ The Network & Internet category contains the following important sections:
 
 - **Status** - Provides an overview of current network connections and allows you to configure options such as Windows Firewall, adapter settings, and carry out a network reset.
 
-![Network Status](../../../operating-systems-images/networkstatus.PNG)
+![Network Status](../../../operating-systems-images/networkstatus.png)
 
 - **Ethernet** - Displays active network connections and displays their IP address, MAC address and driver version, as well as providing access to `homegroup`, Network and Sharing Center and advanced sharing options.
 
-![Ethernet](../../../operating-systems-images/ethernetoptions.PNG)
+![Ethernet](../../../operating-systems-images/ethernetoptions.png)
 
 - **VPN** - Allows you to add a VPN connection.
 
-![VPN](../../../operating-systems-images/vpnoptions.PNG)
+![VPN](../../../operating-systems-images/vpnoptions.png)
 
 - **Proxy** - Allows you to configure a proxy connection and change automatic proxy options.
 
-![Proxy](../../../operating-systems-images/proxyoptions.PNG)
+![Proxy](../../../operating-systems-images/proxyoptions.png)
 
 ## Personalisation
 
 The Personalisation section allows you to change appearance settings for Windows Server 2016; such as wallpaper, colour hue, lock screen options, themes, and start/taskbar options.
 
-![personalisation](../../../operating-systems-images/personalisation.PNG)
+![personalisation](../../../operating-systems-images/personalisation.png)
 
 ## Accounts
 
@@ -112,15 +112,15 @@ The Accounts category contains the following sections:
 
 - **Your info** - Provides information about your user account and allows you to assign a profile picture.
 
-![Your Info](../../../operating-systems-images/yourinfo.PNG)
+![Your Info](../../../operating-systems-images/yourinfo.png)
 
 - **Sign-in options** - Allows you to change several options surrounding your login such as password and privacy and to access the lock screen options.
 
-![Sign-in Options](../../../operating-systems-images/signinoptions.PNG)
+![Sign-in Options](../../../operating-systems-images/signinoptions.png)
 
 - **Other people** - Provides options to create new user accounts and to configure unsigned access.
 
-![Other People](../../../operating-systems-images/otherpeople.PNG)
+![Other People](../../../operating-systems-images/otherpeople.png)
 
 ## Time & language
 
@@ -128,27 +128,27 @@ The Time & language category contains the following sections:
 
 - **Date & time** - Provide options to change time and date settings, as well as to adjust formats and regional settings.
 
-![Date & time](../../../operating-systems-images/dateandtime.PNG)
+![Date & time](../../../operating-systems-images/dateandtime.png)
 
 - **Region & language** - Provides the ability to select different languages and set the locale.
 
-![Region & Language](../../../operating-systems-images/regionandlanguage.PNG)
+![Region & Language](../../../operating-systems-images/regionandlanguage.png)
 
 - **Speech** - Allows you to set speech settings to be used in conjunction with ease of access features and speech recognition.
 
-![Speech](../../../operating-systems-images/speech.PNG)
+![Speech](../../../operating-systems-images/speech.png)
 
 ## Ease of Access
 
 The Ease of Access category contains a multitude of settings designed to improve ease of use for those with visual/hearing impairment or physical disability.
 
-![Ease of Access](../../../operating-systems-images/easeofaccess.PNG)
+![Ease of Access](../../../operating-systems-images/easeofaccess.png)
 
 ## Privacy
 
 The Privacy category contains several sections which allow you to customise your privacy in a multitude of different scenarios.
 
-![Privacy options](../../../operating-systems-images/privacy.PNG)
+![Privacy options](../../../operating-systems-images/privacy.png)
 
 ## Update & security
 
@@ -156,14 +156,14 @@ The Update & security category contains the following important sections:
 
 - **Windows Update** - This section allows you to install available updates, as well as set active hours, restart options, and update options.
 
-![Windows Update](../../../operating-systems-images/windowsupdate.PNG)
+![Windows Update](../../../operating-systems-images/windowsupdate.png)
 
-![Active Hours](../../../operating-systems-images/changeactivehours.PNG)
+![Active Hours](../../../operating-systems-images/changeactivehours.png)
 
-![Custom Restart time](../../../operating-systems-images/customrestarttime.PNG)
+![Custom Restart time](../../../operating-systems-images/customrestarttime.png)
 
-![Additional Updates](../../../operating-systems-images/additionalupdates.PNG)
+![Additional Updates](../../../operating-systems-images/additionalupdates.png)
 
 - **Windows Defender** - Allows you to launch Windows Defender as well as set protection options and make exclusions.
 
-![Windows Defender](../../../operating-systems-images/windowsdefender.PNG)
+![Windows Defender](../../../operating-systems-images/windowsdefender.png)

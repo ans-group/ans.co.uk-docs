@@ -86,7 +86,7 @@ mysql -u root -p example_db < example_db.sql
 5. Hit `Go` to start the import of the database file.
 6. When successful, a message should appear `Import has been successfully finished`.
 
-![PHPMyAdmin](../../../operating-systems-images/phpmyadmin.PNG)
+![PHPMyAdmin](../../../operating-systems-images/phpmyadmin.png)
 
 ## MySQL Workbench
 
@@ -98,4 +98,4 @@ mysql -u root -p example_db < example_db.sql
 6. Hit `Start Import` the import of the database file.
 7. When successful, a message should appear `Import of /root/exampl_db.sql has finished`.
 
-![MySQL Workbench](../../../operating-systems-images/workbench.PNG)
+![MySQL Workbench](../../../operating-systems-images/workbench.png)

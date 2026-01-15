@@ -31,13 +31,13 @@ To configure Remote Desktop clipboard, please open the Remote Desktop Connection
 
 You should now be presented with the Remote Desktop Connection application which will look like this.
 
-![mstsc](../../../operating-systems-images/MSTSCoptions.PNG)
+![mstsc](../../../operating-systems-images/MSTSCoptions.png)
 
 From this window, please select the `Options` button in the bottom left hand corner of the window. This will expand the window and provide you with a number of options which were previously not visible.
 
 Select the `Local Resources` tab and ensure that the `Clipboard` option is ticked as below:
 
-![Clipboard option](../../../operating-systems-images/RDPclipboardoption.PNG)
+![Clipboard option](../../../operating-systems-images/RDPclipboardoption.png)
 
 With the above option set, establish your connection.
 
@@ -95,17 +95,17 @@ Now that the FTP server has been installed, you will need to create a user accou
 
 First of all, you will need to open the FileZilla Server Interface. Depending on your chosen options during the installation process, the interface may open automatically for you, but if not, you can launch it by selecting `Start` and selecting `FileZilla Server Interface`, as below.
 
-![FileZilla Server interface start](../../../operating-systems-images/ftpserverinstance.PNG)
+![FileZilla Server interface start](../../../operating-systems-images/ftpserverinstance.png)
 
 You should now be presented with the FileZilla Server Interface as below. This window will be pre-populated with the host `localhost`, meaning the server you are working on, and the admin port which you have chosen during the installation process.
 
 The password field will be blank. This is as expected and does not matter at this point as a password has not yet been configured. Once you are sure that the details are as expected, click `Connect`.
 
-![FileZilla Server interface login](../../../operating-systems-images/serverentrypane.PNG)
+![FileZilla Server interface login](../../../operating-systems-images/serverentrypane.png)
 
 You will now be logged in to your FTP server, and will be presented with an FTP console as below.
 
-![FileZilla Server interface logged in](../../../operating-systems-images/serveropen.PNG)
+![FileZilla Server interface logged in](../../../operating-systems-images/serveropen.png)
 
 From this pane, select `Edit` and `Users` to open the "Users" pane.
 

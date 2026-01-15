@@ -34,27 +34,27 @@ Select the `Inbound Rules` item from the available options on the left hand side
 
 The `New Inbound Rule Wizard` will now be displayed as below. The first pane of the wizard asks you choose the type of rule which you want to create. Select `Port` then select `Next`.
 
-![Rule Type](../../../operating-systems-images/in1.PNG)
+![Rule Type](../../../operating-systems-images/in1.png)
 
 The next pane asks you to choose the `Protocol and Ports` which you wish to configure the rule for as below. Choose `TCP` and select `Specific local ports`. Once you have selected those options, please enter `3399` in the `Specific local ports` field and select `Next`.
 
-![Protocol and Ports](../../../operating-systems-images/in3.PNG)
+![Protocol and Ports](../../../operating-systems-images/in3.png)
 
 You will now be asked to specify the action which you wish the rule to carry out. In this instance, select `Allow the connection` as below and select `Next`.
 
-![Action](../../../operating-systems-images/in4.PNG)
+![Action](../../../operating-systems-images/in4.png)
 
 The next pane is the `Profile` pane. In this pane, you will need to select on which type of connection does the rule apply i.e from a public or private network connection, for this demonstration, please select all 3 options as below:
 
-![Profile](../../../operating-systems-images/in5.PNG)
+![Profile](../../../operating-systems-images/in5.png)
 
 The final pane asks you to provide a name and a description for your rule. Enter an appropriate name; in this case "Alt RDP port" as below and select `Finish`.
 
-![Name](../../../operating-systems-images/in6.PNG)
+![Name](../../../operating-systems-images/in6.png)
 
 You will now be returned to the `Advanced Firewall` menu where the list of inbound rules will be displayed. Now included in the list is your newly created rule as below.
 
-![Created](../../../operating-systems-images/newinrule.PNG)
+![Created](../../../operating-systems-images/newinrule.png)
 
 The process for creating an outbound rule is identical to the above guide, you simply select `Outbound rules` from the left hand menu of the advanced firewall screen.
 
@@ -68,7 +68,7 @@ The process to enable and disable rules in Windows Firewall is extremely simple;
 - Locate the rule you are looking for in the list and right click on it.
 - Select `Disable Rule` or `Enable Rule` as appropriate from the resulting context menu as below.
 
-![Enable/Disable](../../../operating-systems-images/enabledisable.PNG)
+![Enable/Disable](../../../operating-systems-images/enabledisable.png)
 
 ## Enabling or disabling Windows Firewall
 
@@ -86,4 +86,4 @@ Your user account will need administrator privileges to do the above.
 
 You will now be presented with a window titled `Customise settings for each type of network` as below. Please select the appropriate setting which suits your needs.
 
-![Enable/Disable](../../../operating-systems-images/firewallenabledisable.PNG)
+![Enable/Disable](../../../operating-systems-images/firewallenabledisable.png)

@@ -20,7 +20,7 @@ keywords:
 
 If there is no configured AnyConnect VPN on the firewall the below screen will be displayed allowing you to setup a new VPN via the editor:
 
-![New RA VPN](../../networking-images/editor2_configure_new_ra.PNG)
+![New RA VPN](../../networking-images/editor2_configure_new_ra.png)
 
 ### Required elements
 
@@ -56,11 +56,11 @@ Once you have filled in all the required elements, click `Configure` and wait fo
 
 If there are no users configured on the firewall and the device is using local authentication for VPN users you will see the option to add a user.
 
-![Existing RA VPN](../../networking-images/add_users_ra.PNG)
+![Existing RA VPN](../../networking-images/add_users_ra.png)
 
 If there are users configured, this page will list usernames on the firewall and their connection status.
 
-![User List](../../networking-images/editor2_users_list_ra.PNG)
+![User List](../../networking-images/editor2_users_list_ra.png)
 
 Here you can add/remove/edit users, disconnect specific users from the VPN and by clicking the `Add New User` button you can create additional VPN users.
 
