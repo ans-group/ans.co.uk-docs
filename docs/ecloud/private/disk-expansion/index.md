@@ -1,6 +1,15 @@
 ---
-sidebar_label: "Disk expansion (eCloud)"
 sidebar_position: 3
+sidebar_label: "Disk expansion (eCloud)"
+title: "Disk expansion (eCloud)"
+description: a guide to Disk Expansion with eCloud
+keywords:
+  - ans
+  - ukfast
+  - disk expansion
+  - ecloud
+  - resize
+  - private
 ---
 
 # Disk expansion (eCloud)

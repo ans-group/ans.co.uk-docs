@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Cloning & Templating VMs"
 sidebar_position: 2
+sidebar_label: "Cloning & Templating VMs"
+title: "Cloning & Templating VMs"
+description: Information on how to clone and template VMs in your eCloud Private solution
+keywords:
+  - ans
+  - ukfast
+  - cloud
+  - ecloud
+  - private
+  - cloning
+  - templating
+  - vm
+  - virtual machines
 ---
 
 # Cloning & Templating VMs
