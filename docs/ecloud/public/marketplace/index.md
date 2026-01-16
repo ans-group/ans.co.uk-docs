@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Marketplace"
 sidebar_position: 11
+sidebar_label: "Marketplace"
+title: "Marketplace"
+description: Programatic control of your eCloud Public resources
+keywords:
+  - ukfast
+  - ans
+  - cloud
+  - ecloud
+  - public
+  - hosting
+  - infrastructure
+  - vmware
+  - marketplace
 ---
 
 # Marketplace

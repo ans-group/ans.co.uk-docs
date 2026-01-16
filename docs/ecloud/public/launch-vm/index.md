@@ -1,6 +1,19 @@
 ---
-sidebar_label: "Launch VM"
 sidebar_position: 2
+sidebar_label: "Launch VM"
+title: "Launch VM"
+description: Guide on creating a new eCloud public VM
+keywords:
+  - ukfast
+  - ans
+  - cloud
+  - ecloud
+  - public
+  - hosting
+  - infrastructure
+  - vmware
+  - create
+  - new
 ---
 
 # Launch VM

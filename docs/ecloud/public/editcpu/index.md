@@ -1,6 +1,18 @@
 ---
-sidebar_label: "eCloud Public Edit CPU"
 sidebar_position: 3
+sidebar_label: "eCloud Public Edit CPU"
+title: "eCloud Public Edit CPU"
+description: Programatic control of your eCloud Public resources
+keywords:
+  - ans
+  - ukfast
+  - cloud
+  - ecloud
+  - public
+  - hosting
+  - infrastructure
+  - vmware
+  - CPU
 ---
 
 # eCloud Public Edit CPU

@@ -1,6 +1,17 @@
 ---
-sidebar_label: "API"
 sidebar_position: 1
+sidebar_label: "API"
+title: "API"
+description: Programatic control of your eCloud Public resources
+keywords:
+  - ukfast
+  - ans
+  - cloud
+  - ecloud
+  - public
+  - hosting
+  - infrastructure
+  - vmware
 ---
 
 # API

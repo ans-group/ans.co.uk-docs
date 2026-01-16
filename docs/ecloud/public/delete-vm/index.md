@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Delete VM"
 sidebar_position: 6
+sidebar_label: "Delete VM"
+title: "Delete VM"
+description: Programatic control of your eCloud Public resources
+keywords:
+  - ukfast
+  - ans
+  - cloud
+  - ecloud
+  - public
+  - hosting
+  - infrastructure
+  - vmware
+  - delete
 ---
 
 # Delete VM

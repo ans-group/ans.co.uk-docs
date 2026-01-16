@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Memory"
 sidebar_position: 4
+sidebar_label: "Memory"
+title: "Memory"
+description: Programatic control of your eCloud Public resources
+keywords:
+  - ukfast
+  - ans
+  - cloud
+  - ecloud
+  - public
+  - hosting
+  - infrastructure
+  - vmware
+  - memory
 ---
 
 # Memory

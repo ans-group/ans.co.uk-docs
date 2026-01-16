@@ -1,6 +1,20 @@
 ---
-sidebar_label: "Credentials"
 sidebar_position: 8
+sidebar_label: "Credentials"
+title: "Credentials"
+description: Programatic control of your eCloud Public resources
+keywords:
+  - ukfast
+  - ans
+  - cloud
+  - ecloud
+  - public
+  - hosting
+  - infrastructure
+  - vmware
+  - credentials
+  - login
+  - users
 ---
 
 # Credentials

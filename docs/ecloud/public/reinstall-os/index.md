@@ -1,6 +1,19 @@
 ---
-sidebar_label: "Reinstall OS"
 sidebar_position: 10
+sidebar_label: "Reinstall OS"
+title: "Reinstall OS"
+description: Programatic control of your eCloud Public resources
+keywords:
+  - ukfast
+  - ans
+  - cloud
+  - ecloud
+  - public
+  - hosting
+  - infrastructure
+  - vmware
+  - reinstall
+  - OS
 ---
 
 # Reinstall OS
