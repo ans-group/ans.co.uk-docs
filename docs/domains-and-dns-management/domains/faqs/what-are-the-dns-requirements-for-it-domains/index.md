@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What are the DNS requirements for .IT domains?"
 sidebar_position: 77
+description: What are the DNS requirements for .IT domains?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the DNS requirements for `.IT` domains?

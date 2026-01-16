@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a name server?"
 sidebar_position: 12
+description: What is a name server?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a name server?

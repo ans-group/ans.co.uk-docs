@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I manage who receives domain renewal reminders?"
 sidebar_position: 54
+description: How do I manage who receives domain renewal reminders?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I manage who receives domain renewal reminders?

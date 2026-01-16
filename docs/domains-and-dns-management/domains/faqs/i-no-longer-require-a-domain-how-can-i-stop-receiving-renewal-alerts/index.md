@@ -1,6 +1,13 @@
 ---
 sidebar_label: "I no longer require a domain, how can I stop receiving renewal alerts?"
 sidebar_position: 57
+description: I no longer require a domain, how can I stop receiving renewal alerts?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # I no longer require a domain, how can I stop receiving renewal alerts?

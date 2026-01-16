@@ -1,6 +1,20 @@
 ---
-sidebar_label: "SafeDNS"
 sidebar_position: 2
+sidebar_label: "SafeDNS"
+title: "SafeDNS"
+description: a guide to SafeDNS
+keywords:
+  - ans
+  - ukfast
+  - safedns
+  - ttl
+  - spf
+  - domain
+  - propagation
+  - alias
+  - apex
+  - subdomain
+  - certbot
 ---
 
 # SafeDNS

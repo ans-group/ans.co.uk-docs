@@ -1,6 +1,13 @@
 ---
-sidebar_label: "Transferring to ANS"
 sidebar_position: 1
+sidebar_label: "Transferring to ANS"
+title: "Transferring to ANS"
+description: How to transfer your domain to ANS
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - transfers
 ---
 
 # Transferring a domain to ANS

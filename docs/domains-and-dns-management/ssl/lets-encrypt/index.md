@@ -1,6 +1,15 @@
 ---
-sidebar_label: "Let's Encrypt"
 sidebar_position: 10
+sidebar_label: "Let's Encrypt"
+title: "Let's Encrypt"
+description: A guide to Let's Encrypt with ANS
+keywords:
+  - ans
+  - ukfast
+  - domains
+  - dns
+  - lets encrypt
+  - let's encrypt
 ---
 
 # Let's Encrypt

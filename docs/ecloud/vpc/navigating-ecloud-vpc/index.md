@@ -1,6 +1,16 @@
 ---
-sidebar_label: "Navigating eCloud VPC Control Panel"
 sidebar_position: 1
+sidebar_label: "Navigating eCloud VPC Control Panel"
+title: "Navigating eCloud VPC Control Panel"
+description: Navigating eCloud VPC Control Panel (ANS Portal)
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - ans
+  - ukfast
 ---
 
 # Navigating eCloud VPC Control Panel

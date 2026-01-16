@@ -1,6 +1,13 @@
 ---
 sidebar_label: "FAQs"
 sidebar_position: 5
+description: FAQs regarding domains and DNS
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Domain Name FAQs

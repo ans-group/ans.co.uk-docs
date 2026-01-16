@@ -1,6 +1,22 @@
 ---
-sidebar_label: "Validating your certificate"
 sidebar_position: 3
+sidebar_label: "Validating your certificate"
+title: Validating your SSL certificate via File Upload
+description: A detailed guide on validating your ANS SSL Certificate via File Upload on a ANS Linux Server
+keywords:
+  - ans
+  - ukfast
+  - ssl
+  - linux
+  - file upload
+  - validation
+  - filezilla
+  - ftp
+  - sftp
+  - cert
+  - upload
+  - cpanel
+  - plesk
 ---
 
 # Validating your SSL certificate via File Upload

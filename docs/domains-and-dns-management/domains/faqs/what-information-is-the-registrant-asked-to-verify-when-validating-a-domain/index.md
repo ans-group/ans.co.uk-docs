@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What information is the registrant asked to verify when validating a domain?"
 sidebar_position: 26
+description: What information is the registrant asked to verify when validating a domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What information is the registrant asked to verify when validating a domain?

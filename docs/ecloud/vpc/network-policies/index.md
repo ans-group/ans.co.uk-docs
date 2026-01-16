@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Network Policies (East-West Firewalling)"
 sidebar_position: 12
+sidebar_label: "Network Policies (East-West Firewalling)"
+title: "Network Policies (East-West Firewalling)"
+description: Managing your Network policies and rules
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Firewall
+  - Network Policies
+  - ans
+  - ukfast
 ---
 
 # Network Policies (East-West Firewalling)

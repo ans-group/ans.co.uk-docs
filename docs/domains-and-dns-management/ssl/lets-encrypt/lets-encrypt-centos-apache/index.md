@@ -1,6 +1,22 @@
 ---
-sidebar_label: "Apache on CentOS with Certbot"
 sidebar_position: 4
+sidebar_label: "Apache on CentOS with Certbot"
+title: "Apache on CentOS with Certbot"
+description: How to secure Apache with Let's Encrypt on CentOS
+keywords:
+  - ans
+  - ukfast
+  - ssl
+  - certbot
+  - apache
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - linux
+  - server
+  - guide
+  - tutorial
 ---
 
 # How to secure Apache with Let’s Encrypt on CentOS

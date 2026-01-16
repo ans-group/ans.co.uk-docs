@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'What are the domain "Admin" contact details used for?'
 sidebar_position: 69
+description: What are the domain "Admin" contact details used for?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the domain "Admin" contact details used for?

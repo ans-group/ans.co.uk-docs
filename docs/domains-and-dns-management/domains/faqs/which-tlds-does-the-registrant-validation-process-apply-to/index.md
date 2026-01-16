@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Which TLDs does the registrant validation process apply to?"
 sidebar_position: 24
+description: Which TLDs does the registrant validation process apply to?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Which TLDs does the registrant validation process apply to?

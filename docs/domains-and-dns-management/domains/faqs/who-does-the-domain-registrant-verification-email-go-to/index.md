@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Who does the domain registrant verification email go to?"
 sidebar_position: 25
+description: Who does the domain registrant verification email go to?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Who does the domain registrant verification email go to?

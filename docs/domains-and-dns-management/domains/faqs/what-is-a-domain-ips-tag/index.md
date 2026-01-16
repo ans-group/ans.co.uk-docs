@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain/IPS tag?"
 sidebar_position: 7
+description: What is a domain/IPS tag?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain/IPS tag?

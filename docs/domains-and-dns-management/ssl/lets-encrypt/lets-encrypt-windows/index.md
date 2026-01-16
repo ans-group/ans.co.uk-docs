@@ -1,6 +1,22 @@
 ---
-sidebar_label: "Using Let's Encrypt on Windows"
 sidebar_position: 9
+sidebar_label: "Using Let's Encrypt on Windows"
+title: How to use Let's Encrypt on Windows
+description: How to use Let's Encrypt on Windows
+keywords:
+  - ukfast
+  - ans
+  - ssl
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - windows
+  - powershell
+  - iis
+  - server
+  - guide
+  - tutorial
 ---
 
 # How to use Let’s Encrypt on Windows

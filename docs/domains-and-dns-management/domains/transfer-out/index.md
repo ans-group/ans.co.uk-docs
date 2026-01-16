@@ -1,6 +1,13 @@
 ---
-sidebar_label: "Transferring from ANS"
 sidebar_position: 2
+sidebar_label: "Transferring from ANS"
+title: "Transferring from ANS"
+description: How to transfer your domain away from ANS
+keywords:
+  - ans
+  - ukfast
+  - transfers
+  - domain
 ---
 
 # Transferring a domain away from ANS

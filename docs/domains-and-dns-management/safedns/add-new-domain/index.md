@@ -1,6 +1,12 @@
 ---
 sidebar_label: "Adding a domain into SafeDNS"
 sidebar_position: 1
+description: Adding a domain into SafeDNS
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - dns
 ---
 
 # Adding a domain into SafeDNS

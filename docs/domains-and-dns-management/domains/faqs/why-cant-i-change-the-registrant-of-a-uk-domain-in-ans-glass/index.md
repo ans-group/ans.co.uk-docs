@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Why can't I change the registrant of a .uk domain in ANS Glass?"
 sidebar_position: 64
+description: Why can't I change the registrant of a .uk domain in ANS Glass?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Why can't I change the registrant of a `.uk` domain in ANS Glass?

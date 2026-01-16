@@ -1,6 +1,15 @@
 ---
-sidebar_label: "ANS SSL types"
 sidebar_position: 4
+sidebar_label: "ANS SSL types"
+title: Different types of SSL certificates available from ANS
+description: Information on Types of SSL Available from ANS
+keywords:
+  - ukfast
+  - ans
+  - ssl
+  - ssl types
+  - domains
+  - dns
 ---
 
 # Different types of SSL certificates available from ANS

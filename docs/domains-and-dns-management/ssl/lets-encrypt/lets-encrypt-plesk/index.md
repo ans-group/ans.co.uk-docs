@@ -1,6 +1,23 @@
 ---
-sidebar_label: "Let's Encrypt in Plesk"
 sidebar_position: 7
+sidebar_label: "Let's Encrypt in Plesk"
+title: How to secure your sites with Let's Encrypt in Plesk
+description: How to secure your sites with Let's Encrypt in Plesk
+keywords:
+  - plesk
+  - ssl
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - linux
+  - apache
+  - nginx
+  - server
+  - guide
+  - tutorial
+  - ans
+  - ukfast
 ---
 
 # How to secure your sites with Let’s Encrypt in Plesk

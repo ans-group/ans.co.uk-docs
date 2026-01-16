@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Floating IPs"
 sidebar_position: 6
+sidebar_label: "Floating IPs"
+title: "Floating IPs"
+description: Managing Floating IPs
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Floating IP
+  - ukfast
+  - ans
 ---
 
 # Floating IPs

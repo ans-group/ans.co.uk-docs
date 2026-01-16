@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is the IPS tag for ANS?"
 sidebar_position: 8
+description: What is the IPS tag for ANS?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is the IPS tag for ANS?

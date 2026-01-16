@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is WHOIS?"
 sidebar_position: 19
+description: What is WHOIS?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is WHOIS?

@@ -1,6 +1,17 @@
 ---
-sidebar_label: "How to Migrate to eCloud VPC"
 sidebar_position: 14
+sidebar_label: "How to Migrate to eCloud VPC"
+title: "How to Migrate to eCloud VPC"
+description: Guidance on migrating to the eCloud VPC platform.
+keywords:
+  - ans
+  - vpc
+  - ecloud
+  - plesk
+  - cpanel
+  - migration
+  - migrate
+  - ukfast
 ---
 
 # How to Migrate to eCloud VPC

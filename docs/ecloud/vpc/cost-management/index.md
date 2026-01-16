@@ -1,6 +1,19 @@
 ---
-sidebar_label: "eCloud VPC - Cost Management"
 sidebar_position: 13
+sidebar_label: "eCloud VPC - Cost Management"
+title: "eCloud VPC - Cost Management"
+description: Information relating eCloud VPC financials such as predicting and reviewing spend
+keywords:
+  - ans
+  - ecloud
+  - cloud
+  - public
+  - VPC
+  - virtual
+  - server
+  - hosting
+  - vmware
+  - infrastructure
 ---
 
 # eCloud VPC - Cost Management

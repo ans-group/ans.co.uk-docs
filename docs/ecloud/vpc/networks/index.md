@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Networks"
 sidebar_position: 7
+sidebar_label: "Networks"
+title: "Networks"
+description: eCloud VPC Networks
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Networks
+  - ans
+  - ukfast
 ---
 
 # Networks

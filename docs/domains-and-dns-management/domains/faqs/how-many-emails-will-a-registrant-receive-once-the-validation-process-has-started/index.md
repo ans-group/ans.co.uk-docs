@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How many emails will a registrant receive once the validation process has started?"
 sidebar_position: 27
+description: How many emails will a registrant receive once the validation process has started?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How many emails will a registrant receive once the validation process has started?

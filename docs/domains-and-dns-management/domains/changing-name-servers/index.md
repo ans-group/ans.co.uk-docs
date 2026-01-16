@@ -1,6 +1,14 @@
 ---
-sidebar_label: "Changing nameservers"
 sidebar_position: 3
+sidebar_label: "Changing nameservers"
+title: "Changing nameservers"
+description: How to change your domain nameservers with ANS
+keywords:
+  - ans
+  - ukfast
+  - nameservers
+  - name servers
+  - domain
 ---
 
 # Changing nameservers for a domain with ANS

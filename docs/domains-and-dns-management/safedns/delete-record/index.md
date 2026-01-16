@@ -1,6 +1,12 @@
 ---
 sidebar_label: "Removing a DNS record on an existing domain"
 sidebar_position: 3
+description: Removing a DNS record on an existing domain
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - dns
 ---
 
 # Removing a DNS record on an existing domain

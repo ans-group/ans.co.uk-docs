@@ -1,6 +1,13 @@
 ---
 sidebar_label: "I've registered a domain with another company, how do I point it to my server or hosting space with you?"
 sidebar_position: 35
+description: I've registered a domain with another company, how do I point it to my server or hosting space with you?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # I've registered a domain with another company, how do I point it to my server or hosting space with you?

@@ -1,6 +1,16 @@
 ---
-sidebar_label: "VPCs"
 sidebar_position: 2
+sidebar_label: "VPCs"
+title: "VPCs"
+description: Virtual Private Cloud (VPC)
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - ans
+  - ukfast
 ---
 
 # VPCs

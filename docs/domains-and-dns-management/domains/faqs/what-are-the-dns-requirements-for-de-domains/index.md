@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What are the DNS requirements for .DE domains?"
 sidebar_position: 76
+description: What are the DNS requirements for .DE domains?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the DNS requirements for `.DE` domains?

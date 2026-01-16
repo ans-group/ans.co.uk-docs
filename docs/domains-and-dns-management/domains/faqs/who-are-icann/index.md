@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Who are ICANN?"
 sidebar_position: 3
+description: Who are ICANN?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Who are ICANN?

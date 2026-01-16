@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What actions on a domain will trigger the registrant validation process?"
 sidebar_position: 68
+description: What actions on a domain will trigger the registrant validation process?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What actions on a domain will trigger the registrant validation process?

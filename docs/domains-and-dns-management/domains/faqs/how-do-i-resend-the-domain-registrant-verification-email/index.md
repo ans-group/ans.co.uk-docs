@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I resend the domain registrant verification email?"
 sidebar_position: 28
+description: How do I resend the domain registrant verification email?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I resend the domain registrant verification email?

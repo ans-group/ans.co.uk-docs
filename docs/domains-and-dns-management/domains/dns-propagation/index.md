@@ -1,6 +1,16 @@
 ---
-sidebar_label: "What factors affect DNS propagation time?"
 sidebar_position: 4
+sidebar_label: "What factors affect DNS propagation time?"
+title: "What factors affect DNS propagation time?"
+description: a guide to DNS propagation times
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - nameserver
+  - name server
+  - dns
+  - propagation
 ---
 
 # What factors affect DNS propagation time?

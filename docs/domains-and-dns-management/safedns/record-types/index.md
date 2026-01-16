@@ -1,6 +1,19 @@
 ---
 sidebar_label: "Different types of DNS records"
 sidebar_position: 6
+description: Different types of DNS records
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - dns
+  - caa
+  - cname
+  - txt
+  - a record
+  - mx
+  - spf
+  - alias
 ---
 
 # Different types of DNS records

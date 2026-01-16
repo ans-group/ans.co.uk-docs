@@ -1,6 +1,14 @@
 ---
-sidebar_label: "Reverse DNS Records"
 sidebar_position: 4
+sidebar_label: "Reverse DNS Records"
+title: "Reverse DNS Records"
+keywords:
+  - reverse dns
+  - dns
+  - ans
+  - ukfast
+  - dsn record
+  - domain
 ---
 
 # Reverse DNS Records

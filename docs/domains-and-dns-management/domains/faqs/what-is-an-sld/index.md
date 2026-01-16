@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is an SLD?"
 sidebar_position: 17
+description: What is an SLD?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is an SLD?

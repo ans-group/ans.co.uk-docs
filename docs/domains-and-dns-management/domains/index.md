@@ -1,6 +1,13 @@
 ---
-sidebar_label: "Domain Name Management"
 sidebar_position: 1
+sidebar_label: "Domain Name Management"
+title: "Domain Name Management"
+description: a guide to domain name management
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - domain name management
 ---
 
 # Domain Name Management

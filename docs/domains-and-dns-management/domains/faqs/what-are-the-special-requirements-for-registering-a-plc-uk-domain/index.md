@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What are the special requirements for registering a .plc.uk domain?"
 sidebar_position: 33
+description: What are the special requirements for registering a .plc.uk domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the special requirements for registering a `.plc.uk` domain?

@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I transfer a domain to ANS?"
 sidebar_position: 39
+description: How do I transfer a domain to ANS?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I transfer a domain to ANS?

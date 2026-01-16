@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain redemption period?"
 sidebar_position: 61
+description: What is a domain redemption period?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain redemption period?

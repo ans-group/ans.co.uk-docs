@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Adding an a record to an existing domain"
 sidebar_position: 2
+description: Adding an a record to an existing domain
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - dns
+  - a record
 ---
 
 # Adding an `A` record to an existing domain

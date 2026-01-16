@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I add my domain into ANS Glass?"
 sidebar_position: 41
+description: How do I add my domain into ANS Glass?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I add my domain into ANS Glass?

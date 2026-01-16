@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Discount Plans"
 sidebar_position: 2
+sidebar_label: "Discount Plans"
+title: "Discount Plans"
+description: Managing your Discount Plans
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Discount Plans
+  - Spend
+  - ans
+  - ukfast
 ---
 
 # Discount Plans

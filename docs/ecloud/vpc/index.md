@@ -1,6 +1,20 @@
 ---
-sidebar_label: "eCloud VPC"
 sidebar_position: 1
+sidebar_label: "eCloud VPC"
+title: "eCloud VPC"
+description: Information relating to eCloud VPC, ANS's VMware-based public cloud platform
+keywords:
+  - ans
+  - ecloud
+  - cloud
+  - public
+  - VPC
+  - virtual
+  - server
+  - hosting
+  - vmware
+  - infrastructure
+  - IaaS
 ---
 
 # eCloud VPC

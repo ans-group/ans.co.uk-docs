@@ -1,6 +1,22 @@
 ---
-sidebar_label: "Point-to-Site VPNs"
 sidebar_position: 2
+sidebar_label: "Point-to-Site VPNs"
+title: "Point-to-Site VPNs"
+description: Point-to-Site VPNs in eCloud VPC
+keywords:
+  - eCloud
+  - eCloud VPC
+  - ANS GLASS
+  - VPC
+  - Virtual Private Cloud
+  - VPN
+  - Point-to-Site
+  - Remote Access VPN
+  - VPN Gateway
+  - Cisco
+  - AnyConnect
+  - ans
+  - ukfast
 ---
 
 # Point-to-Site VPNs

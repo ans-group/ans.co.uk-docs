@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Instances"
 sidebar_position: 4
+sidebar_label: "Instances"
+title: "Instances"
+description: Managing Instances
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Instances
+  - ans
+  - ukfast
 ---
 
 # Instances

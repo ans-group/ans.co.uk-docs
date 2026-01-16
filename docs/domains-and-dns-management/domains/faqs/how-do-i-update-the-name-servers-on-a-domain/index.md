@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I update the name servers on a domain?"
 sidebar_position: 66
+description: How do I update the name servers on a domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I update the name servers on a domain?

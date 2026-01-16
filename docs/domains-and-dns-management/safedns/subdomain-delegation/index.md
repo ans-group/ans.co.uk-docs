@@ -1,6 +1,12 @@
 ---
 sidebar_label: "Setting up subdomain delegation in SafeDNS"
 sidebar_position: 11
+description: Setting up subdomain delegation in SafeDNS
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - dns
 ---
 
 # Setting up subdomain delegation in SafeDNS

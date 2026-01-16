@@ -1,6 +1,14 @@
 ---
-sidebar_label: "Self-Signed Certificates"
 sidebar_position: 5
+sidebar_label: "Self-Signed Certificates"
+title: "Self-Signed Certificates"
+description: Self-Signed SSL Certificates
+keywords:
+  - ans
+  - ukfast
+  - ssl
+  - self-signed
+  - openssl
 ---
 
 # Self-Signed Certificates

@@ -1,6 +1,20 @@
 ---
-sidebar_label: "Site-to-Site VPNs"
 sidebar_position: 1
+sidebar_label: "Site-to-Site VPNs"
+title: "Site-to-Site VPNs"
+description: Site-to-Site VPNs in eCloud VPC
+keywords:
+  - eCloud
+  - eCloud VPC
+  - ANS GLASS
+  - VPC
+  - Virtual Private Cloud
+  - VPN
+  - Site-to-Site
+  - IPsec
+  - ans
+  - ukfast
+  - IKE
 ---
 
 # Site-to-Site VPNs

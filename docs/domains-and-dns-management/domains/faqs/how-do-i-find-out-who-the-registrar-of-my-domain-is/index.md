@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I find out who the registrar for my domain is?"
 sidebar_position: 10
+description: How do I find out who the registrar for my domain is?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I find out who the registrar for my domain is?

@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Why have my name servers been changed to name-services.com?"
 sidebar_position: 59
+description: Why have my name servers been changed to name-services.com?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Why have my name servers been changed to name-services.com?

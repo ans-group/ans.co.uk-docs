@@ -1,6 +1,14 @@
 ---
-sidebar_label: "Handling private keys"
 sidebar_position: 9
+sidebar_label: "Handling private keys"
+title: "Handling private keys"
+description: A guide to handling private keys with ANS
+keywords:
+  - ans
+  - ukfast
+  - private keys
+  - domains
+  - dns
 ---
 
 # How to find your private key

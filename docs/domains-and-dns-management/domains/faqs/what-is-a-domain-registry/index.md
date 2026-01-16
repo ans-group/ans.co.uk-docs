@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain registry?"
 sidebar_position: 2
+description: What is a domain registry?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain registry?

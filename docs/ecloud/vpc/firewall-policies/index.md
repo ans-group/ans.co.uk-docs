@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Firewall Policies (North-South Firewalling)"
 sidebar_position: 11
+sidebar_label: "Firewall Policies (North-South Firewalling)"
+title: "Firewall Policies (North-South Firewalling)"
+description: Managing your firewall policies and rules
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Instances
+  - Firewall
+  - ans
+  - ukfast
 ---
 
 # Firewall Policies (North-South Firewalling)

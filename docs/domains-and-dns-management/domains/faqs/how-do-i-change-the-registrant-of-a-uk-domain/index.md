@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I change the registrant of a .uk domain?"
 sidebar_position: 63
+description: How do I change the registrant of a .uk domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I change the registrant of a `.uk` domain?

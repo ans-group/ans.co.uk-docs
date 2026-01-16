@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'What does domain "pre-order" mean?'
 sidebar_position: 21
+description: What does domain "pre-order" mean?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What doe domain "pre-order" mean?

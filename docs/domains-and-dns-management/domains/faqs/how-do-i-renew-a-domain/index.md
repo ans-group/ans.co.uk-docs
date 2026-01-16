@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I renew a domain?"
 sidebar_position: 49
+description: How do I renew a domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I renew a domain?

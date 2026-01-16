@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I monitor the status of a domain transfer in?"
 sidebar_position: 46
+description: How do I monitor the status of a domain transfer in?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I monitor the status of a domain transfer in?

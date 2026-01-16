@@ -1,6 +1,21 @@
 ---
-sidebar_label: "Let's Encrypt in cPanel/WHM"
 sidebar_position: 8
+sidebar_label: "Let's Encrypt in cPanel/WHM"
+description: How to secure your sites with Let's Encrypt in cPanel/WHM
+keywords:
+  - cpanel
+  - whm
+  - ssl
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - linux
+  - apache
+  - guide
+  - tutorial
+  - ans
+  - ukfast
 ---
 
 # How to secure your sites with Let’s Encrypt in cPanel/WHM

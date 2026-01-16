@@ -1,6 +1,18 @@
 ---
-sidebar_label: "SSL Certificates"
 sidebar_position: 3
+sidebar_label: "SSL Certificates"
+title: "SSL Certificates"
+description: a guide to SSL certificates with ANS
+keywords:
+  - ans
+  - ukfast
+  - domains
+  - dns
+  - ssl
+  - certificate
+  - keys
+  - sni
+  - csr
 ---
 
 # SSL Certificates

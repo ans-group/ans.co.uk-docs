@@ -1,6 +1,24 @@
 ---
-sidebar_label: "Auto-renewing SSL certificates with Certbot"
 sidebar_position: 6
+sidebar_label: "Auto-renewing SSL certificates with Certbot"
+title: "Auto-renewing SSL certificates with Certbot"
+description: How to auto-renewing SSL Certificates with Certbot at ANS
+keywords:
+  - ssl
+  - certbot
+  - renew
+  - autorenew
+  - revoke
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - linux
+  - server
+  - guide
+  - tutorial
+  - ans
+  - ukfast
 ---
 
 # Auto-Renewing SSL Certificates with Certbot

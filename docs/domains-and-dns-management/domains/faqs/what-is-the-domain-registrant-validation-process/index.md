@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is the domain registrant validation process?"
 sidebar_position: 23
+description: What is the domain registrant validation process?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is the domain registrant validation process?

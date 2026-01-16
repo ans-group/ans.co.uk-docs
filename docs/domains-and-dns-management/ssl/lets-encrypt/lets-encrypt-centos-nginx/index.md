@@ -1,6 +1,22 @@
 ---
-sidebar_label: "NGINX on CentOS with Certbot"
 sidebar_position: 3
+sidebar_label: "NGINX on CentOS with Certbot"
+title: "How to secure NGINX with Let’s Encrypt on CentOS"
+description: How to secure Apache with Let's Encrypt on CentOS
+keywords:
+  - ans
+  - ukfast
+  - ssl
+  - certbot
+  - apache
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - linux
+  - server
+  - guide
+  - tutorial
 ---
 
 # How to secure NGINX with Let’s Encrypt on CentOS

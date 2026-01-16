@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'What are the domain "Technical" contact details used for?'
 sidebar_position: 71
+description: What are the domain "Technical" contact details used for?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the domain "Technical" contact details used for?

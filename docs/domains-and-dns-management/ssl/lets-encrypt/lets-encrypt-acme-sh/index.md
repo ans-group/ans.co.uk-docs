@@ -1,6 +1,23 @@
 ---
-sidebar_label: "How to install & use acme.sh"
 sidebar_position: 2
+sidebar_label: "How to install & use acme.sh"
+title: ACME.sh
+description: "How to install & use acme.sh"
+keywords:
+  - ssl
+  - acme.sh
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - linux
+  - server
+  - guide
+  - tutorial
+  - acme
+  - certbot
+  - ans
+  - ukfast
 ---
 
 # `ACME.sh`

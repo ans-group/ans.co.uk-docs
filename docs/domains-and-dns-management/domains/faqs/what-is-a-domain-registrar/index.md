@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain registrar?"
 sidebar_position: 6
+description: What is a domain registrar?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain registrar?

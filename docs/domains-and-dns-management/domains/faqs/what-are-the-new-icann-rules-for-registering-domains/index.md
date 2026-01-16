@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What are the new ICANN rules for registering domains?"
 sidebar_position: 29
+description: What are the new ICANN rules for registering domains?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the new ICANN rules for registering domains?

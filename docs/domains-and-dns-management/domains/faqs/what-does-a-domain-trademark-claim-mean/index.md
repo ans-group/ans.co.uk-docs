@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What does a domain trademark “claim” mean?"
 sidebar_position: 20
+description: What does a domain trademark "claim" mean?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What does a domain trademark “claim” mean?

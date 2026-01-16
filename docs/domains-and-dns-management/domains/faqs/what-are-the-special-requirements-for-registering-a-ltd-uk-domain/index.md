@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What are the special requirements for registering a .ltd.uk domain?"
 sidebar_position: 31
+description: What are the special requirements for registering a .ltd.uk domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the special requirements for registering a `.ltd.uk` domain?

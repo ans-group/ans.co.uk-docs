@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Why hasn't my .JOBS domain registered yet?"
 sidebar_position: 36
+description: Why hasn't my .JOBS domain registered yet?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Why hasn't my `.JOBS` domain registered yet?

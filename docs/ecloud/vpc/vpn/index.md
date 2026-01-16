@@ -1,6 +1,17 @@
 ---
-sidebar_label: "VPNs"
 sidebar_position: 10
+sidebar_label: "VPNs"
+title: "VPNs"
+description: VPNs in eCloud VPC
+keywords:
+  - eCloud
+  - eCloud VPC
+  - ANS GLASS
+  - VPC
+  - Virtual Private Cloud
+  - VPN
+  - ans
+  - ukfast
 ---
 
 # VPNs

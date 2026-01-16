@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I register a domain name?"
 sidebar_position: 22
+description: How do I register a domain name?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I register a domain name?

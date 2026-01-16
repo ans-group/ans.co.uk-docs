@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain name?"
 sidebar_position: 1
+description: What is a domain name?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain name?

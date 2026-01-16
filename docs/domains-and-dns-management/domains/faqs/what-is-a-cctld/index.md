@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a ccTLD?"
 sidebar_position: 14
+description: What is a ccTLD?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a ccTLD?

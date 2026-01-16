@@ -1,6 +1,18 @@
 ---
-sidebar_label: "How Let's Encrypt works"
 sidebar_position: 1
+sidebar_label: "How Let's Encrypt works"
+title: "How Let's Encrypt works"
+description: How Let's Encrypt Works
+keywords:
+  - ssl
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - server
+  - howto
+  - guide
+  - tutorial
 ---
 
 # How Let’s Encrypt works

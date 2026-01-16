@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Can I still renew my domain after it has expired?"
 sidebar_position: 56
+description: Can I still renew my domain after it has expired?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Can I still renew my domain after it has expired?

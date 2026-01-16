@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What are the requirements to register a .jobs domain?"
 sidebar_position: 30
+description: What are the requirements to register a .jobs domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the requirements to register a `.jobs` domain?

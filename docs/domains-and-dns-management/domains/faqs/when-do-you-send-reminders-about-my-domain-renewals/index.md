@@ -1,6 +1,13 @@
 ---
 sidebar_label: "When do you send reminders about my domain renewals?"
 sidebar_position: 52
+description: When do you send reminders about my domain renewals?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # When do you send reminders about my domain renewals?

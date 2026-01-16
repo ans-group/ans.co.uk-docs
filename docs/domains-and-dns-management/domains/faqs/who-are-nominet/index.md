@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Who are Nominet?"
 sidebar_position: 4
+description: Who are Nominet?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Who are Nominet?

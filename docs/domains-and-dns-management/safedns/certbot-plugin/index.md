@@ -1,6 +1,13 @@
 ---
 sidebar_label: "SafeDNS Authenticator plugin for Certbot"
 sidebar_position: 8
+description: SafeDNS Authenticator plugin for Certbot
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - dns
+  - a record
 ---
 
 # SafeDNS Authenticator plugin for Certbot

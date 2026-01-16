@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Why have my name servers been changed to renewyourdomain.net?"
 sidebar_position: 60
+description: Why have my name servers been changed to renewyourdomain.net?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Why have my name servers been changed to renewyourdomain.net?

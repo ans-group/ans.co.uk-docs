@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a gTLD"
 sidebar_position: 15
+description: What is a gTLD
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a gTLD

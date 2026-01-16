@@ -1,6 +1,13 @@
 ---
 sidebar_label: "When is my domain auto-renewed?"
 sidebar_position: 53
+description: When is my domain auto-renewed?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # When is my domain auto-renewed?

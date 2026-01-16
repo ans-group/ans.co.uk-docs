@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'What are the domain "Billing" contact details used for?'
 sidebar_position: 70
+description: What are the domain "Billing" contact details used for?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What are the domain "Billing" contact details used for?

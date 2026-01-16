@@ -1,6 +1,22 @@
 ---
-sidebar_label: "Cloud"
 sidebar_position: 1
+sidebar_label: "Cloud"
+title: "Cloud"
+description: Managed Cloud services provided by ANS
+keywords:
+  - ans
+  - ukfast
+  - cloud,
+  - ecloud
+  - public
+  - private
+  - vpc
+  - hosting
+  - infrastructure
+  - vms
+  - instances
+  - vmware
+  - hpe
 ---
 
 # Cloud

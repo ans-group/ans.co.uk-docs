@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain grace period?"
 sidebar_position: 62
+description: What is a domain grace period?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain grace period?

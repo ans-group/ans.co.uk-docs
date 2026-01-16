@@ -1,6 +1,13 @@
 ---
 sidebar_label: 'What does it mean if my domain is "suspended"?'
 sidebar_position: 72
+description: What does it mean if my domain is "suspended"?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What does it mean if my domain is "suspended"?

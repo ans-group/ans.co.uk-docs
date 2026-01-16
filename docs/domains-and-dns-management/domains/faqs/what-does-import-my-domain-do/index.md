@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What does 'Import my Domain' do?"
 sidebar_position: 42
+description: What does 'Import my Domain' do?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What does 'Import my Domain' do?

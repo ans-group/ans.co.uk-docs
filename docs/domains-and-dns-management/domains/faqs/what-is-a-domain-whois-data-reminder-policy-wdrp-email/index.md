@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain WHOIS Data Reminder Policy (WDRP) email?"
 sidebar_position: 75
+description: What is a domain WHOIS Data Reminder Policy (WDRP) email?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain WHOIS Data Reminder Policy (WDRP) email?

@@ -1,6 +1,16 @@
 ---
-sidebar_label: "Extended Validation Certificates"
 sidebar_position: 7
+sidebar_label: "Extended Validation Certificates"
+title: "Extended Validation Certificates"
+description: Purchasing and renewing EV SSL certificates from ANS
+keywords:
+  - ans
+  - ukfast
+  - ev ssl
+  - ssl
+  - certificates
+  - domain
+  - dns
 ---
 
 # Extended Validation SSL

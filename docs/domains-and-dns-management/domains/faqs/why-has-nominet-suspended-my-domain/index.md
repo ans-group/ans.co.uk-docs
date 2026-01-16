@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Why has Nominet suspended my domain?"
 sidebar_position: 65
+description: Why has Nominet suspended my domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Why has Nominet suspended my domain?

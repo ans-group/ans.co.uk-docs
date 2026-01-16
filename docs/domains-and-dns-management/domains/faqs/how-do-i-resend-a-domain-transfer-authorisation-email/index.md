@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I resend a domain transfer authorisation email?"
 sidebar_position: 47
+description: How do I resend a domain transfer authorisation email?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I resend a domain transfer authorisation email?

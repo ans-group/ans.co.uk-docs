@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What else will trigger the validation process for an existing domain?"
 sidebar_position: 67
+description: What else will trigger the validation process for an existing domain?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What else will trigger the validation process for an existing domain?

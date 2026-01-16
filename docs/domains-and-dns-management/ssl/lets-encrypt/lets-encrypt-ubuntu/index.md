@@ -1,6 +1,23 @@
 ---
-sidebar_label: "Apache / NGINX on Ubuntu with Certbot"
 sidebar_position: 5
+sidebar_label: "Apache / NGINX on Ubuntu with Certbot"
+title: "Apache / NGINX on Ubuntu with Certbot"
+description: How to secure your sites with Let's Encrypt on Ubuntu
+keywords:
+  - ubuntu
+  - ukfast
+  - ans
+  - ssl
+  - letsencrypt
+  - let's encrypt
+  - secure
+  - security
+  - Apache
+  - NGINX
+  - linux
+  - server
+  - guide
+  - tutorial
 ---
 
 # How to secure your sites with Let’s Encrypt on Ubuntu

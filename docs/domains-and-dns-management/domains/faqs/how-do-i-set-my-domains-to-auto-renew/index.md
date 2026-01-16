@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I set my domains to auto renew?"
 sidebar_position: 50
+description: How do I set my domains to auto renew?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I set my domains to auto renew?

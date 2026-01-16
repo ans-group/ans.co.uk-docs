@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain EPP/authorisation code?"
 sidebar_position: 43
+description: What is a domain EPP/authorisation code?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain EPP/authorisation code?

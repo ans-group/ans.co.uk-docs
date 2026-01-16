@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I change who the domain transfer authorisation email goes to?"
 sidebar_position: 45
+description: How do I change who the domain transfer authorisation email goes to?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I change who the domain transfer authorisation email goes to?

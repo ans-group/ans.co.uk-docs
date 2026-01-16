@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Cost Management"
 sidebar_position: 1
+sidebar_label: "Cost Management"
+title: "Cost Management"
+description: Managing your Spend with eCloud VPC
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Cost Management
+  - ans
+  - ukfast
 ---
 
 # Cost Management

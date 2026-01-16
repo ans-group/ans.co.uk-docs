@@ -1,6 +1,16 @@
 ---
-sidebar_label: "Using Server Name Indication (SNI)"
 sidebar_position: 6
+sidebar_label: "Using Server Name Indication (SNI)"
+title: "Using Server Name Indication (SNI) with SSL certificates"
+description: Information on Using Server Name Indication (SNI) with SSL certificates
+keywords:
+  - ans
+  - ukfast
+  - sni
+  - domains
+  - dns
+  - ssl
+  - certificates
 ---
 
 # Using Server Name Indication (SNI) with SSL certificates

@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I get a domain EPP/authorisation code?"
 sidebar_position: 44
+description: How do I get a domain EPP/authorisation code?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I get a domain EPP/authorisation code?

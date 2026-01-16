@@ -1,6 +1,12 @@
 ---
 sidebar_label: "SafeDNS API"
 sidebar_position: 7
+description: a guide to SafeDNS API
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - dns
 ---
 
 # SafeDNS API

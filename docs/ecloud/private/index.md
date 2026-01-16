@@ -1,6 +1,17 @@
 ---
-sidebar_label: "eCloud Private"
 sidebar_position: 2
+sidebar_label: "eCloud Private"
+title: "eCloud Private"
+description: Help with your eCloud Private resources
+keywords:
+  - ukfast
+  - ans
+  - cloud
+  - ecloud
+  - private
+  - hosting
+  - infrastructure
+  - vmware
 ---
 
 # eCloud Private

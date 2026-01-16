@@ -1,6 +1,16 @@
 ---
-sidebar_label: "Volumes"
 sidebar_position: 5
+sidebar_label: "Volumes"
+title: "Volumes"
+description: Managing your Volumes
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - ans
+  - ukfast
 ---
 
 # Volumes

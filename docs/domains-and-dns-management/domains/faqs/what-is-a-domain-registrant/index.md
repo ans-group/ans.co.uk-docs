@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a domain registrant?"
 sidebar_position: 5
+description: What is a domain registrant?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a domain registrant?

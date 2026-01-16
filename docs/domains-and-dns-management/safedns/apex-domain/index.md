@@ -1,6 +1,12 @@
 ---
 sidebar_label: "APEX domain"
 sidebar_position: 10
+description: a guide to APEX domains
+keywords:
+  - ans
+  - ukfast
+  - domain
+  - dns
 ---
 
 # APEX domain

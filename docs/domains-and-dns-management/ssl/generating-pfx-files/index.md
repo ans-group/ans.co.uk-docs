@@ -1,6 +1,14 @@
 ---
-sidebar_label: "Generating a PFX File"
 sidebar_position: 8
+sidebar_label: "Generating a PFX File"
+title: "Generating a PFX File"
+description: "A guide to generating a PFX file with ANS"
+keywords:
+  - pfx
+  - domains
+  - dns
+  - ans
+  - ukfast
 ---
 
 # Generating a PFX File

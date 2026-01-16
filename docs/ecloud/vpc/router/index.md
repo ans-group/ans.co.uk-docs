@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Routers"
 sidebar_position: 8
+sidebar_label: "Routers"
+title: "Routers"
+description: Managing your routers in eCloud VPC
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Router
+  - ans
+  - ukfast
 ---
 
 # Routers

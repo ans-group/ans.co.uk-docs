@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Revocation of TLS-ALPN-01 validated certificates"
 sidebar_position: 10
+sidebar_label: "Revocation of TLS-ALPN-01 validated certificates"
+title: "Revocation of TLS-ALPN-01 validated certificates"
+description: Information regarding Let's Encrypt Revocation of TLS ALPN 01 Validated Certificates
+keywords:
+  - ukfast
+  - ans
+  - security
+  - ssl
+  - letsencrypt
+  - tls-alpn-01
+  - revocation
+  - revoke
 ---
 
 # Let’s Encrypt Revocation of TLS-ALPN-01 validated certificates

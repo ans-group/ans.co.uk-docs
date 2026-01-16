@@ -1,6 +1,14 @@
 ---
-sidebar_label: "Generating a CSR (Certificate Signing Request)"
 sidebar_position: 2
+sidebar_label: "Generating a CSR (Certificate Signing Request)"
+title: "Generating a CSR (Certificate Signing Request)"
+description: Generating a CSR with ANS
+keywords:
+  - ans
+  - ukfast
+  - domains
+  - dns
+  - csr
 ---
 
 # How to generate a CSR file

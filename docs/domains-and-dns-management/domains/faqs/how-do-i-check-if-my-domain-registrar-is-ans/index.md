@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I check if my domain registrar is ANS?"
 sidebar_position: 9
+description: How do I check if my domain registrar is ANS?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I check if my domain registrar is ANS?

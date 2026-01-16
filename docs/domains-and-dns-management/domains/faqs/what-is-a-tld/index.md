@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is a TLD?"
 sidebar_position: 16
+description: What is a TLD?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is a TLD?

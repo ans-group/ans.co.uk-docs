@@ -1,6 +1,13 @@
 ---
 sidebar_label: "Why does my domain say it has expired when a WHOIS lookup suggests it will expire next year?"
 sidebar_position: 58
+description: Why does my domain say it has expired when a WHOIS lookup suggests it will expire next year?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # Why does my domain say it has expired when a WHOIS lookup suggests it will expire next year?

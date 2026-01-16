@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I transfer a .uk domain away from ANS?"
 sidebar_position: 37
+description: How do I transfer a .uk domain away from ANS?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I transfer a `.uk` domain away from ANS?

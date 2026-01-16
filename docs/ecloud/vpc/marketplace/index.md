@@ -1,6 +1,18 @@
 ---
-sidebar_label: "Marketplace"
 sidebar_position: 3
+sidebar_label: "Marketplace"
+title: "Marketplace"
+description: Marketplace
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Instances
+  - Marketplace
+  - ans
+  - ukfast
 ---
 
 # Marketplace

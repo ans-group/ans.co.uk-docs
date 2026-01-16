@@ -1,6 +1,13 @@
 ---
 sidebar_label: "How do I restart a failed domain transfer in?"
 sidebar_position: 48
+description: How do I restart a failed domain transfer in?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # How do I restart a failed domain transfer in?

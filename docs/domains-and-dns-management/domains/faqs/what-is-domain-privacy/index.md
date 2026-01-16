@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What is domain privacy?"
 sidebar_position: 18
+description: What is domain privacy?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What is domain privacy?

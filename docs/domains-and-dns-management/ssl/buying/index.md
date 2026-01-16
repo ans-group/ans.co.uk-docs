@@ -1,6 +1,15 @@
 ---
-sidebar_label: "Purchasing & renewing"
 sidebar_position: 1
+sidebar_label: "Purchasing & renewing"
+title: "Purchasing & renewing"
+description: Purchasing and renewing SSL certificates from ANS
+keywords:
+  - ans
+  - ukfast
+  - domains
+  - dns
+  - ssl
+  - certificates
 ---
 
 # Purchasing and renewing SSL certificates

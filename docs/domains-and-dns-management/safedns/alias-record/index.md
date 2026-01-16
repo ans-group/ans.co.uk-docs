@@ -1,6 +1,16 @@
 ---
+
 sidebar_label: "ALIAS record"
 sidebar_position: 9
+description: a guide to ALIAS records
+keywords:
+
+- ans
+- ukfast
+- domain
+- dns
+- cname
+
 ---
 
 # ALIAS record

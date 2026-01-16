@@ -1,6 +1,17 @@
 ---
-sidebar_label: "Load Balancers"
 sidebar_position: 9
+sidebar_label: "Load Balancers"
+title: "Load Balancers"
+description: Managing Load balancers
+keywords:
+  - ecloud
+  - ecloud VPC
+  - ANS Portal
+  - VPC
+  - Virtual Private Cloud
+  - Load Balancers
+  - ans
+  - ukfast
 ---
 
 # Load Balancers

@@ -1,6 +1,13 @@
 ---
 sidebar_label: "What do the domain verification statuses mean?"
 sidebar_position: 73
+description: What do the domain verification statuses mean?
+keywords:
+  - domains
+  - dns
+  - faq
+  - ans
+  - ukfast
 ---
 
 # What do the domain verification statuses mean?
