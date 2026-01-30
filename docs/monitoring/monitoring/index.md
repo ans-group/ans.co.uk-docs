@@ -17,6 +17,7 @@ This will alert you if a problem occurs allowing you take corrective actions bef
 - [How often are monitoring checks run?](./frequency/)
 - [How can I schedule downtime when. performing maintenance?](./schedule-downtime/)
 - [Where can I view my monitoring results?](./view/)
+- [LogicMonitor](./logicmonitor/)
 
 :::warning
 The ANS Support Team do not actively monitor CTM alerts on your behalf.
