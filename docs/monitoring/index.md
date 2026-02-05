@@ -7,7 +7,6 @@ keywords:
   - monitoring
   - usage
   - usage management
-  - proprotection
   - ans
   - ukfast
   - bandwidth
@@ -23,7 +22,6 @@ keywords:
 
 Help with monitoring your ANS-hosted infrastructure, and managing usage effectively.
 
-- [PROprotection report](./proprotection/)
 - [Capacity Threshold Monitoring](./monitoring/)
 - [Memory usage](./memory-usage/)
 - [Bandwidth usage](./bandwidth/)
