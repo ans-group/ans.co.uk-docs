@@ -28,5 +28,3 @@ These graphs will show you the traffic that has been sent and received for this 
 These graphs will show you the packets per second that have been sent and received for this server over varying periods of time.
 
 ![PPS](../monitoring-images/pps.png)
-
-For a consolidated view of various usage metrics, including bandwidth, for your ANS-hosted servers you can run a [PROprotection Report](../proprotection).

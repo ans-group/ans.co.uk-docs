@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
-sidebar_label: Scheduled Down Time in LogicMonitor
+sidebar_label: Scheduled Down Time (SDT) Overview
+title: Scheduled Down Time (SDT) Overview
 description: A guide to help you apply Schedule Down Time in LogicMonitor
 keywords:
   - ans
@@ -13,45 +14,25 @@ keywords:
   - monitoring
 ---
 
-# Scheduled Down Time in LogicMonitor
+# Scheduled Down Time (SDT) Overview
 
-SDT (Scheduled Down Time) allows you to temporarily suppress alerting in LogicMonitor. This is useful during planned maintenance, reboots, upgrades, backups, or any activity that would normally trigger alerts you expect and do not need to act on.
-SDT can be applied at the group, device, or datapoint level, depending on how wide you want the alert suppression to be.
+This is typically used for maintenance on an individual server, firewall, switch, or appliance.
+
+SDT (Scheduled Down Time) allows you to temporarily suppress alerting in LogicMonitor. This is useful during planned maintenance, reboots, upgrades, backups, or any activity that would normally trigger alerts you expect and do not need to act on. SDT can be applied at the group, device, or datapoint level, depending on how wide you want the alert suppression to be.
 
 ## SDT levels explained
 
 ### Group-level SDT
 
-Applying SDT at the group level suppresses all alerting for every device within that group.
-This is ideal for large-scale maintenance affecting multiple systems—for example, patching a full server tier or performing network infrastructure updates.
-
-Effect:
-
-✔ All devices and their datapoints in the group stop sending alerts.
-
-✖ Devices outside the group are unaffected.
+Applying SDT at the group level suppresses all alerting for every device within that group. This is ideal for large-scale maintenance affecting multiple systems—for example, patching a full server tier or performing network infrastructure updates.
 
 ### Device-level SDT
 
-Device-level SDT suppresses alerting for all datapoints on a single device.
-This is typically used for maintenance on an individual server, firewall, switch, or appliance.
-
-Effect:
-
-✔ Every datapoint on that device is suppressed.
-
-✖ Other devices continue alerting normally.
+Device-level SDT suppresses alerting for all datapoints on a single device. This is typically used for maintenance on an individual server, firewall, switch, or appliance.
 
 ### Datapoint-level SDT
 
-Datapoint-level SDT suppresses alerting for one specific datapoint.
-This is useful when a particular metric is known to spike during routine operations, such as CPU usage during backups or disk I/O during scheduled jobs.
-
-Effect:
-
-✔ Only that one datapoint is suppressed.
-
-✖ All other datapoints and devices remain active.
+Datapoint-level SDT suppresses alerting for one specific datapoint. This is useful when a particular metric is known to spike during routine operations, such as CPU usage during backups or disk I/O during scheduled jobs.
 
 ## How to apply SDT
 
