@@ -40,7 +40,7 @@ jobs:
           tags: ghcr.io/ans-group/new-docs-app:${{ github.event.number }}
 
       - name: 'Deploy'
-        uses: 'deliverybot/helm@v1'
+        uses: 'vimeda/helm@v1.7.0'
         with:
           release: new-docs-uat-${{ github.event.number }}
           chart: .helm
