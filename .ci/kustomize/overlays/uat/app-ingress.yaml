@@ -1,0 +1,22 @@
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: app-ingress
+spec:
+  rules:
+  - host: REPLACE_ME
+    http:
+      paths:
+      - pathType: Prefix
+        path: /
+        backend:
+          service:
+            name: app
+            port:
+              number: 80
+  tls:
+  - hosts:
+    - REPLACE_ME
+    secretName: docsuat-devops-ans-uk-tls
+  
