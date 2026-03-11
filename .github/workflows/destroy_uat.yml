@@ -21,7 +21,7 @@ jobs:
           ref: "refs/pull/${{ github.event.number }}/merge"
 
       - name: 'Uninstall Helm Release'
-        uses: 'deliverybot/helm@v1'
+        uses: 'vimeda/helm@v1.7.0'
         with:
           release: new-docs-uat-${{ github.event.number }}
           chart: .helm
