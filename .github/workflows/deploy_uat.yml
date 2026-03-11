@@ -15,7 +15,7 @@ jobs:
       contents: read
     environment:
       name: UAT
-      url: https://pr-${{ github.event.number }}.docsuat.devops.ans.uk
+      url: https://pr-new-${{ github.event.number }}.docsuat.devops.ans.uk
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
