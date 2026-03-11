@@ -131,7 +131,7 @@ Windows Server 2008 has very limited support for newer and more secure cipher su
 
 ## Loadbalancer, WAF, and Webcelerator solutions
 
-In order for a device, such as a load balancer, to inspect HTTPS Web traffic, it must be able to decrypt any packets between the client's browser and the backend web server. The same applies to a Webcelerator - If the Webcel cannot decrypt the traffic then it will be unable to cache any static content for future requests. This means that either SSL Offloading or Secure Origin Pull should be used and the TLS connection terminated at the device. More information on this is provided in [our Webcel guide](../../../../webcel/general-information/).
+In order for a device, such as a load balancer, to inspect HTTPS Web traffic, it must be able to decrypt any packets between the client's browser and the backend web server. The same applies to a Webcelerator - If the Webcel cannot decrypt the traffic then it will be unable to cache any static content for future requests. This means that either SSL Offloading or Secure Origin Pull should be used and the TLS connection terminated at the device.
 
 If HTTPS traffic to your Web server is terminated at one of these edge devices, then you can get in touch with our Support Team to adjust the supported TLS protocols and cipher suites per your requirements.
 

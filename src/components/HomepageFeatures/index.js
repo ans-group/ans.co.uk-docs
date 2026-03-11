@@ -51,11 +51,6 @@ const FeatureList = [
     nav: "/docs/operating-systems",
   },
   {
-    title: "Webcelerator",
-    Svg: require("../../svg/go-live-white.svg").default,
-    nav: "/docs/webcel/",
-  },
-  {
     title: "Colocation",
     Svg: require("../../svg/dx-score-white.svg").default,
     nav: "/docs/network/colo/",

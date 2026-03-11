@@ -49,8 +49,8 @@ A successful migration can be ensured with the following steps
 ## Capacity Planning & Testing
 
 - [Load Testing](https://grafana.com/docs/k6/latest/)
-- [Checking Disk Space](/docs/monitoring/checkdiskspace/)
+- [Checking Disk Space](/docs/monitoring/check-disk-space/)
 - [Bandwidth](/docs/monitoring/bandwidth/)
 - [Windows Resource Manager](/docs/monitoring/resmon/)
 - [Testing Websites with a hosts file](/docs/operating-systems/windows/common-issues/testing-websites/)
-- [Utilising an APM tool](/docs/monitoring/installnewrelic/)
+- [Utilising an APM tool](/docs/monitoring/install-new-relic/)

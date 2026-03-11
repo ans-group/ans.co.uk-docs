@@ -89,7 +89,7 @@ tmpfs                         48G     0   48G   0% /sys/fs/cgroup
 tmpfs                        9.5G     0  9.5G   0% /run/user/1000
 ```
 
-If any partition is full or running out of space we recommend using [`ncdu`](/operatingsystems/linux/ncdu/index) to review the largest files/directories within that partition.
+If any partition is full or running out of space we recommend using [`ncdu`](../../../../../operating-systems/linux/ncdu/) to review the largest files/directories within that partition.
 
 ## Resource check - `atop`
 

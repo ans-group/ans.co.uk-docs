@@ -22,7 +22,6 @@ Some of the most commonly asked questions by clients when receiving their first 
 
 Depending on the solution deployed, the answer to this will vary:
 
-- If you have a solution containing a [Webcelerator](../../../webcel/), then you should use the VIP associated to that device.
 - If you have a solution containing a [Load Balancer](../../../network/loadbalancing/), then the VIP associated to the ruleset for this cluster should be used.
 - If you have a [two node cluster with no edge device](../introduction-to-bcp/#two-node-active--passive-clusters), then the web VIP should be used.
 

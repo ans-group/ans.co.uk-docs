@@ -47,7 +47,7 @@ As DRBD is active / passive, you will only be able to access the DRBD device on 
 
 Anecdotally, you can consider DRBD as operating in a similar way to RAID1, except that it synchronises disks in different servers over the network. That being said, there are differences between RAID1 and DRBD, so it’s only comparable on a basic level.
 
-**[Continue reading about DRBD on BCP »](../distributed-replicated-block-device-drbd//)**
+**[Continue reading about DRBD on BCP »](../distributed-replicated-block-device-drbd/)**
 
 :::note
 Further reading about DRBD for those interested:
