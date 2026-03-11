@@ -24,6 +24,7 @@ jobs:
         uses: 'vimeda/helm@v1.7.0'
         with:
           release: new-docs-uat-${{ github.event.number }}
+          namespace: docs-uat
           chart: .helm
           token: ${{ secrets.GITHUB_TOKEN }}
           task: remove
