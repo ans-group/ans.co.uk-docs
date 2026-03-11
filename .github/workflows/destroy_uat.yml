@@ -1,0 +1,39 @@
+---
+
+name: Teardown UAT environment for this PR
+on:
+  workflow_dispatch: {}
+  pull_request_target:
+    types:
+      - closed
+jobs:
+  teardown:
+    if: contains(github.event.pull_request.labels.*.name, 'deploy uat')
+    runs-on: ubuntu-latest
+    permissions:
+      packages: write
+    environment:
+      name: UAT
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+        with:
+          ref: "refs/pull/${{ github.event.number }}/merge"
+
+      - name: 'Uninstall Helm Release'
+        uses: 'deliverybot/helm@v1'
+        with:
+          release: new-docs-uat-${{ github.event.number }}
+          chart: .helm
+          token: ${{ secrets.GITHUB_TOKEN }}
+          task: remove
+        env:
+          KUBECONFIG_FILE: '${{ secrets.UAT_KUBECONFIG_ANS }}'
+
+      - name: Remove the app container image from the registry
+        uses: bots-house/ghcr-delete-image-action@v1.0.1
+        with:
+          owner: ans-group
+          name: new-docs-app
+          tag: ${{ github.event.number }}
+          token: ${{ secrets.REGISTRY_DELETE_PAT }}

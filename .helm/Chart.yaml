@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ans-docs
+description: ANS Documentation Site
+version: 0.1.0
+appVersion: "1.0"
+type: application

@@ -1,0 +1,16 @@
+image:
+  repository: ghcr.io/ans-group/new-docs-app
+  tag: stable
+  pullPolicy: IfNotPresent
+
+ingress:
+  host: docs.ans.co.uk
+  tls:
+    enabled: true
+    secretName: docs-ans-co-uk-tls
+  certManager:
+    enabled: true
+    clusterIssuer: letsencrypt-http
+
+deployment:
+  forceRestart: false

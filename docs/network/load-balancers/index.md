@@ -64,7 +64,7 @@ Here you can find all the information you need to get started with our load bala
 - [Common changes](./common-changes/)
   - [Adding a new server behind the load balancer](./common-changes/#adding-a-new-server-behind-the-load-balancer)
   - [Replacing an expired SSL certificate](./common-changes/#replacing-an-expired-ssl-certificate)
-  - [Drain traffic from a particular target server](./common-changes/drain-traffic-from-a-particular-target-server)
+  - [Drain traffic from a particular target server](./common-changes/#drain-traffic-from-a-particular-target-server)
   - [Temporarily remove a target server from behind the load balancer](./common-changes/#temporarily-remove-a-target-server-from-behind-the-load-balancer)
 - [FAQs](./faqs/)
   - [How do I replace an expired certificate?](./faqs/#how-do-i-replace-an-expired-certificate)
