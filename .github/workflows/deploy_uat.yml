@@ -8,7 +8,7 @@ on:
 jobs:
   build_and_deploy:
     if: contains(github.event.pull_request.labels.*.name, 'deploy uat')
-    runs-on: [self-hosted, docs]
+    runs-on: ubuntu-latest
     permissions:
       packages: write
       issues: read
@@ -43,7 +43,6 @@ jobs:
         uses: 'vimeda/helm@v1.7.0'
         with:
           release: new-docs-uat-${{ github.event.number }}
-          namespace: docs-uat
           chart: .helm
           token: ${{ secrets.GITHUB_TOKEN }}
           values: |
