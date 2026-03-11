@@ -31,7 +31,7 @@ jobs:
           KUBECONFIG_FILE: '${{ secrets.UAT_KUBECONFIG_ANS }}'
 
       - name: Remove the app container image from the registry
-        uses: bots-house/ghcr-delete-image-action@v1.0.1
+        uses: bots-house/ghcr-delete-image-action@v1.1.0
         with:
           owner: ans-group
           name: new-docs-app
