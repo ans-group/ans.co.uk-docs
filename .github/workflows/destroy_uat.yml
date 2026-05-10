@@ -16,7 +16,7 @@ jobs:
       name: UAT
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
         with:
           ref: "refs/pull/${{ github.event.number }}/merge"
 
