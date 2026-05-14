@@ -53,6 +53,10 @@ jobs:
               pullPolicy: Always
             ingress:
               host: pr-new-${{ github.event.number }}.docsuat.devops.ans.uk
+              tls:
+                secretName: docsuat-devops-ans-uk-tls
+              certManager:
+                enabled: false
             deployment:
               forceRestart: true
         env:

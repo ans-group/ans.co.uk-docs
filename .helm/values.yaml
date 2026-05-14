@@ -5,6 +5,12 @@ image:
 
 ingress:
   host: docs.ans.co.uk
+  tls:
+    enabled: true
+    secretName: docs-ans-co-uk-tls
+  certManager:
+    enabled: true
+    clusterIssuer: letsencrypt-http
 
 deployment:
   forceRestart: false
