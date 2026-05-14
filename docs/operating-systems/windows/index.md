@@ -13,7 +13,7 @@ title: "Windows"
 - [IIS](./iis/)
 - [MSSQL](./mssql/)
 - [Networking](./networking/)
-- [TLS 1.2 in PowerShell](./tsl-in-powershell/)
+- [TLS 1.2 in PowerShell](./tls-in-powershell/)
 - [RDP](./rdp/)
 - [Windows Server 2016](./server2016/)
 - [SSL/TLS and Schannel](./tls-and-schannel/)

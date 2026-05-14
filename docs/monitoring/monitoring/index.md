@@ -13,7 +13,7 @@ description: A guide to configuring Capacity Threshold Monitoring (CTM)
 This will alert you if a problem occurs allowing you take corrective actions before a problem becomes an issue.
 :::
 
-- [Getting started](./geting-started/)
+- [Getting started](./getting-started/)
 - [How often are monitoring checks run?](./frequency/)
 - [How can I schedule downtime when. performing maintenance?](./schedule-downtime/)
 - [Where can I view my monitoring results?](./view/)
