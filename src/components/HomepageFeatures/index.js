@@ -75,7 +75,6 @@ function Feature({ Svg, title, description, nav }) {
         to={nav}
         className={clsx("card", styles.feature)}
       >
-        /
         <div
           style={{ textAlign: "center" }}
           className="text--center padding-horiz--md"
