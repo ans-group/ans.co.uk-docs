@@ -14,7 +14,7 @@ keywords:
 
 # Windows administration
 
-- [Adding a UPN suffix in Active Directory](./add-ups-suffix/)
+- [Adding a UPN suffix in Active Directory](./add-upn-suffix/)
 - [Checking Windows Cluster Status](./checking-cluster-status/)
 - [Windows Disk Management](./disk-management/)
 - [Enabling Disk Performance Counters](./disk-perf-counters/)

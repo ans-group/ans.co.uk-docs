@@ -8,3 +8,4 @@ FROM nginx:stable
 
 COPY --from=builder /app/build /usr/share/nginx/docs.ans.co.uk/html
 COPY /.docker/nginx.conf /etc/nginx/nginx.conf
+COPY /.docker/redirects.conf /etc/nginx/default.d/redirects.conf
