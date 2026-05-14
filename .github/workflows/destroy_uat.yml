@@ -15,17 +15,11 @@ jobs:
     environment:
       name: UAT
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v3
-        with:
-          ref: "refs/pull/${{ github.event.number }}/merge"
-
       - name: 'Uninstall Helm Release'
         uses: 'vimeda/helm@v1.7.0'
         with:
           release: new-docs-uat-${{ github.event.number }}
           namespace: docs-uat
-          chart: .helm
           token: ${{ secrets.GITHUB_TOKEN }}
           task: remove
         env:
@@ -36,5 +30,5 @@ jobs:
         with:
           owner: ans-group
           name: new-docs-app
-          tag: ${{ github.event.number }}
+          tag: uat-${{ github.event.number }}
           token: ${{ secrets.REGISTRY_DELETE_PAT }}

@@ -15,7 +15,7 @@ jobs:
       contents: read
     environment:
       name: UAT
-      url: https://pr-new-${{ github.event.number }}.docsuat.devops.ans.uk
+      url: https://pr-new-${{ github.event.number }}.docsuat.devops.ans.uk/docs/
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
@@ -37,7 +37,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/ans-group/new-docs-app:${{ github.event.number }}
+          tags: ghcr.io/ans-group/new-docs-app:uat-${{ github.event.number }}
 
       - name: 'Deploy'
         uses: 'vimeda/helm@v1.7.0'
@@ -48,7 +48,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           values: |
             image:
-              tag: ${{ github.event.number }}
+              tag: uat-${{ github.event.number }}
               pullPolicy: Always
             ingress:
               host: pr-new-${{ github.event.number }}.docsuat.devops.ans.uk
