@@ -20,6 +20,7 @@ jobs:
         with:
           release: new-docs-uat-${{ github.event.number }}
           namespace: docs-uat
+          chart: .helm
           token: ${{ secrets.GITHUB_TOKEN }}
           task: remove
         env:
