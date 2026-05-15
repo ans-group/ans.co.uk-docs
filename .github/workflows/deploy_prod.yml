@@ -1,0 +1,54 @@
+---
+
+name: Build Docker images and deploy to Production
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      packages: write
+      issues: read
+      contents: read
+    environment:
+      name: Production
+      url: https://docsnew.ans.co.uk/docs/
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Docker buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push app image
+        uses: docker/build-push-action@v3
+        with:
+          context: .
+          push: true
+          tags: ghcr.io/ans-group/new-docs-app:${{ github.sha }}
+
+      - name: 'Deploy'
+        uses: 'vimeda/helm@v1.7.0'
+        with:
+          release: docsnew
+          namespace: docsnew
+          chart: .helm
+          token: ${{ secrets.GITHUB_TOKEN }}
+          values: |
+            image:
+              tag: ${{ github.sha }}
+            ingress:
+              host: docsnew.ans.co.uk
+              tls:
+                secretName: docsnew-ans-co-uk-tls
+        env:
+          KUBECONFIG_FILE: '${{ secrets.PROD_KUBECONFIG_ANS }}'
