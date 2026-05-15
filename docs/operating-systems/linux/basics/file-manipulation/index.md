@@ -4,7 +4,6 @@ sidebar_label: "File manipulation"
 title: "File manipulation"
 description: A guide to manipulating files on the Linux OS
 keywords:
-  - ukfast
   - linux
   - copy
   - move

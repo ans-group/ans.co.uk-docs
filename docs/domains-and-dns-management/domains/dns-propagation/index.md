@@ -5,7 +5,6 @@ title: "What factors affect DNS propagation time?"
 description: a guide to DNS propagation times
 keywords:
   - ans
-  - ukfast
   - domain
   - nameserver
   - name server

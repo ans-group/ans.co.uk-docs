@@ -4,7 +4,6 @@ sidebar_label: "How to enable file download in Internet Explorer on a Windows Se
 title: "How to enable file download in Internet Explorer on a Windows Server"
 description: How to enable file downloads in Internet Explorer on a Windows Server
 keywords:
-  - ukfast
   - ans
   - windows
   - download

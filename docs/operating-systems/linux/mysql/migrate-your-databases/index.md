@@ -4,7 +4,6 @@ sidebar_label: "Migrate your databases"
 title: "Migrate your databases"
 description: A guide to migrating one or more databases from an existing database server to a remote one.
 keywords:
-  - ukfast
   - ans
   - linux
   - mysql

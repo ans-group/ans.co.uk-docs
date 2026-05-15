@@ -4,7 +4,6 @@ sidebar_label: "Run a virus scan"
 title: "Run a virus scan"
 description: A guide to running a server-wide virus scan on Linux using CLAM
 keywords:
-  - ukfast
   - ans
   - clam
   - antivirus

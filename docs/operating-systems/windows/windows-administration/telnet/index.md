@@ -4,7 +4,6 @@ sidebar_label: "Testing basic connectivity using Telnet"
 title: "Testing basic connectivity using Telnet"
 description: A guide to testing connectivity on Windows using Telnet
 keywords:
-  - ukfast
   - ans
   - network
   - telnet

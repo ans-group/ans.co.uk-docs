@@ -5,7 +5,6 @@ title: Validating your SSL certificate via File Upload
 description: A detailed guide on validating your ANS SSL Certificate via File Upload on a ANS Linux Server
 keywords:
   - ans
-  - ukfast
   - ssl
   - linux
   - file upload

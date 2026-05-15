@@ -4,7 +4,6 @@ sidebar_label: "Memory"
 title: "Memory"
 description: Programatic control of your eCloud Public resources
 keywords:
-  - ukfast
   - ans
   - cloud
   - ecloud

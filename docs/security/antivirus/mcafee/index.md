@@ -9,7 +9,6 @@ keywords:
   - file scan
   - scanning configuration
   - ans
-  - ukfast
 ---
 
 # Scanning configuration

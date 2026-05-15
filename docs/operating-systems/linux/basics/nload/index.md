@@ -4,7 +4,6 @@ sidebar_label: "Monitoring current network usage"
 title: "Monitoring current network usage"
 description: A guide on how to monitor current network usage with nload
 keywords:
-  - ukfast
   - ans
   - server
   - nload

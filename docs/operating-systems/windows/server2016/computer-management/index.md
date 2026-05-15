@@ -4,7 +4,6 @@ sidebar_label: "Computer Management"
 title: "Computer Management"
 description: A guide to accessing the Computer Management console in Windows Server 2016
 keywords:
-  - ukfast
   - ans
   - windows
   - server

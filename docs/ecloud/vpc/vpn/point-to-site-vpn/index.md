@@ -16,7 +16,6 @@ keywords:
   - Cisco
   - AnyConnect
   - ans
-  - ukfast
 ---
 
 # Point-to-Site VPNs

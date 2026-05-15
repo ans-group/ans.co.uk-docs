@@ -4,7 +4,6 @@ sidebar_label: "Retrieving your Plesk Admin Password"
 title: "Retrieving your Plesk Admin Password"
 description: A guide to retrieving your Plesk password on Linux servers
 keywords:
-  - ukfast
   - ans
   - plesk
   - password

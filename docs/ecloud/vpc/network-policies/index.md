@@ -12,7 +12,6 @@ keywords:
   - Firewall
   - Network Policies
   - ans
-  - ukfast
 ---
 
 # Network Policies (East-West Firewalling)

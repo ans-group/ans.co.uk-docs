@@ -5,7 +5,6 @@ title: SSLs
 description: Settings for SSLs within ANS load balancers
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - SSLs

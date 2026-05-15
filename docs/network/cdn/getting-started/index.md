@@ -5,7 +5,6 @@ title: Getting started
 description: Information about getting started with a Content Delivery Network (CDN)
 keywords:
   - ans
-  - ukfast
   - ddos
   - ddos protection
   - ddosx

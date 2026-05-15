@@ -4,7 +4,6 @@ sidebar_label: "How to install an Apache Module with EasyApache4"
 title: "How to install an Apache Module with EasyApache4"
 description: A guide to installing an Apache Module via EasyApache4
 keywords:
-  - ukfast
   - ans
   - apache
   - module

@@ -4,7 +4,6 @@ sidebar_label: "WordPress"
 title: "WordPress"
 description: How to configure WordPress and add admin users
 keywords:
-  - ukfast
   - ans
   - wordpress
   - configuration

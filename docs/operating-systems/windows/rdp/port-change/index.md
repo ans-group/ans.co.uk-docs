@@ -5,7 +5,6 @@ title: "How to change the Remote Desktop port"
 description: A guide to changing the Remote Desktop port on Windows
 keywords:
   - ans
-  - ukfast
   - windows
   - change
   - remote

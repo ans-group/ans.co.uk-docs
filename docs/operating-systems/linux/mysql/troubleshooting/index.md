@@ -11,7 +11,6 @@ keywords:
   - tuning
   - performance
   - db
-  - ukfast
   - ans
 ---
 

@@ -8,7 +8,6 @@ keywords:
   - remote desktop
   - rdp
   - ans
-  - ukfast
   - hosting
   - servers
 ---

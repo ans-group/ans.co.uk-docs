@@ -4,7 +4,6 @@ sidebar_label: "Installing PHP 7 on Ubuntu 14.04"
 title: "Installing PHP 7 on Ubuntu 14.04"
 description: A guide to installing and configuring PHP 7 on Ubuntu 14.04
 keywords:
-  - ukfast
   - ans
   - php
   - install

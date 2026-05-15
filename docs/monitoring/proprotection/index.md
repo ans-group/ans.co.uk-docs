@@ -5,7 +5,6 @@ title: PROprotection report
 description: A guide on how to set up ANS PROprotection reports
 keywords:
   - ans
-  - ukfast
   - proprotection
   - report
   - managing

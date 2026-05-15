@@ -5,7 +5,6 @@ title: "Add an IP using Skip as Source"
 description: A guide to adding an IP using SkipAsSource in Windows
 keywords:
   - ans
-  - ukfast
   - windows
   - ip
   - address

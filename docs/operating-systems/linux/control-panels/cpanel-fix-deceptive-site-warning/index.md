@@ -4,7 +4,6 @@ sidebar_label: "How to fix the 'deceptive site' warning on WHM login"
 title: "How to fix the 'deceptive site' warning on WHM login"
 description: A guide on how to fix WHM showing a deceptive site warning
 keywords:
-  - ukfast
   - ans
   - cpanel
   - whm

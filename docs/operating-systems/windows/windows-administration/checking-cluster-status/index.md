@@ -5,7 +5,6 @@ title: "Checking Windows cluster status"
 description: Instructions on how to check the status of a Windows cluster
 keywords:
   - ans
-  - ukfast
   - windows
   - cluster
   - check

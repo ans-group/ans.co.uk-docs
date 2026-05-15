@@ -4,7 +4,6 @@ sidebar_label: "Adding an IP address"
 title: "Adding an IP address"
 description: a guide to adding an IP address on Linux, Cent OS and Ubuntu
 keywords:
-  - ukfast
   - ans
   - ip
   - address

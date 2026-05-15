@@ -5,7 +5,6 @@ title: "Accessing the Control Panel"
 description: A guide to accessing and using the Control Panel in Windows Server 2016
 keywords:
   - ans
-  - ukfast
   - control
   - panel
   - windows

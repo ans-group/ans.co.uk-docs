@@ -4,7 +4,6 @@ sidebar_label: "The new Settings app"
 title: "The new Settings app"
 description: An in-depth guide to using Settings in Windows Server 2016
 keywords:
-  - ukfast
   - ans
   - windows
   - settings

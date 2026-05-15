@@ -4,7 +4,6 @@ sidebar_label: "ANS-supported VPNs"
 title: ANS-supported VPNs
 descriptions: What kind of VPNs are supported on ANS firewalls?
 keywords:
-  - ukfast
   - ans
   - firewalls
   - firewall

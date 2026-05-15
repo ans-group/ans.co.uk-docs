@@ -4,7 +4,6 @@ sidebar_label: "Connecting to a server via Remote Desktop"
 title: "Connecting to a server via Remote Desktop"
 description: A guide on connecting to a Windows server using Remote Desktop
 keywords:
-  - ukfast
   - ans
   - windows
   - connect

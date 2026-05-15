@@ -5,7 +5,6 @@ title: "Changing nameservers"
 description: How to change your domain nameservers with ANS
 keywords:
   - ans
-  - ukfast
   - nameservers
   - name servers
   - domain

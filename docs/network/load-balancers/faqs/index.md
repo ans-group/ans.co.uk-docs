@@ -5,7 +5,6 @@ title: FAQs
 description: An FAQ for loadbalancers with ANS
 keywords:
   - ans
-  - ukfast
   - loadbalancing
   - loadbalancer
   - faq

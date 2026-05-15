@@ -6,7 +6,6 @@ description: Considerations for TLS support of various applications
 keywords:
   - SSL
   - TLS
-  - ukfast
   - ans
   - Schannel
   - RDS

@@ -4,7 +4,6 @@ sidebar_label: "Creating bindings"
 title: "Creating bindings"
 description: A guide to creating bindings in IIS
 keywords:
-  - ukfast
   - ans
   - windows
   - iis

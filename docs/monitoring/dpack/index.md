@@ -8,7 +8,6 @@ keywords:
   - monitoring
   - performance
   - ans
-  - ukfast
   - dell
 ---
 

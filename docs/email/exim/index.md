@@ -4,7 +4,6 @@ sidebar_label: "EXIM mail transfer agent"
 title: EXIM mail transfer agent
 description: A guide to using the EXIM mail transfer agent on Linux servers
 keywords:
-  - ukfast
   - ans
   - linux
   - mail

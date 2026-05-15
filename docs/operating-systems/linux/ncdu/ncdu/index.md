@@ -5,7 +5,6 @@ title: "Ncdu"
 description: A guide to using Ncdu
 keywords:
   - ans
-  - ukfast
   - linux
   - install
   - centos

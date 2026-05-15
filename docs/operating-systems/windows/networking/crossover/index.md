@@ -5,7 +5,6 @@ title: "Using a crossover connection"
 description: An in-depth guide to using a crossover connection on Windows
 keywords:
   - ans
-  - ukfast
   - network
   - crossover
   - connection

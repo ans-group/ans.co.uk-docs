@@ -4,7 +4,6 @@ sidebar_label: "WHM first time setup"
 title: "WHM first time setup"
 description: WHM initial setup page
 keywords:
-  - ukfast
   - ans
   - cpanel
   - whm

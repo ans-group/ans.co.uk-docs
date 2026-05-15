@@ -13,7 +13,6 @@ keywords:
   - easyapache4
   - cpanel
   - install
-  - ukfast
   - ans
 ---
 

@@ -4,7 +4,6 @@ sidebar_label: "Elasticsearch"
 title: "Elasticsearch"
 description: guides relating to using Elasticsearch
 keywords:
-  - ukfast
   - ans
   - Magento
   - Magento2

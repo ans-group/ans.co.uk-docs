@@ -5,7 +5,6 @@ title: "Extended Validation Certificates"
 description: Purchasing and renewing EV SSL certificates from ANS
 keywords:
   - ans
-  - ukfast
   - ev ssl
   - ssl
   - certificates

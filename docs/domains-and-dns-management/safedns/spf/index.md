@@ -4,7 +4,6 @@ sidebar_position: 4
 description: Adding a Sender Policy Framework (SPF) record to SafeDNS
 keywords:
   - ans
-  - ukfast
   - domain
   - dns
 ---

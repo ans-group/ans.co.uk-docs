@@ -4,7 +4,6 @@ sidebar_label: "Postfix mail transfer agent"
 title: Postfix mail transfer agent
 description: A guide to installing and using hte Postfix mail transfer agent on Linux servers
 keywords:
-  - ukfast
   - ans
   - mail
   - email

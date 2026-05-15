@@ -5,7 +5,6 @@ title: "Handling private keys"
 description: A guide to handling private keys with ANS
 keywords:
   - ans
-  - ukfast
   - private keys
   - domains
   - dns

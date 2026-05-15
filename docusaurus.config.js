@@ -72,8 +72,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/ans-logo.svg",
+      metadata: [
+        { name: "og:site_name", content: "ANS Documentation" },
+        { name: "og:description", content: "Help with ANS products and services, and guidance with common hosting technology." },
+        { name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:site", content: "@ANSGroupUK" },
+      ],
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: true,

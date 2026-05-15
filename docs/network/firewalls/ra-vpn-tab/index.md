@@ -4,7 +4,6 @@ sidebar_label: "Remote Access VPN dashboard"
 title: Remote Access VPN dashboard
 description: A guide to ANS Remote Access VPN dashboard
 keywords:
-  - ukfast
   - ans
   - firewall
   - vpn

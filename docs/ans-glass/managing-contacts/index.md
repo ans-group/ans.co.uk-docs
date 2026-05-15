@@ -5,7 +5,6 @@ title: "Managing contacts & permissions in ANS Glass"
 description: How to manage authorised contacts in ANS Glass
 keywords:
   - ans
-  - ukfast
   - account manager
   - service manager
   - Primary Contact
@@ -45,7 +44,7 @@ The Primary Contact can add new contacts by following these simple steps:
 
 ## Managing access to server credentials
 
-**Server Credentials** are available in MyUKFast for all servers in your account, but explicit access to this for contacts must be granted first.
+**Server Credentials** are available in ANS Glass for all servers in your account, but explicit access to this for contacts must be granted first.
 
 1. Navigate to the [Contacts section](https://portal.ans.co.uk/account/add-contact.php), click **My Account > Contacts**.
 2. Click the contact you wish to edit.

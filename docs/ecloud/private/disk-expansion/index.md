@@ -5,7 +5,6 @@ title: "Disk expansion (eCloud)"
 description: a guide to Disk Expansion with eCloud
 keywords:
   - ans
-  - ukfast
   - disk expansion
   - ecloud
   - resize

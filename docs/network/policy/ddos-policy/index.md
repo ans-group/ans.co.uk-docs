@@ -5,7 +5,6 @@ title: DDoS policy
 description: Information about the ANS DDoS policy
 keywords:
   - ans
-  - ukfast
   - ddos
   - anti-ddos
   - attack

@@ -4,7 +4,6 @@ sidebar_label: "Exchange DNS"
 title: "Exchange DNS"
 description: Information and guidance on DNS settings for Microsoft Exchange
 keywords:
-  - ukfast
   - windows
   - exchange
   - dns

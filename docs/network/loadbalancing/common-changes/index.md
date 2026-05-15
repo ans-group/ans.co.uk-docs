@@ -5,7 +5,6 @@ title: Common changes
 description: A guide covering some common changes you may want to make with your loadbalancer
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - ip

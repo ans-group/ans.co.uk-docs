@@ -4,7 +4,6 @@ sidebar_label: "Installing FileZilla Server for Windows"
 title: "Installing FileZilla Server for Windows"
 description: Guidance on installing the FileZilla Server for Windows
 keywords:
-  - ukfast
   - ftp
   - filezilla
   - server

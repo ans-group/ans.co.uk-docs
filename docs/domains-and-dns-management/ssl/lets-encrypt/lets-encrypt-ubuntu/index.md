@@ -5,7 +5,6 @@ title: "Apache / NGINX on Ubuntu with Certbot"
 description: How to secure your sites with Let's Encrypt on Ubuntu
 keywords:
   - ubuntu
-  - ukfast
   - ans
   - ssl
   - letsencrypt

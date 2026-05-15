@@ -5,7 +5,6 @@ title: Getting started
 description: Initial set up and deployment for an ANS loadbalancer
 keywords:
   - ans
-  - ukfast
   - load balancer
   - loadbalancer
   - loadbalancing

@@ -4,7 +4,6 @@ sidebar_label: "SSH Diffie-Hellman"
 title: "SSH Diffie-Hellman"
 description: A guide to using SSH Diffie-Hellman
 keywords:
-  - ukfast
   - linux
   - ssh
   - keys

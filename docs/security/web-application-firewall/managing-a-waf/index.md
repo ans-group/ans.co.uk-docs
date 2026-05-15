@@ -5,7 +5,6 @@ title: Managing a Web Application Firewall in-life (hardware-based)
 description: General information on managing an ANS hardware-based Web Application Firewall
 keywords:
   - ans
-  - ukfast
   - ddosx
   - web application firewall
   - waf

@@ -5,7 +5,6 @@ title: Can I bring my IP ranges and AS number with me?
 description: Information on briging over IP ranges and AS numbers
 keywords:
   - ans
-  - ukfast
   - colocation
   - networking
 ---

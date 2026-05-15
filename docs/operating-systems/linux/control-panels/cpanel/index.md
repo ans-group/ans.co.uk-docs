@@ -4,7 +4,6 @@ sidebar_label: "cPanel overview"
 title: "cPanel overview"
 description: A guide to using the cPanel control panel on Linux servers
 keywords:
-  - ukfast
   - ans
   - server
   - cpanel

@@ -6,7 +6,6 @@ description: TLS and Schannel configuration
 keywords:
   - SSL
   - TLS
-  - ukfast
   - ans
   - Schannel
   - IIS

@@ -5,7 +5,6 @@ title: "Windows Firewall"
 description: An in-depth guide to using Windows Firewall
 keywords:
   - ans
-  - ukfast
   - windows
   - firewall
   - security

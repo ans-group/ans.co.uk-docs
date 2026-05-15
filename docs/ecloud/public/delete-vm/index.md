@@ -4,7 +4,6 @@ sidebar_label: "Delete VM"
 title: "Delete VM"
 description: Programatic control of your eCloud Public resources
 keywords:
-  - ukfast
   - ans
   - cloud
   - ecloud

@@ -5,7 +5,6 @@ title: "Let's Encrypt"
 description: A guide to Let's Encrypt with ANS
 keywords:
   - ans
-  - ukfast
   - domains
   - dns
   - lets encrypt

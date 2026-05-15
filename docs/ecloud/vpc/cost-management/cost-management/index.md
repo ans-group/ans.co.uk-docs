@@ -11,7 +11,6 @@ keywords:
   - Virtual Private Cloud
   - Cost Management
   - ans
-  - ukfast
 ---
 
 # Cost Management

@@ -4,7 +4,6 @@ sidebar_label: "Example configurations"
 title: "Example configurations"
 description: Some example configurations for the Apache web server
 keywords:
-  - ukfast
   - ans
   - apache
   - linux

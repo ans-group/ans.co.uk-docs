@@ -4,7 +4,6 @@ sidebar_label: "How to transfer files to and from a server"
 title: "How to transfer files to and from a server"
 description: A guide with common errors with uploading files via ftp and remote desktop
 keywords:
-  - ukfast
   - ans
   - windows
   - ftp

@@ -4,7 +4,6 @@ sidebar_label: "How to create a user in Active Directory"
 title: "How to create a user in Active Directory"
 description: A guide to creating a new user in Windows Active Directory
 keywords:
-  - ukfast
   - ans
   - windows
   - active directory

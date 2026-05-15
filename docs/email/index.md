@@ -4,7 +4,6 @@ sidebar_label: "Email"
 title: Email
 description: Information regarding a wide range of email related issues
 keywords:
-  - ukfast
   - ans
   - email
   - mail

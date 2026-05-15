@@ -4,7 +4,6 @@ sidebar_label: "Connecting to MySQL via SSH"
 title: "Connecting to MySQL via SSH"
 description: A guide to connecting to MySQL on Plesk via CLI
 keywords:
-  - ukfast
   - plesk
   - mysql
   - plesk db

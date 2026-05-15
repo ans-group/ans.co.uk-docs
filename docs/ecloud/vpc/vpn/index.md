@@ -11,7 +11,6 @@ keywords:
   - Virtual Private Cloud
   - VPN
   - ans
-  - ukfast
 ---
 
 # VPNs

@@ -5,7 +5,6 @@ title: Accessing your firewall configuration through ANS Glass
 description: How to access your ANS firewall configuration
 keywords:
   - ans
-  - ukfast
   - firewalls
   - ip
   - ports

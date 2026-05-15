@@ -2,10 +2,8 @@
 sidebar_position: 6
 sidebar_label: "Managing passwords"
 title: "Managing passwords"
-description: Page providing information about managing your passwords within MyUKFast
+description: Page providing information about managing your passwords within ANS Glass
 keywords:
-  - ukfast
-  - myukfast
   - ans
   - ans glass
   - password

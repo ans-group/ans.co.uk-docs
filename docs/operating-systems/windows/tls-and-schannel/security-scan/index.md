@@ -5,7 +5,6 @@ title: "The security scan"
 description: Information and guidance on Windows security scans
 keywords:
   - ans
-  - ukfast
   - security
   - windows
   - tls

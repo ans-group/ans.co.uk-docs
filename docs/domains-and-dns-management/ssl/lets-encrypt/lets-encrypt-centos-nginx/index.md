@@ -5,7 +5,6 @@ title: "How to secure NGINX with Let’s Encrypt on CentOS"
 description: How to secure Apache with Let's Encrypt on CentOS
 keywords:
   - ans
-  - ukfast
   - ssl
   - certbot
   - apache

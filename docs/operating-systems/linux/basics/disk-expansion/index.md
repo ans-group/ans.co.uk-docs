@@ -5,7 +5,6 @@ title: "Disk expansion (eCloud)"
 description: A disk expansion guide on Linux for eCloud
 keywords:
   - ans
-  - ukfast
   - ecloud
   - cloud
   - disk expansion

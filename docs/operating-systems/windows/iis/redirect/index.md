@@ -4,7 +4,6 @@ sidebar_label: "Configuring a redirect in IIS"
 title: "Configuring a redirect in IIS"
 description: A guide to configuring a redirect in IIS
 keywords:
-  - ukfast
   - windows
   - iis
   - configure

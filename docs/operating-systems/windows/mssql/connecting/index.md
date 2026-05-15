@@ -4,7 +4,6 @@ sidebar_label: "Connecting to a Microsoft SQL Server instance"
 title: "Connecting to a Microsoft SQL Server instance"
 description: A guide to connecting to a Microsoft SQL Server instance
 keywords:
-  - ukfast
   - ans
   - mssql
   - sql server

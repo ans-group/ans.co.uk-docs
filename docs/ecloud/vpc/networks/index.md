@@ -11,7 +11,6 @@ keywords:
   - Virtual Private Cloud
   - Networks
   - ans
-  - ukfast
 ---
 
 # Networks

@@ -2,9 +2,8 @@
 sidebar_position: 2
 sidebar_label: "What kind of attacks does a WAF prevent?"
 title: What kind of attacks does a WAF prevent?
-description: General information on the attacks a UKFast WAF can help prevent
+description: General information on the attacks a ANS WAF can help prevent
 keywords:
-  - ukfast
   - ans
   - ddosx
   - web application firewall

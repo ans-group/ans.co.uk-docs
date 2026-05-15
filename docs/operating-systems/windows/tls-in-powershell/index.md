@@ -4,7 +4,6 @@ sidebar_label: "TLS 1.2 in PowerShell"
 title: "TLS 1.2 in PowerShell"
 description: Information and Instructions about Windows PowerShell TLS options
 keywords:
-  - ukfast
   - ans
   - windows
   - powershell

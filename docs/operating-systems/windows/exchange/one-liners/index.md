@@ -5,7 +5,6 @@ title: "Exchange PowerShell quick commands"
 description: A list of quick PowerShell commands for Microsoft Exchange
 keywords:
   - ans
-  - ukfast
   - windows
   - exchange
   - powershell

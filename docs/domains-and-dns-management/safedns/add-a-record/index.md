@@ -4,7 +4,6 @@ sidebar_position: 2
 description: Adding an a record to an existing domain
 keywords:
   - ans
-  - ukfast
   - domain
   - dns
   - a record

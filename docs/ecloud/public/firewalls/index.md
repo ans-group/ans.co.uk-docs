@@ -5,7 +5,6 @@ title: Firewalls
 description: A guide on dedicated and shared firewalls with ANS including information on VPNs
 keywords:
   - ans
-  - ukfast
   - networking
   - networks
   - firewall

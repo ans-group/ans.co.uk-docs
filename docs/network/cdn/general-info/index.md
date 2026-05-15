@@ -7,7 +7,6 @@ keywords:
   - cdn
   - content delivery network
   - ans
-  - ukfast
   - servers
 ---
 

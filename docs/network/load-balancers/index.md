@@ -6,7 +6,6 @@ description: A guide to ANS loadbalancers including set up, configuration, and d
 keywords:
   - loadbalancing
   - loadbalancer
-  - ukfast
   - ans
 ---
 

@@ -4,7 +4,6 @@ sidebar_label: "Performing a Plesk to Plesk migration"
 title: "Performing a Plesk to Plesk migration"
 description: A guide to performing a cPanel to cPanel migration
 keywords:
-  - ukfast
   - migration
   - move
   - website

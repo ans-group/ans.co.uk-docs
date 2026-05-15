@@ -5,7 +5,6 @@ title: "Cloning & Templating VMs"
 description: Information on how to clone and template VMs in your eCloud Private solution
 keywords:
   - ans
-  - ukfast
   - cloud
   - ecloud
   - private

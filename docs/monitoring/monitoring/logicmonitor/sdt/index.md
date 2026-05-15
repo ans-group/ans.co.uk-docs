@@ -5,7 +5,6 @@ title: Scheduled Down Time (SDT) Overview
 description: A guide to help you apply Schedule Down Time in LogicMonitor
 keywords:
   - ans
-  - ukfast
   - logicmonitor
   - logic monitor
   - sdt

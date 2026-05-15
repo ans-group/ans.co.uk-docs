@@ -5,7 +5,6 @@ title: Listeners
 description: Settings for listeners within ANS load balancers
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - listeners

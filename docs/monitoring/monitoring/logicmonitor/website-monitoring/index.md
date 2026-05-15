@@ -5,7 +5,6 @@ title: Website monitoring in LogicMonitor
 description: Guide on how to view your website monitoring in LogicMonitor
 keywords:
   - ans
-  - ukfast
   - logicmonitor
   - logic monitor
   - website monitoring

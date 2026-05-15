@@ -13,7 +13,6 @@ keywords:
   - jam
   - diffie hellman
   - ans
-  - ukfast
 ---
 
 # The Logjam attack

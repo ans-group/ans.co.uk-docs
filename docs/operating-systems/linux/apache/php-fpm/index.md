@@ -4,7 +4,6 @@ sidebar_label: "Apache with PHP-FPM"
 title: "Apache with PHP-FPM"
 description: A guide to using PHP-FPM with the Apache web server.
 keywords:
-  - ukfast
   - ans
   - apache
   - PHP-FPM

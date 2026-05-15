@@ -2,13 +2,12 @@
 sidebar_position: 7
 sidebar_label: "Monitoring & usage management"
 title: Monitoring & usage management
-description: Help with monitoring your UKFast-hosted infrastructure, and managing usage effectively.
+description: Help with monitoring your ANS-hosted infrastructure, and managing usage effectively.
 keywords:
   - monitoring
   - usage
   - usage management
   - ans
-  - ukfast
   - bandwidth
   - disk space
   - windows resource monitor

@@ -5,7 +5,6 @@ title: "Package management functions"
 description: Examples and information on package management functions on CentOS and Ubuntu from ANS
 keywords:
   - ans
-  - ukfast
   - servers
   - centos
   - ubuntu

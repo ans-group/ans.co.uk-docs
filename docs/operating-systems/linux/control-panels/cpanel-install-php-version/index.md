@@ -4,7 +4,6 @@ sidebar_label: "How to install a PHP version with EasyApache4"
 title: "How to install a PHP version with EasyApache4"
 description: A guide on how to install a PHP Version with EasyApache4
 keywords:
-  - ukfast
   - ans
   - php
   - version

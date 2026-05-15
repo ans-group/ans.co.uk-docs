@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # I've registered a domain with another company, how do I point it to my server or hosting space with you?

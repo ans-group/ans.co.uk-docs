@@ -4,7 +4,6 @@ sidebar_label: "Basic troubleshooting"
 title: "Basic troubleshooting"
 description: A guide to troubleshooting basic issues for Linux
 keywords:
-  - ukfast
   - linux
   - troubleshooting
   - system

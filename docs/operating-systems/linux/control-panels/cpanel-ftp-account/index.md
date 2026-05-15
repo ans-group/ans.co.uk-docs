@@ -4,7 +4,6 @@ sidebar_label: "How to create an FTP account in cPanel"
 title: "How to create an FTP account in cPanel"
 description: How to Create an FTP Account In cPanel
 keywords:
-  - ukfast
   - ans
   - cpanel
   - whm

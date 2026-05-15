@@ -4,7 +4,6 @@ sidebar_label: "Information & guidance about .htaccess"
 title: "Information & guidance about .htaccess"
 description: Information and guidance on locking down htaccess on Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - htaccess

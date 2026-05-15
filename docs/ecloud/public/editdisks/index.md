@@ -4,7 +4,6 @@ sidebar_label: "Disk"
 title: "Disk"
 description: Programatic control of your eCloud Public resources
 keywords:
-  - ukfast
   - ans
   - cloud
   - ecloud

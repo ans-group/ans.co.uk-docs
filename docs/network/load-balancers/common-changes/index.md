@@ -4,7 +4,6 @@ sidebar_label: "Common changes"
 title: Common changes
 description: Making common changes to ANS load balancers
 keywords:
-  - ukfast
   - ans
   - loadbalancer
   - loadbalancing

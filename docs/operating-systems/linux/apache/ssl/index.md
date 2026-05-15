@@ -4,7 +4,6 @@ sidebar_label: "SSL certificates"
 title: "SSL certificates"
 description: A guide on how to set up mod_ssl to allow Apache to use SSLs
 keywords:
-  - ukfast
   - ans
   - ssl
   - apache

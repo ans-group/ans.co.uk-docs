@@ -4,7 +4,6 @@ sidebar_label: "logrotate"
 title: "logrotate"
 description: How to use logrotate to manage rotating log files in Linux
 keywords:
-  - ukfast
   - ans
   - log
   - rotate

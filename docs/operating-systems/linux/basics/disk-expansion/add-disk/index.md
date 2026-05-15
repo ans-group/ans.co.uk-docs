@@ -4,7 +4,6 @@ sidebar_label: "Add a new disk to the server"
 title: "Add a new disk to the server"
 description: A guide on adding a new disk to an eCloud virtual server
 keywords:
-  - ukfast
   - linux
   - ecloud
   - cloud

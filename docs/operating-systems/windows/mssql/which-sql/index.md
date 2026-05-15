@@ -4,7 +4,6 @@ sidebar_label: "Which version of Microsoft SQL Server do I need?"
 title: "Which version of Microsoft SQL Server do I need?"
 description: Guidance on which is the best version of Microsoft SQL Server for your requirements
 keywords:
-  - ukfast
   - ans
   - mssql
   - database

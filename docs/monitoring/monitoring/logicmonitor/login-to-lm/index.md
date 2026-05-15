@@ -4,7 +4,6 @@ sidebar_label: How to access LogicMonitor from Glass
 description: A guide to help you access LogicMonitor through Glass
 keywords:
   - ans
-  - ukfast
   - logicmonitor
   - logic monitor
   - glass

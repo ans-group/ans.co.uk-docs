@@ -4,7 +4,6 @@ sidebar_label: "PHP-FPM is disabled after EasyApache update"
 title: "PHP-FPM is disabled after EasyApache update"
 description: PHP-FPM is Disabled after EasyApache Update
 keywords:
-  - ukfast
   - ans
   - cpanel
   - whm

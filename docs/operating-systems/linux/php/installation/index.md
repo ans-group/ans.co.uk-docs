@@ -4,7 +4,6 @@ sidebar_label: "Installing PHP"
 title: "Installing PHP"
 description: A guide to installing and configuring PHP on Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - install

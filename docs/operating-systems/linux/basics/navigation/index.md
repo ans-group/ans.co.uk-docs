@@ -4,7 +4,6 @@ sidebar_label: "Navigating around a Linux system"
 title: "Navigating around a Linux system"
 description: A guide on how to navigate through linux
 keywords:
-  - ukfast
   - server
   - linux
   - cd

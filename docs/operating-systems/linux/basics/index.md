@@ -5,7 +5,6 @@ title: "Basics"
 description: A guide for the basics of the Linux operating system
 keywords:
   - ans
-  - ukfast
   - operating systems
   - linux
 ---

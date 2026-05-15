@@ -5,7 +5,6 @@ title: "How to map a network drive"
 description: A simple guide to mapping a network drive on Windows
 keywords:
   - ans
-  - ukfast
   - windows
   - network
   - mapping

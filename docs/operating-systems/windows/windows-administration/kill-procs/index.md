@@ -5,7 +5,6 @@ title: "How to forcibly end a process in Windows"
 description: How to forcibly end a process or application in Windows
 keywords:
   - ans
-  - ukfast
   - windows
   - kill
   - stop

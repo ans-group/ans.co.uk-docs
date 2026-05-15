@@ -4,7 +4,6 @@ sidebar_label: "Configuring host headers in IIS"
 title: "Configuring host headers in IIS"
 description: A guide to configuring host headers in IIS
 keywords:
-  - ukfast
   - ans
   - cloud
   - windows

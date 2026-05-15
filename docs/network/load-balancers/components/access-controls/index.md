@@ -5,7 +5,6 @@ title: Access controls
 description: Settings for access controls within ANS load balancers
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - access controls

@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # I've just registered a `.ltd.uk` | `.plc.uk` | `.net.uk` domain but it's not showing as registered?

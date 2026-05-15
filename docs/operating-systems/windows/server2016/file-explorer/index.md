@@ -5,7 +5,6 @@ title: "How to set 'This PC' as the default Explorer location"
 description: Instructions on how to set "This PC" as the default File Explorer location in Windows Server 2016
 keywords:
   - ans
-  - ukfast
   - file
   - explorer
   - change

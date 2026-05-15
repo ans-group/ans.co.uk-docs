@@ -4,7 +4,6 @@ sidebar_label: "Service management on CentOS 6"
 title: "Service management on CentOS 6"
 description: Information on how to manage services on CentOS 6
 keywords:
-  - ukfast
   - ans
   - linux
   - services

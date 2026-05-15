@@ -5,7 +5,6 @@ title: Changes to how alerting routing works in LogicMonitor compared to the cur
 description: A guide to changes to how alerting routing works in LogicMonitor compared to the current monitoring in the Portal
 keywords:
   - ans
-  - ukfast
   - logicmonitor
   - logic monitor
   - monitoring

@@ -5,7 +5,6 @@ title: "Reviewing SQL error logs"
 description: A guide to reviewing Microsoft SQL Server error logs
 keywords:
   - ans
-  - ukfast
   - mssql
   - windows
   - sql server

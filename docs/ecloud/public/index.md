@@ -2,10 +2,9 @@
 sidebar_position: 3
 sidebar_label: "eCloud Public"
 title: "eCloud Public"
-description: Information relating eCloud Public, UKFast's VMware-based public cloud platform
+description: Information relating eCloud Public, ANS's VMware-based public cloud platform
 keywords:
   - ans
-  - ukfast
   - ecloud
   - cloud
   - public

@@ -4,7 +4,6 @@ sidebar_label: "Changing your installed PHP version"
 title: "Changing your installed PHP version"
 description: A guide to changing PHP verions
 keywords:
-  - ukfast
   - ans
   - php
   - install

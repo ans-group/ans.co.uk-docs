@@ -5,7 +5,6 @@ title: "Finding the version of Microsoft SQL you are running"
 description: How to find which version of Microsoft SQL Server you're running
 keywords:
   - ans
-  - ukfast
   - guide
   - database
   - mssql

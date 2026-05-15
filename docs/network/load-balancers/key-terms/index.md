@@ -7,7 +7,6 @@ keywords:
   - loadbalancer
   - loadbalancer
   - ans
-  - ukfast
   - ip
   - vip
   - access control

@@ -4,7 +4,6 @@ sidebar_label: "Setting up SSH keys"
 title: "Setting up SSH keys"
 description: A guide to using SSH keys with Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - ssh

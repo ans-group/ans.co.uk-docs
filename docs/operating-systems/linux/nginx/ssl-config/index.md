@@ -4,7 +4,6 @@ sidebar_label: "Adding an SSL certificate in NGINX"
 title: "Adding an SSL certificate in NGINX"
 description: A guide to adding an SSL certificate to NGINX on Linux
 keywords:
-  - ukfast
   - linux
   - ssl
   - security

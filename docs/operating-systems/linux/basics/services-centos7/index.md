@@ -4,7 +4,6 @@ sidebar_label: "Service management on CentOS 7"
 title: "Service management on CentOS 7"
 description: Information on how to manage services on CentOS 7
 keywords:
-  - ukfast
   - ans
   - linux
   - services
