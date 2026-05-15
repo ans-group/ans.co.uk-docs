@@ -8,47 +8,47 @@ const FeatureList = [
   {
     title: "Cloud Technology",
     Svg: require("../../svg/cloud_management.svg").default,
-    nav: "/docs/ecloud",
+    nav: "/docs/ecloud/",
   },
   {
     title: "Domain & DNS Management",
     Svg: require("../../svg/feature-flag.svg").default,
-    nav: "/docs/domains-and-dns-management",
+    nav: "/docs/domains-and-dns-management/",
   },
   {
     title: "Backup & High Availability",
     Svg: require("../../svg/coins.svg").default,
-    nav: "/docs/backup-and-high-availability",
+    nav: "/docs/backup-and-high-availability/",
   },
   {
     title: "Email",
     Svg: require("../../svg/email.svg").default,
-    nav: "/docs/email",
+    nav: "/docs/email/",
   },
   {
     title: "Security",
     Svg: require("../../svg/security_recommendations.svg").default,
-    nav: "/docs/security",
+    nav: "/docs/security/",
   },
   {
     title: "eCommerce Stacks",
     Svg: require("../../svg/dx-score-white.svg").default,
-    nav: "/docs/ecommerce-stacks",
+    nav: "/docs/ecommerce-stacks/",
   },
   {
     title: "Monitoring & Usage Management",
     Svg: require("../../svg/monitoring.svg").default,
-    nav: "/docs/monitoring",
+    nav: "/docs/monitoring/",
   },
   {
     title: "Networking",
     Svg: require("../../svg/monitoring.svg").default,
-    nav: "/docs/network",
+    nav: "/docs/network/",
   },
   {
     title: "Operating Systems",
     Svg: require("../../svg/monitoring.svg").default,
-    nav: "/docs/operating-systems",
+    nav: "/docs/operating-systems/",
   },
   {
     title: "Colocation",
