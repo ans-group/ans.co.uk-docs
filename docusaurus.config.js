@@ -12,7 +12,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "ANS Documentation",
   tagline:
-    "For help with ANS products and services, and guidance with common hosting technology.",
+    "For help with ANS products and services",
   favicon: "img/ANS_White_title.svg",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -76,9 +76,9 @@ const config = {
       image: "img/ans-logo.png",
       metadata: [
         { name: "og:site_name", content: "ANS Documentation" },
-        { name: "og:description", content: "Help with ANS products and services, and guidance with common hosting technology." },
+        { name: "og:description", content: "Help with ANS products and services" },
         { name: "twitter:card", content: "summary_large_image" },
-        { name: "twitter:site", content: "@ANSGroupUK" },
+        { name: "twitter:site", content: "@ANSGroup" },
       ],
       colorMode: {
         defaultMode: 'dark',
