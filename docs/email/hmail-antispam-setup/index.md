@@ -4,7 +4,6 @@ sidebar_label: "hMailServer - Anti-spam setup"
 title: hMailServer - Anti-spam setup
 description: A guide to anti-spam configurations in hMailServer
 keywords:
-  - ukfast
   - ans
   - windows
   - hMailServer

@@ -4,7 +4,6 @@ sidebar_label: "Cleaning the WBEM repository"
 title: "Cleaning the WBEM repository"
 description: Instructions and information on cleaning the WBEM Repository on Windows
 keywords:
-  - ukfast
   - ans
   - windows
   - wbem

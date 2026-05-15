@@ -5,7 +5,6 @@ title: Running a Live Optics capture on Windows Server Operating Systems
 description: How to run a Live Optics check on a Windows server
 keywords:
   - ans
-  - ukfast
   - live optics
   - live
   - optics

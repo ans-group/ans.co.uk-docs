@@ -5,7 +5,6 @@ title: "The sed command"
 description: Information and guidance on using the SED command to edit text files in Linux
 keywords:
   - ans
-  - ukfast
   - server
   - linux
   - sed

@@ -4,7 +4,6 @@ sidebar_label: "Managing ports on your shared firewall"
 title: Managing ports on your shared firewall
 description: How to manage your ANS shared firewall configuration
 keywords:
-  - ukfast
   - ans
   - firewall
   - config

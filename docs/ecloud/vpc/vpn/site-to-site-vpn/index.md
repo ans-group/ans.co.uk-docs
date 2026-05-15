@@ -13,7 +13,6 @@ keywords:
   - Site-to-Site
   - IPsec
   - ans
-  - ukfast
   - IKE
 ---
 

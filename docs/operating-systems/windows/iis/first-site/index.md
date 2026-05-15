@@ -4,7 +4,6 @@ sidebar_label: "Setting up your first site in IIS"
 title: "Setting up your first site in IIS"
 :description: A guide to setting up a website in IIS
 keywords:
-  - ukfast
   - ans
   - windows
   - iis

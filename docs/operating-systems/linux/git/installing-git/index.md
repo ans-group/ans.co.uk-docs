@@ -4,7 +4,6 @@ sidebar_label: "Installing Git"
 title: "Installing Git"
 description: Guide to install git multiple operating systems
 keywords:
-  - ukfast
   - ans
   - linux
   - install

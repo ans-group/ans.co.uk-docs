@@ -5,7 +5,6 @@ title: "Linux"
 description: Help and guidance with Linux and related technologies
 keywords:
   - ans
-  - ukfast
   - linux
   - operating system
 ---

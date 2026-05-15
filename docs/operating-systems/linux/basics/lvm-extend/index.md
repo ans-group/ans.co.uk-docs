@@ -4,7 +4,6 @@ sidebar_label: "Extending an LVM disk partition"
 title: "Extending an LVM disk partition"
 description: A guide to extending an LVM disk partition on Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - extension

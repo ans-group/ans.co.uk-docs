@@ -5,7 +5,6 @@ title: "Managing contacts & permissions in ANS Glass"
 description: How to manage authorised contacts in ANS Glass
 keywords:
   - ans
-  - ukfast
   - account manager
   - service manager
   - Primary Contact

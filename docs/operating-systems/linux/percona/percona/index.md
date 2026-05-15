@@ -4,7 +4,6 @@ sidebar_label: "Percona"
 title: "Percona"
 description: A guide to using Percona and its settings
 keywords:
-  - ukfast
   - ans
   - linux
   - install

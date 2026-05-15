@@ -4,7 +4,6 @@ sidebar_label: "Basics of mail"
 title: Basics of mail
 description: A guide to the basics of mail on Linux
 keywords:
-  - ukfast
   - ans
   - mail
   - email

@@ -4,7 +4,6 @@ sidebar_label: "Upgrading from Plesk Onyx to Plesk Obsidian"
 title: "Upgrading from Plesk Onyx to Plesk Obsidian"
 description: A guide on upgrading from Plesk Onyx to Plesk Obsidian
 keywords:
-  - ukfast
   - ans
   - upgrade
   - update

@@ -4,7 +4,6 @@ sidebar_label: "Managing the cache"
 title: Managing the cache
 description: A guide to managing the content that is cached by CDN
 keywords:
-  - ukfast
   - ans
   - content delivery network
   - cdn

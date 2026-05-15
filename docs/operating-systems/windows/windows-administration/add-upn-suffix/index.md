@@ -4,7 +4,6 @@ sidebar_label: "Adding a UPN suffix in Active Directory"
 title: "Adding a UPN suffix in Active Directory"
 description: A guide to adding a UPN Suffix in Active Directory in Windows
 keywords:
-  - ukfast
   - ans
   - windows
   - active

@@ -4,7 +4,6 @@ sidebar_label: "Installing Roles and Features on Windows Server"
 title: "Installing Roles and Features on Windows Server"
 description: A guide to installing new roles and features on Windows
 keywords:
-  - ukfast
   - ans
   - windows
   - server

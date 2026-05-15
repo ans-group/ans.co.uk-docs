@@ -4,7 +4,6 @@ sidebar_label: "MongoDB"
 title: "MongoDB"
 description: guides relating to using Elasticsearch
 keywords:
-  - ukfast
   - ans
   - mongodb
   - mongo db

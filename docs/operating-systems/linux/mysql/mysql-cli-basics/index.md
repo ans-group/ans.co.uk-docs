@@ -4,7 +4,6 @@ sidebar_label: "MySQL command line basics"
 title: "MySQL command line basics"
 description: A basic guide to using the MySQL command line in Linux
 keywords:
-  - ukfast
   - ans
   - mysql
   - database

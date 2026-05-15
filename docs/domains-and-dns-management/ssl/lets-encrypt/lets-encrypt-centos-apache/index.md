@@ -5,7 +5,6 @@ title: "Apache on CentOS with Certbot"
 description: How to secure Apache with Let's Encrypt on CentOS
 keywords:
   - ans
-  - ukfast
   - ssl
   - certbot
   - apache

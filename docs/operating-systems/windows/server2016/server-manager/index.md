@@ -4,7 +4,6 @@ sidebar_label: "How to access Server Manager"
 title: "How to access Server Manager"
 description: A guide to accessing Windows Server Manager in Windows Server 2016
 keywords:
-  - ukfast
   - ans
   - windows
   - server

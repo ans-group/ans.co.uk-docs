@@ -4,7 +4,6 @@ sidebar_label: "Repositories"
 title: "Repositories"
 description: A guide to managing Linux repositories
 keywords:
-  - ukfast
   - ans
   - linus
   - troubleshooting

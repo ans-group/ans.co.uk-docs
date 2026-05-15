@@ -4,7 +4,6 @@ sidebar_label: "Setting up cron jobs"
 title: "Setting up `cron` jobs"
 description: A guide on how to set up cron jobs on Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - server

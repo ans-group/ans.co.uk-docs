@@ -4,7 +4,6 @@ sidebar_label: "Elasticsearch"
 title: "Elasticsearch"
 description: guides relating to using Elasticsearch on our Magento2 optimised stack
 keywords:
-  - ukfast
   - Magento
   - Magento2
   - Shopware

@@ -4,7 +4,6 @@ sidebar_position: 6
 description: Different types of DNS records
 keywords:
   - ans
-  - ukfast
   - domain
   - dns
   - caa

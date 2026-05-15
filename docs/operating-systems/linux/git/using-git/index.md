@@ -4,7 +4,6 @@ sidebar_label: "Using Git"
 title: "Using Git"
 description: An advanced guide on basic git commands
 keywords:
-  - ukfast
   - ans
   - linux
   - install

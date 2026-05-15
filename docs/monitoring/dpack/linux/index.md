@@ -4,7 +4,6 @@ sidebar_label: "Running a DPACK on a Linux Operating System"
 title: Running a DPACK on a Linux Operating System
 description: Information on running DPACK collections on Linux
 keywords:
-  - ukfast
   - ans
   - dpack
   - live optics

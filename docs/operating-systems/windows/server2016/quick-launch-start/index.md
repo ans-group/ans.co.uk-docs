@@ -4,7 +4,6 @@ sidebar_label: "How to customise the Start Menu tile pad"
 title: "How to customise the Start Menu tile pad"
 description: A guide to customising the Start Menu tile pad in Windows Server 2016
 keywords:
-  - ukfast
   - ans
   - windows
   - start

@@ -4,7 +4,6 @@ sidebar_label: "Creating appropriate permissions"
 title: "Creating appropriate permissions"
 description: Guidance on creating appropriate file permissions in Windows
 keywords:
-  - ukfast
   - ans
   - windows
   - file

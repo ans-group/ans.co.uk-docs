@@ -4,7 +4,6 @@ sidebar_label: "PHP-FPM"
 title: "PHP-FPM"
 description: A guide to using PHP-FPM
 keywords:
-  - ukfast
   - ans
   - linux
   - install

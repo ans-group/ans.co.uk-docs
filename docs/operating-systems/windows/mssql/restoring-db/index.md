@@ -5,7 +5,6 @@ title: "Restoring an MSSQL Database from backup"
 description: How to restore a Microsoft SQL Server database from a backup
 keywords:
   - ans
-  - ukfast
   - windows
   - mssql
   - sql

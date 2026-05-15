@@ -4,7 +4,6 @@ sidebar_label: "Enabling disk performance counters"
 title: "Enabling disk performance counters"
 description: A guide to exposing disk performance counters in Windows Task Manager
 keywords:
-  - ukfast
   - ans
   - windows
   - diskperf

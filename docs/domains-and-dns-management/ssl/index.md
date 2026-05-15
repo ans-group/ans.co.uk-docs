@@ -5,7 +5,6 @@ title: "SSL Certificates"
 description: a guide to SSL certificates with ANS
 keywords:
   - ans
-  - ukfast
   - domains
   - dns
   - ssl

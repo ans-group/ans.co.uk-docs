@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # What is a domain WHOIS Data Reminder Policy (WDRP) email?

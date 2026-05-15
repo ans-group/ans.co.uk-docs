@@ -5,7 +5,6 @@ title: Deploying changes
 description: Deplying changes to an ANS load balancer
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - configuration

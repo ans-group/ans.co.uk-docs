@@ -4,7 +4,6 @@ sidebar_label: "Domain Name Service (DNS)"
 title: "Domain Name Service (DNS)"
 description: A guide to the DNS commands in the Linux OS
 keywords:
-  - ukfast
   - ans
   - linux
   - dns

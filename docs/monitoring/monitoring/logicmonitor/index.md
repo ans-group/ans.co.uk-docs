@@ -5,7 +5,6 @@ title: LogicMonitor
 description: A guide to LogicMonitor with ANS
 keywords:
   - ans
-  - ukfast
   - logicmonitor
   - logic monitor
   - monitoring

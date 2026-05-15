@@ -5,7 +5,6 @@ title: "MSSQL remote access"
 description: How to access an MSSQL instance between a client device and a MSSQL server
 keywords:
   - ans
-  - ukfast
   - mssql
   - windows
   - db

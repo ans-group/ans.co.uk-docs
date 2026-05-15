@@ -4,7 +4,6 @@ sidebar_label: "Getting started with Live Optics (formerly DPACK)"
 title: Getting started with Live Optics (formerly DPACK)
 description: How to run Live Optics check with ANS
 keywords:
-  - ukfast
   - ans
   - ans glass
   - live

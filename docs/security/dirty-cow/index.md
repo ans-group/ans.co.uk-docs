@@ -12,7 +12,6 @@ keywords:
   - pci
   - security
   - ans
-  - ukfast
 ---
 
 # Dirty COW

@@ -4,7 +4,6 @@ sidebar_label: "Brute force attacks"
 title: Brute force attacks
 description: Basic overview on what brute force attacks are, how to identify, and mitigate them
 keywords:
-  - ukfast
   - ans
   - linux
   - security

@@ -5,7 +5,6 @@ title: "Cloud"
 description: Managed Cloud services provided by ANS
 keywords:
   - ans
-  - ukfast
   - cloud,
   - ecloud
   - public

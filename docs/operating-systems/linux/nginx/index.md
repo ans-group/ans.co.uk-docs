@@ -5,7 +5,6 @@ title: "NGINX"
 description: a guide to NGINX
 keywords:
   - ans
-  - ukfast
   - nginx
 ---
 

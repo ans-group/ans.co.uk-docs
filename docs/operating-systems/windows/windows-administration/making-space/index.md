@@ -4,7 +4,6 @@ sidebar_label: "How to free up hard disk space on your Windows Server"
 title: "How to free up hard disk space on your Windows Server"
 description: Instructions on how to free up hard disk space on a Windows Server
 keywords:
-  - ukfast
   - ans
   - windows
   - server

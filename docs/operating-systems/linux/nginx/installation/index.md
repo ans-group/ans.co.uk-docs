@@ -4,7 +4,6 @@ sidebar_label: "Installation/configuration of NGINX"
 title: "Installation/configuration of NGINX"
 description: A guide to installing and configuring the NGINX web server on Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - nginx

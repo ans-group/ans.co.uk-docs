@@ -4,7 +4,6 @@ sidebar_label: "eCloud Private"
 title: "eCloud Private"
 description: Help with your eCloud Private resources
 keywords:
-  - ukfast
   - ans
   - cloud
   - ecloud

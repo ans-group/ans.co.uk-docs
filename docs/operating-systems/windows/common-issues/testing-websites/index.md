@@ -4,7 +4,6 @@ sidebar_label: "Testing websites"
 title: "Testing websites"
 description: Information on testing websites on Windows by modifying the hosts file
 keywords:
-  - ukfast
   - ans
   - windows
   - testing

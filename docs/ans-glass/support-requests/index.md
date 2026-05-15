@@ -5,7 +5,6 @@ title: "Support requests"
 description: Page providing information about raising a Support Request in ANS Glass
 keywords:
   - ans
-  - ukfast
   - support request
   - ticket
   - techincal support

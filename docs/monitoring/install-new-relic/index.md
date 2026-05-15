@@ -11,7 +11,6 @@ keywords:
   - apm
   - monitoring
   - ans
-  - ukfast
 ---
 
 # How to install & configure New Relic on CentOS 7

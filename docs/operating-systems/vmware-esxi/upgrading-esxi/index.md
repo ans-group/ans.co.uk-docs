@@ -4,7 +4,6 @@ sidebar_label: "Update or upgrade standalone ESXi servers"
 title: "Update or upgrade standalone ESXi servers"
 description: Information on how to upgrade standalone ESXi servers (without a vCenter server)
 keywords:
-  - ukfast
   - ans
   - vmware
   - esxi

@@ -4,7 +4,6 @@ sidebar_label: "Marketplace"
 title: "Marketplace"
 description: Programatic control of your eCloud Public resources
 keywords:
-  - ukfast
   - ans
   - cloud
   - ecloud

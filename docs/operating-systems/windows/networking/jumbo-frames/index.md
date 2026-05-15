@@ -5,7 +5,6 @@ title: "How to enable Jumbo Frames"
 :description: Guidance for enabling and configuring jumbo frames on Windows
 keywords:
   - ans
-  - ukfast
   - enable
   - jumbo
   - frames

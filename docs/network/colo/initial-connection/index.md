@@ -5,7 +5,6 @@ title: Initial connection to the ANS colo network
 description: Guide to making your initial connection to ANS colocation network
 keywords:
   - ans
-  - ukfast
   - colocation
   - networking
   - firewall

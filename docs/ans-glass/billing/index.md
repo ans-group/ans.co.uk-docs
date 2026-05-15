@@ -2,9 +2,8 @@
 sidebar_position: 3
 sidebar_label: "Guide to Billing section of ANS Glass"
 title: "Guide to Billing section of ANS Glass"
-description: How to perform various Accounts related activities in MyUKFast
+description: How to perform various Accounts related activities in MyANS
 keywords:
-  - ukfast
   - ans
   - accounts
   - invoice

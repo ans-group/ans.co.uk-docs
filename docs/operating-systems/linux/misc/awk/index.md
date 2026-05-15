@@ -4,7 +4,6 @@ sidebar_label: "The 'awk' command"
 title: "The 'awk' command"
 description: A guide on using the AWK command in Linux
 keywords:
-  - ukfast
   - ans
   - awk
   - command

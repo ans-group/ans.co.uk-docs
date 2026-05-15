@@ -4,7 +4,6 @@ sidebar_label: "Installation/configuration of Apache"
 title: "Installation/configuration of Apache"
 description: Guidance to help you get up and running with Apache
 keywords:
-  - ukfast
   - apache
   - configuration
   - php

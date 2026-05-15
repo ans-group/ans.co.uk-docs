@@ -4,7 +4,6 @@ sidebar_label: "VM Power Cycle"
 title: "VM Power Cycle"
 description: Programatic control of your eCloud Public resources
 keywords:
-  - ukfast
   - ans
   - cloud
   - ecloud

@@ -5,7 +5,6 @@ title: Components
 description: A guide for components of the ANS load balancers
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
 ---

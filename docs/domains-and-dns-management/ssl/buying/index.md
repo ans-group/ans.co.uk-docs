@@ -5,7 +5,6 @@ title: "Purchasing & renewing"
 description: Purchasing and renewing SSL certificates from ANS
 keywords:
   - ans
-  - ukfast
   - domains
   - dns
   - ssl

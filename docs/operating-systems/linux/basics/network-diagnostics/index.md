@@ -4,7 +4,6 @@ sidebar_label: "Diagnostic tools"
 title: "Diagnostic tools"
 description: A guide to using network diagnostic tools in the Linux OS
 keywords:
-  - ukfast
   - network
   - diagnostic
   - netstat

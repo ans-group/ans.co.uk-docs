@@ -7,7 +7,6 @@ keywords:
   - loadbalancing
   - load balancers
   - ans
-  - ukfast
   - setup
   - config
   - configuration

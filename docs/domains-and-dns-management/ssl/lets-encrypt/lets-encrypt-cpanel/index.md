@@ -15,7 +15,6 @@ keywords:
   - guide
   - tutorial
   - ans
-  - ukfast
 ---
 
 # How to secure your sites with Let’s Encrypt in cPanel/WHM

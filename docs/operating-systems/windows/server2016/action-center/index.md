@@ -5,7 +5,6 @@ title: "Action Center"
 description: Information on the new Action Centre in Windows Server 2016
 keywords:
   - ans
-  - ukfast
   - windows
   - windows server 2016
   - new

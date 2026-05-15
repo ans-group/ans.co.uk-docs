@@ -5,7 +5,6 @@ title: "Using Server Name Indication (SNI) with SSL certificates"
 description: Information on Using Server Name Indication (SNI) with SSL certificates
 keywords:
   - ans
-  - ukfast
   - sni
   - domains
   - dns

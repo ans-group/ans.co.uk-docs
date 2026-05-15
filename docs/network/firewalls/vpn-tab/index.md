@@ -4,7 +4,6 @@ sidebar_label: "VPN dashboard"
 title: VPN dashboard
 description: The VPN tab and dashboard with ANS
 keywords:
-  - ukfast
   - ans
   - vpn
   - setup

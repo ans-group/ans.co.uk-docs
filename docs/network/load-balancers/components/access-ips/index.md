@@ -5,7 +5,6 @@ title: Access IPs
 description: Settings for access IPs within ANS load balancers
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - access ips

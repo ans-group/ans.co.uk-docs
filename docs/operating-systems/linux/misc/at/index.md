@@ -4,7 +4,6 @@ sidebar_label: "Schedule a task with 'at'"
 title: "Schedule a task with 'at'"
 description: Information and guidance on using the AT command in Linux
 keywords:
-  - ukfast
   - linux
   - at
   - command

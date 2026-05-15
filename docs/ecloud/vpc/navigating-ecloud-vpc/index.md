@@ -10,7 +10,6 @@ keywords:
   - VPC
   - Virtual Private Cloud
   - ans
-  - ukfast
 ---
 
 # Navigating eCloud VPC Control Panel

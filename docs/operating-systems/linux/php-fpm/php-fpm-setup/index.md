@@ -4,7 +4,6 @@ sidebar_label: "Installing & configuring PHP-FPM"
 title: "Installing & configuring PHP-FPM"
 description: A guide to installing and configuration of PHP-FPM on Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - PHP

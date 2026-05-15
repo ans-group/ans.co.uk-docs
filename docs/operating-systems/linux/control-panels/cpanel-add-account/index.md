@@ -4,7 +4,6 @@ sidebar_label: "How to add a new account in WHM"
 title: "How to add a new account in WHM"
 description: How to Add a New Account in WHM
 keywords:
-  - ukfast
   - ans
   - cpanel
   - whm

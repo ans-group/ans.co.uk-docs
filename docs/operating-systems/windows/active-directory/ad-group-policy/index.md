@@ -4,7 +4,6 @@ sidebar_label: "How to create Group Policy Objects"
 title: "How to create Group Policy Objects"
 description: A guide to creating Group Policy Objects in Windows Active Directory
 keywords:
-  - ukfast
   - ans
   - windows
   - ad

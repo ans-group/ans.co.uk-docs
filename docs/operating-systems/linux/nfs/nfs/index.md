@@ -4,7 +4,6 @@ sidebar_label: "Network File System (NFS)"
 title: "Network File System (NFS)"
 description: A guide to using NFS
 keywords:
-  - ukfast
   - linux
   - install
   - centos

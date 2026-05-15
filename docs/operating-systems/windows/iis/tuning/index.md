@@ -4,7 +4,6 @@ sidebar_label: "IIS tuning"
 title: "IIS tuning"
 description: A guide to Tuning IIS for optimal performance that benefit your application.
 keywords:
-  - ukfast
   - ans
   - windows
   - iis

@@ -4,7 +4,6 @@ sidebar_label: "Upgrading your MySQL/MariaDB version"
 title: "Upgrading your MySQL/MariaDB version"
 description: A guide for upgrading MySQL/MariaDB on a Linux server
 keywords:
-  - ukfast
   - ans
   - linux
   - mysql

@@ -4,7 +4,6 @@ sidebar_label: "whois"
 title: "whois"
 description: A guide to use the WHOIS command to find information about a website
 keywords:
-  - ukfast
   - ans
   - linux
   - server

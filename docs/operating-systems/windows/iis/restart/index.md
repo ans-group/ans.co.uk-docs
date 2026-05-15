@@ -4,7 +4,6 @@ sidebar_label: "How to reset IIS"
 title: "How to reset IIS"
 description: A guide to resetting IIS in Windows Server
 keywords:
-  - ukfast
   - ans
   - windows
   - cloud

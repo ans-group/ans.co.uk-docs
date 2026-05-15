@@ -5,7 +5,6 @@ title: "Domain & DNS Management"
 description: Help with managing your domains, DNS records and SSL certificates.
 keywords:
   - ans
-  - ukfast
   - domains
   - dns
   - ssl

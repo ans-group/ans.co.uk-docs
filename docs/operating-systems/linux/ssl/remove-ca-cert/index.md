@@ -15,7 +15,6 @@ keywords:
   - expired
   - trust store
   - ans
-  - ukfast
 ---
 
 # Remove CA certificate from system trust store

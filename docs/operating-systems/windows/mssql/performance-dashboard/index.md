@@ -5,7 +5,6 @@ title: "Microsoft SQL Performance Dashboard"
 description: A guide to the Microsoft SQL Server performance dashboard
 keywords:
   - ans
-  - ukfast
   - windows
   - sql
   - sql server

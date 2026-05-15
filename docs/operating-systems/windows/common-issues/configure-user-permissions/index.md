@@ -4,7 +4,6 @@ sidebar_label: "Configuring user permissions"
 title: "Configuring user permissions"
 description: A guide to updating user permissions in Windows Server.
 keywords:
-  - ukfast
   - ans
   - windows
   - server

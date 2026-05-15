@@ -4,7 +4,6 @@ sidebar_label: "Exchange 2013 multi-server environment"
 title: "Exchange 2013 multi-server environment"
 description: Designing a high availability Microsoft Exchange 2013 Multi-Server environment
 keywords:
-  - ukfast
   - ans
   - windows
   - microsoft

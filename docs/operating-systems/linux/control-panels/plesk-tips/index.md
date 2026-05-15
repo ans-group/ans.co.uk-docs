@@ -4,7 +4,6 @@ sidebar_label: "Plesk FAQs and top tips"
 title: "Plesk FAQs and top tips"
 description: Plesk control panel FAQs and tips on Linux servers
 keywords:
-  - ukfast
   - ans
   - plesk
   - control

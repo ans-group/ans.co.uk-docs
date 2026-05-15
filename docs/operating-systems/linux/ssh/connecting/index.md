@@ -4,7 +4,6 @@ sidebar_label: "Connecting to your server via SSH"
 title: Connecting to your server via SSH
 description: Guidance on connecting to Linux using SSH
 keywords:
-  - ukfast
   - ans
   - ssh
   - key

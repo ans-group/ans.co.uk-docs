@@ -5,7 +5,6 @@ title: Using Windows Resource Monitor to inspect working processes
 description: Guidance on using Windows Resource Monitor to inspect working processes
 keywords:
   - ans
-  - ukfast
   - windows
   - windows resource monitor
   - resmon

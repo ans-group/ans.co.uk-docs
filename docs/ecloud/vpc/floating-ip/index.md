@@ -10,7 +10,6 @@ keywords:
   - VPC
   - Virtual Private Cloud
   - Floating IP
-  - ukfast
   - ans
 ---
 

@@ -4,7 +4,6 @@ sidebar_label: "User administration for AnyConnect VPN"
 title: User administration for AnyConnect VPN
 description: How to add/remove/edit AnyConnect VPN users
 keywords:
-  - ukfast
   - ans
   - firewall
   - vpn

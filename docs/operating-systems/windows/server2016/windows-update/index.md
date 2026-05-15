@@ -4,7 +4,6 @@ sidebar_label: "Automatic updates in Windows Server 2016"
 title: "Automatic updates in Windows Server 2016"
 description: Information on the automatic updates feature in Windows Server 2016
 keywords:
-  - ukfast
   - ans
   - automatic
   - windows

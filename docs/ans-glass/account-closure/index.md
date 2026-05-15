@@ -2,10 +2,9 @@
 sidebar_position: 7
 sidebar_label: "How to cancel & close your ANS account"
 title: "How to cancel & close your ANS account"
-description: Instructions on how to cancel and close your UKFast account
+description: Instructions on how to cancel and close your ANS account
 keywords:
   - ans
-  - ukfast
   - account manager
   - service manager
   - close account

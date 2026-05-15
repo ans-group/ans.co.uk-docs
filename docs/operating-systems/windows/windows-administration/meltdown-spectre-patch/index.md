@@ -4,7 +4,6 @@ sidebar_label: "Protecting against Meltdown & Spectre in Windows"
 title: "Protecting against Meltdown & Spectre in Windows"
 description: A guide to patching against recent CPU vulnerabilities
 keywords:
-  - ukfast
   - ans
   - windows
   - security

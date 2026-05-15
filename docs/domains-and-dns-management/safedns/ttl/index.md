@@ -4,7 +4,6 @@ sidebar_position: 5
 description: Changing TTL (Time to Live)
 keywords:
   - ans
-  - ukfast
   - domain
   - dns
   - ttl

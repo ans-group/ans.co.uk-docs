@@ -5,7 +5,6 @@ title: "Viewing Microsoft SQL Activity Monitor"
 description: Viewing the Microsoft SQL Server activity monitor
 keywords:
   - ans
-  - ukfast
   - windows
   - mssql
   - sql server

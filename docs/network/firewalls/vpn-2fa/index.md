@@ -4,7 +4,6 @@ sidebar_label: "Two factor authentication (2FA) VPNs"
 title: Two factor authentication (2FA) VPNs
 description: Support for two factor authentication (2FA) on ANS firewalls
 keywords:
-  - ukfast
   - ans
   - firewall
   - vpn

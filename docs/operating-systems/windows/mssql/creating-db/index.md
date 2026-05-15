@@ -5,7 +5,6 @@ title: "Creating a new database in Microsoft SQL Server"
 description: A guide to creating a new database in Microsoft SQL Server
 keywords:
   - ans
-  - ukfast
   - mssql
   - database
   - sql

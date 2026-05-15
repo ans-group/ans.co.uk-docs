@@ -5,7 +5,6 @@ title: "Transferring to ANS"
 description: How to transfer your domain to ANS
 keywords:
   - ans
-  - ukfast
   - domain
   - transfers
 ---

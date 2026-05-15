@@ -4,7 +4,6 @@ sidebar_label: "Installing MySQL"
 title: "Installing MySQL"
 description: A guide to installing MySQL on Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - mysql

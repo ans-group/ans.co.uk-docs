@@ -6,7 +6,6 @@ description: Guidance on where to find important Linux logs
 keywords:
   - linux
   - logs
-  - ukfast
   - ans
   - secure
   - plesk

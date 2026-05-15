@@ -6,7 +6,6 @@ description: Security considerations for IIS Web servers
 keywords:
   - SSL
   - TLS
-  - ukfast
   - ans
   - Schannel
   - IIS

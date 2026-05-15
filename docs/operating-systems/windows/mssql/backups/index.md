@@ -5,7 +5,6 @@ title: "Creating MSSQL backups"
 description: A guide to backing up Microsoft SQL Server databases
 keywords:
   - ans
-  - ukfast
   - backup
   - mssql
   - microsoft

@@ -5,7 +5,6 @@ title: Target groups
 description: Settings for target groups within ANS load balancers
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - target groups

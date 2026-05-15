@@ -4,7 +4,6 @@ sidebar_label: "Rebooting your server"
 title: "Rebooting your server"
 description: A guide to rebooting a linux server
 keywords:
-  - ukfast
   - ans
   - reboot
   - linux

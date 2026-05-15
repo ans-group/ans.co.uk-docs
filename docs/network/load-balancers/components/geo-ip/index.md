@@ -5,7 +5,6 @@ title: Geo IP
 description: Settings for Geo IP within ANS load balancers
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - Geo IP

@@ -4,7 +4,6 @@ sidebar_label: "What to do if your emails get listed"
 title: What to do if you emails get listed
 description: How to check if your IP is listed and steps to take
 keywords:
-  - ukfast
   - ans
   - mail
   - email

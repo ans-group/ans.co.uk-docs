@@ -5,7 +5,6 @@ title: How to secure your dedicated firewall
 description: How to lock down and secure your ANS dedicated firewall
 keywords:
   - ans
-  - ukfast
   - dedicated
   - firewall
   - secure

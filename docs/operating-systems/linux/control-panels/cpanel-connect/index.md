@@ -4,7 +4,6 @@ sidebar_label: "How to log in to WHM and cPanel"
 title: "How to log in to WHM and cPanel"
 description: Guide on connecting to a WHM/cPanel server
 keywords:
-  - ukfast
   - cpanel
   - whm
   - control

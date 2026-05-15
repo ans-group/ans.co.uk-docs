@@ -4,7 +4,6 @@ sidebar_label: "Creating a new group"
 title: "Creating a new group"
 description: This guide teaches you how to create a new group within Windows Active Directory
 keywords:
-  - ukfast
   - ans
   - windows
   - active-directory

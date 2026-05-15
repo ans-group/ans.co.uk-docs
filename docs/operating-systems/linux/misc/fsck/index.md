@@ -4,7 +4,6 @@ sidebar_label: "Filesystem check"
 title: "Filesystem check"
 description: A guide to checking for errors on the Linux filesystem
 keywords:
-  - ukfast
   - ans
   - files
   - filesystem

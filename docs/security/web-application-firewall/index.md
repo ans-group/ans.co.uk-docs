@@ -4,7 +4,6 @@ sidebar_label: "Web Application Firewall"
 title: Web Application Firewall
 description: General information relating to ANS Web Application Firewalls
 keywords:
-  - ukfast
   - ans
   - ddosx
   - web application firewall
