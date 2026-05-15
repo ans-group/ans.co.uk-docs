@@ -2,7 +2,7 @@
 sidebar_position: 6
 sidebar_label: "Managing passwords"
 title: "Managing passwords"
-description: Page providing information about managing your passwords within MyANS
+description: Page providing information about managing your passwords within ANS Glass
 keywords:
   - ans
   - ans glass

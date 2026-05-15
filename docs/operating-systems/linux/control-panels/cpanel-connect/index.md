@@ -27,7 +27,7 @@ First, log in to your ANS Glass area, and navigate to the server page.
 
 In the top section of the page, you will see the "External Login" button. This will take you straight to the login page for WHM:
 
-![cPanel MyUKFast Login](../../../operating-systems-images/cpanel_external_login.png)
+![cPanel ANS Glass Login](../../../operating-systems-images/cpanel_external_login.png)
 
 ### Via URL
 
