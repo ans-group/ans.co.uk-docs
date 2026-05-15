@@ -72,7 +72,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "img/ans-social-card.jpg",
+      image: "img/ans-logo.svg",
       metadata: [
         { name: "og:site_name", content: "ANS Documentation" },
         { name: "og:description", content: "Help with ANS products and services, and guidance with common hosting technology." },
