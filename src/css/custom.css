@@ -64,6 +64,12 @@
     border: 1px solid #bcd7ed;
   }
 
+  /* Search dropdown */
+  --search-local-modal-background: #202e52;
+  --search-local-hit-background: #2b385b;
+  --search-local-highlight-color: #69dae2;
+  --search-local-hit-active-color: #202e52;
+
   mark {
     background: #69dae2;
   }
