@@ -2,10 +2,21 @@
   padding: 40px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
+  gap: 10px;
 }
 
 .featureSvg {
-  height: 100px;
-  width: 100px;
+  height: 30px;
+  width: 30px;
+}
+
+.feature {
+  margin: 10px;
+  background: #202e52;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  transition: 
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
 }
