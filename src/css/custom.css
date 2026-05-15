@@ -27,7 +27,6 @@
   --ifm-color-primary-lighter: #5ed832;
   --ifm-color-primary-lightest: #dd4fb2;
   --docusaurus-highlighted-code-line-bg: rgba(255, 6, 6, 0.3);
-  --ifm-link-color: #fff;
 
   body,
   .menu,
@@ -78,6 +77,10 @@
     padding: 20px 20px 0px 20px;
     border-radius: 11px;
     /* border-bottom: 1px solid #bcd7ed; */
+  }
+
+  article .markdown a {
+    color: #69dae2;
   }
 
   kbd {
