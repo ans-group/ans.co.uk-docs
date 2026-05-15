@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # Can I still renew my domain after it has expired?

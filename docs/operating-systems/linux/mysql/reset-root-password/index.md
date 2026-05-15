@@ -4,7 +4,6 @@ sidebar_label: "Reset MySQL root password"
 title: "Reset MySQL root password"
 description: A basic guide to using the MySQL command line in Linux
 keywords:
-  - ukfast
   - ans
   - mysql
   - database

@@ -4,7 +4,6 @@ sidebar_label: "Installing IIS"
 title: "Installing IIS"
 description: A guide to installing IIS on Windows Server
 keywords:
-  - ukfast
   - ans
   - windows
   - iis

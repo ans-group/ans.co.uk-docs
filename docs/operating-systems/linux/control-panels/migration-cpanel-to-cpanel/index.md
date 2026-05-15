@@ -5,7 +5,6 @@ title: "Performing a cPanel to cPanel migration"
 description: A guide to performing a cPanel to cPanel migration
 keywords:
   - ans
-  - ukfast
   - cpanel
   - migration
   - move

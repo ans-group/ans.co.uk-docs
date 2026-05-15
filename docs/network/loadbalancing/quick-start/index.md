@@ -5,7 +5,6 @@ title: Quick start
 description: a quick start guide to setting up and configuring your loadbalancer
 keywords:
   - ans
-  - ukfast
   - loadbalancing
   - loadbalancer
   - vip

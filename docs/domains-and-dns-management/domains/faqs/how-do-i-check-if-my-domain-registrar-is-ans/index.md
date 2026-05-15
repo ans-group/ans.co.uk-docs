@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # How do I check if my domain registrar is ANS?

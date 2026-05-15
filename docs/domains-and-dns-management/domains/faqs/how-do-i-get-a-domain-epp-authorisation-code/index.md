@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # How do I get a domain EPP/authorisation code?

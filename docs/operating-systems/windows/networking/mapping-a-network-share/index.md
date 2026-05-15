@@ -5,7 +5,6 @@ title: "How to map a network share"
 description: A guide to mapping a network share on Windows
 keywords:
   - ans
-  - ukfast
   - windows
   - network
   - share

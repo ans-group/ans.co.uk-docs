@@ -5,7 +5,6 @@ title: "Checking inbound/outbound server connectivity"
 description: An in-depth guide on troubleshooting network connectivity issues on Windows
 keywords:
   - ans
-  - ukfast
   - network
   - tcp
   - connection

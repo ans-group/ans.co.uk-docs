@@ -5,7 +5,6 @@ title: Security | ANS Documentation
 description: Security guidance on ANS security products and general best practices
 keywords:
   - ans
-  - ukfast
   - security
   - ddos
   - cyber

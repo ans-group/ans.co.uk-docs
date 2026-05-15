@@ -4,7 +4,6 @@ sidebar_label: "Redis"
 title: "Redis"
 description: A guide to using Redis
 keywords:
-  - ukfast
   - ans
   - linux
   - install

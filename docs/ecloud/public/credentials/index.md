@@ -4,7 +4,6 @@ sidebar_label: "Credentials"
 title: "Credentials"
 description: Programatic control of your eCloud Public resources
 keywords:
-  - ukfast
   - ans
   - cloud
   - ecloud

@@ -4,7 +4,6 @@ sidebar_label: "Windows Disk Management"
 title: "Windows Disk Management"
 description: Information on managing disks in Windows
 keywords:
-  - ukfast
   - disk
   - drive
   - management

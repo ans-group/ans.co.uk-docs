@@ -6,7 +6,6 @@ description: Frequently asked questions regarding loadbalancing
 keywords:
   - FAQ
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
 ---

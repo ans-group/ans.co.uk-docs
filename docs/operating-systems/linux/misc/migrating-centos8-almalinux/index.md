@@ -4,7 +4,6 @@ sidebar_label: "Migrating from CentOS 8 to AlmaLinux"
 title: "Migrating from CentOS 8 to AlmaLinux"
 description: A guide on migrating from CentOS 8 to AlmaLinux
 keywords:
-  - ukfast
   - ans
   - centos
   - almalinux

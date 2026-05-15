@@ -5,7 +5,6 @@ title: Scheduling a dedicated firewall reboot
 description: A guide to rebooting a dedicated firewall through ANS
 keywords:
   - ans
-  - ukfast
   - firewall
   - rebooting
   - network

@@ -18,7 +18,6 @@ keywords:
   - guide
   - tutorial
   - ans
-  - ukfast
 ---
 
 # Auto-Renewing SSL Certificates with Certbot

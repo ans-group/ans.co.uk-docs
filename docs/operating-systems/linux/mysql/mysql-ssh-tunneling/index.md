@@ -4,7 +4,6 @@ sidebar_label: "Connecting to MySQL via SSH tunnelling"
 title: "Connecting to MySQL via SSH tunnelling"
 description: A guide on how to connect to a MySQL instance through an SSH tunnel.
 keywords:
-  - ukfast
   - ans
   - linux
   - mysql

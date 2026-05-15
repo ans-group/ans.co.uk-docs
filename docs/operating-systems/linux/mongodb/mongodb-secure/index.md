@@ -5,7 +5,6 @@ title: "How to secure MongoDB on CentOS 7"
 description: How to Secure MongoDB on CentOS 7
 keywords:
   - ans
-  - ukfast
   - mongodb
   - secure
   - howto

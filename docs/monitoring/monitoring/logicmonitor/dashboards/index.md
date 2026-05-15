@@ -5,7 +5,6 @@ title: Creating Dashboards in LogicMonitor
 description: Guide on how to create a Dashboard in LogicMonitor
 keywords:
   - ans
-  - ukfast
   - logicmonitor
   - logic monitor
   - Dashboard

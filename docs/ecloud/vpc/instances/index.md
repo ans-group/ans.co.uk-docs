@@ -11,7 +11,6 @@ keywords:
   - Virtual Private Cloud
   - Instances
   - ans
-  - ukfast
 ---
 
 # Instances

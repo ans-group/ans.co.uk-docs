@@ -5,7 +5,6 @@ title: "Disabling TLS 1.0 for RDP"
 description: Instructions on how to disable TLS 1.0 for Remote Desktop on Windows
 keywords:
   - ans
-  - ukfast
   - windows
   - rdp
   - tls

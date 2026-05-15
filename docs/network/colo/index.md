@@ -7,7 +7,6 @@ keywords:
   - ip address
   - ip ranges
   - ans
-  - ukfast
   - colocation
   - networking
 ---

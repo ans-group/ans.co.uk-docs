@@ -4,7 +4,6 @@ sidebar_label: "Installing PHP modules"
 title: "Installing PHP modules"
 description: A guide to installing PHP modules on Linux
 keywords:
-  - ukfast
   - ans
   - linux
   - PHP

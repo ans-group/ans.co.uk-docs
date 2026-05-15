@@ -4,7 +4,6 @@ sidebar_label: "PCI compliance and Plesk"
 title: "PCI compliance and Plesk"
 description: Guidance on achieving PCI compliance with Plesk and cPanel servers
 keywords:
-  - ukfast
   - ans
   - plesk
   - cpanel

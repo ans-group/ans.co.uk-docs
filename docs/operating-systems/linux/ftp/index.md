@@ -4,7 +4,6 @@ sidebar_label: "FTP"
 title: "FTP"
 description: A guide to FTP with ANS
 keywords:
-  - ukfast
   - ans
   - ftp
 ---

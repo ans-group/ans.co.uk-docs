@@ -5,7 +5,6 @@ title: Caching rules
 description: Guidance for setting content caching rules on the ANS CDN
 keywords:
   - ans
-  - ukfast
   - caching
   - caching rules
   - cdn

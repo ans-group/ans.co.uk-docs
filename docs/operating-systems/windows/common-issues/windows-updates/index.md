@@ -4,7 +4,6 @@ sidebar_label: "Changing Windows updates installation options"
 title: "Changing Windows updates installation options"
 description: Information and Instructions about Windows Updates installation options
 keywords:
-  - ukfast
   - ans
   - windows
   - updates

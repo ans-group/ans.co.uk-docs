@@ -11,7 +11,6 @@ keywords:
   - Virtual Private Cloud
   - Router
   - ans
-  - ukfast
 ---
 
 # Routers

@@ -4,7 +4,6 @@ sidebar_label: "IIS URL Rewrite module"
 title: "IIS URL Rewrite module"
 description: A guide to installing and using the IIS URL rewrite module on Windows Server
 keywords:
-  - ukfast
   - ans
   - windows
   - iis

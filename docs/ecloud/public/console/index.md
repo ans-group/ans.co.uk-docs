@@ -5,7 +5,6 @@ title: "eCloud VM Console"
 description: VM console access for eCloud VMs on public and private plans
 keywords:
   - ans
-  - ukfast
   - cloud
   - ecloud
   - console

@@ -4,7 +4,6 @@ sidebar_label: "Accessing Local Group Policy"
 title: "Accessing Local Group Policy"
 description: Instructions on accessing Local Group Policy in Windows Server 2016
 keywords:
-  - ukfast
   - ans
   - windows
   - server

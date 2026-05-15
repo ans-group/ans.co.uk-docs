@@ -4,7 +4,6 @@ sidebar_label: "What is a Web Application Firewall?"
 title: What is a Web Application Firewall
 description: General information on Web Application Firewalls and how they work
 keywords:
-  - ukfast
   - ans
   - ddosx
   - web application firewall

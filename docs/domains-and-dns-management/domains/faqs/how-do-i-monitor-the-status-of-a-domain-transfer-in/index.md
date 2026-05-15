@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # How do I monitor the status of a domain transfer in?

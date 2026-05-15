@@ -4,7 +4,6 @@ sidebar_label: "Transferring files with rsync"
 title: "Transferring files with rsync"
 description: A guide to transferring files with rsync
 keywords:
-  - ukfast
   - ans
   - files
   - transfer

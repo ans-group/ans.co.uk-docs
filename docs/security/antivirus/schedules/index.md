@@ -4,7 +4,6 @@ sidebar_label: "Schedules"
 title: Schedules
 description: Information on anti-virus schedules for McAfee with ANS
 keywords:
-  - ukfast
   - ans
   - mcafee
   - anti-virus

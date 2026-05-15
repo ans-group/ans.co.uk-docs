@@ -4,7 +4,6 @@ sidebar_label: "Reinstall OS"
 title: "Reinstall OS"
 description: Programatic control of your eCloud Public resources
 keywords:
-  - ukfast
   - ans
   - cloud
   - ecloud
@@ -22,7 +21,7 @@ You can reinstall the originally selected OS of the virtual machine at any point
 
 ![reinstall os](../../ecloud-public-images/reinstall-os/reinstallOS.png)
 
-From here you will be prompted for your MyUKFast password as below:
+From here you will be prompted for your ANS Glass password as below:
 
 ![confirm reinstall](../../ecloud-public-images/reinstall-os/confirmReinstall.png)
 

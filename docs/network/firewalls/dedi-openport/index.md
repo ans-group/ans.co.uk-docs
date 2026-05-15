@@ -4,7 +4,6 @@ sidebar_label: "Managing ports on your dedicated firewall"
 title: Managing ports on your dedicated firewall
 description: How to manage your dedicated ANS firewalls
 keywords:
-  - ukfast
   - ans
   - firewalls
   - dedicated firewall

@@ -5,7 +5,6 @@ title: "Magento"
 description: a guide to Magento platform with ANS
 keywords:
   - ans
-  - ukfast
   - e-commerce
   - platform
   - linux

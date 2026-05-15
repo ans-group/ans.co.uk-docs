@@ -4,7 +4,6 @@ sidebar_position: 1
 description: Adding a domain into SafeDNS
 keywords:
   - ans
-  - ukfast
   - domain
   - dns
 ---

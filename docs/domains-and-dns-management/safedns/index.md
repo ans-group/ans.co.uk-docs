@@ -5,7 +5,6 @@ title: "SafeDNS"
 description: a guide to SafeDNS
 keywords:
   - ans
-  - ukfast
   - safedns
   - ttl
   - spf

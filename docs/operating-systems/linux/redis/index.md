@@ -4,7 +4,6 @@ sidebar_label: "Redis"
 title: "Redis"
 description: guides relating to using Redis on our Shopware optimised stack
 keywords:
-  - ukfast
   - ans
   - Shopware
   - Magento

@@ -4,7 +4,6 @@ sidebar_label: "Troubleshooting (hardware-based WAFs)"
 title: Troubleshooting (hardware-based WAFs)
 description: Help to troubleshoot common problems when using a Web Application Firewall
 keywords:
-  - ukfast
   - ans
   - ddosx
   - web application firewall

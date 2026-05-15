@@ -4,7 +4,6 @@ sidebar_label: "MySQL"
 title: "MySQL"
 description: Guides on MySQL administration and best practice
 keywords:
-  - ukfast
   - ans
   - mysql
   - mariadb

@@ -5,7 +5,6 @@ title: How often are monitoring checks run?
 description: Information on the levels of monitoring and the associated schedules
 keywords:
   - monitoring
-  - ukfast
   - ans
   - enterprise
   - alerts

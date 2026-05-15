@@ -2,10 +2,9 @@
 sidebar_position: 4
 sidebar_label: "Contacting your ANS Glass Account Manager"
 title: "Contacting your ANS Glass Account Manager"
-description: Instructions on how to contact your Account Manager at UKFast
+description: Instructions on how to contact your Account Manager at ANS
 keywords:
   - ans
-  - ukfast
   - account manager
   - service manager
   - close account

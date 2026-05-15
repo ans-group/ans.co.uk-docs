@@ -4,7 +4,6 @@ sidebar_label: "KB2379016 - Windows Server 2008 stuck at “Applying user settin
 title: "KB2379016 - Windows Server 2008 stuck at “Applying user settings…”"
 description: How to resolve the known Windows Server 2008 error KB2379016 relating to applying user settings
 keywords:
-  - ukfast
   - ans
   - windows
   - windows server

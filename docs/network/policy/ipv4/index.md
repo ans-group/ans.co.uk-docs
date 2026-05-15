@@ -5,7 +5,6 @@ title: IPv4 addresses on the ANS network
 description: Information on how IPv4 is handled at ANS
 keywords:
   - ans
-  - ukfast
   - network
   - ipv4
   - ip addresses

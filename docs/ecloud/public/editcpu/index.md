@@ -5,7 +5,6 @@ title: "eCloud Public Edit CPU"
 description: Programatic control of your eCloud Public resources
 keywords:
   - ans
-  - ukfast
   - cloud
   - ecloud
   - public

@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # How do I change the registrant of a `.uk` domain?

@@ -4,7 +4,6 @@ sidebar_label: "Installing PHP for use in IIS"
 title: "Installing PHP for use in IIS"
 description: A guide to installing PHP for use in IIS
 keywords:
-  - ukfast
   - ans
   - windows
   - iis

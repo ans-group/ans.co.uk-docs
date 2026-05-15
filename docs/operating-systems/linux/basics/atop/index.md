@@ -4,7 +4,6 @@ sidebar_label: "Monitoring performance with atop"
 title: Monitoring performance with `atop`
 description: A guide on how to monitor server performance with `atop`
 keywords:
-  - ukfast
   - ans
   - server
   - atop

@@ -5,7 +5,6 @@ title: "VPN"
 description: Guides for setting up VPNs on Linux, be it a client, server, to a hardware firewall, etc.
 keywords:
   - ans
-  - ukfast
   - vpn
   - linux
 ---

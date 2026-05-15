@@ -5,7 +5,6 @@ title: VPN capacity on ANS dedicated firewalls
 description: A reference for the number of supported VPN connections per firewall type
 keywords:
   - ans
-  - ukfast
   - firewall
   - network
   - glass

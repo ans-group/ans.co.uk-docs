@@ -11,7 +11,6 @@ keywords:
   - datacentre
   - dc
   - ans
-  - ukfast
   - portal
   - link
   - colocation

@@ -4,7 +4,6 @@ sidebar_label: "Using the netstat command to find port information"
 title: "Using the netstat command to find port information"
 description: A guide to using the netstat command to find port informaton in Windows Server
 keywords:
-  - ukfast
   - ans
   - windows
   - network

@@ -4,7 +4,6 @@ sidebar_label: "Git"
 title: "Git"
 description: A guide to using Git
 keywords:
-  - ukfast
   - ans
   - linux
   - install

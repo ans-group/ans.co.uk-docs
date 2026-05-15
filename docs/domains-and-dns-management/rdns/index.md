@@ -6,7 +6,6 @@ keywords:
   - reverse dns
   - dns
   - ans
-  - ukfast
   - dsn record
   - domain
 ---

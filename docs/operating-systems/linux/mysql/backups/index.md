@@ -4,7 +4,6 @@ sidebar_label: "How to backup MySQL/MariaDB databases"
 title: "How to backup MySQL/MariaDB databases"
 description: A guide for taking consistent database backups on a Linux server
 keywords:
-  - ukfast
   - ans
   - linux
   - mysql

@@ -4,7 +4,6 @@ sidebar_label: "Ncdu"
 title: "Ncdu"
 description: guides relating to using Ncdu on our Linux servers
 keywords:
-  - ukfast
   - ans
   - linux
   - diskspace

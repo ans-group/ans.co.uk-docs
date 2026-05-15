@@ -4,7 +4,6 @@ sidebar_label: "Testing mail"
 title: Testing mail
 description: A guide to using mail-tester and understanding the results
 keywords:
-  - ukfast
   - ans
   - mail
   - email

@@ -4,7 +4,6 @@ sidebar_label: "How to create a Microsoft SQL Server database user"
 title: "How to create a Microsoft SQL Server database user"
 description: A guide to creating a Microsoft SQL Server database user
 keywords:
-  - ukfast
   - ans
   - database
   - mssql

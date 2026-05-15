@@ -5,7 +5,6 @@ title: Targets
 description: Settings for targets within ANS load balancers
 keywords:
   - ans
-  - ukfast
   - loadbalancer
   - loadbalancing
   - targets

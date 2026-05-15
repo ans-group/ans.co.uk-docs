@@ -4,7 +4,6 @@ sidebar_label: "Restoring databases from a file based MySQL backup"
 title: "Restoring databases from a file based MySQL backup"
 description: A guide to restoring a database from a MySQL backup file
 keywords:
-  - ukfast
   - ans
   - linux
   - mysql

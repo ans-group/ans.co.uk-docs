@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # I no longer require a domain, how can I stop receiving renewal alerts?

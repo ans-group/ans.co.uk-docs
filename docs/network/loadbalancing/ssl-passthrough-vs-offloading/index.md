@@ -5,7 +5,6 @@ title: SSL Passthrough vs Offloading
 description: a guide to SSL passthrough and offloading
 keywords:
   - ans
-  - ukfast
   - passthrough
   - offloading
   - ssl

@@ -7,7 +7,6 @@ keywords:
   - SSL
   - TLS
   - ans
-  - ukfast
   - Schannel
   - IIS
   - security

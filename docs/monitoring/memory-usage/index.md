@@ -5,7 +5,6 @@ title: Memory usage
 description: Information around memory usage
 keywords:
   - ans
-  - ukfast
   - memory
   - ram
 ---

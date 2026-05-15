@@ -4,7 +4,6 @@ sidebar_label: "Applying system updates on your Plesk server"
 title: "Applying system updates on your Plesk server"
 description: A guide on applying system updates on your Plesk Server
 keywords:
-  - ukfast
   - ans
   - packages
   - upgrade

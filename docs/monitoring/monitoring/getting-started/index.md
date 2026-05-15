@@ -8,7 +8,6 @@ keywords:
   - ctm
   - capacity threshold monitoring
   - ans
-  - ukfast
   - glass
 ---
 

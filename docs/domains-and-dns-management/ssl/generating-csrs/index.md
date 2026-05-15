@@ -5,7 +5,6 @@ title: "Generating a CSR (Certificate Signing Request)"
 description: Generating a CSR with ANS
 keywords:
   - ans
-  - ukfast
   - domains
   - dns
   - csr

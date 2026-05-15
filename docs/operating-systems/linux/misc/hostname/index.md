@@ -4,7 +4,6 @@ sidebar_label: "Hostname"
 title: "Hostname"
 description: Information on setting, viewing and using hostnames in the Linux OS
 keywords:
-  - ukfast
   - ans
   - linux
   - hostname

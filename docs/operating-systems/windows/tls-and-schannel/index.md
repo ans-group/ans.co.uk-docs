@@ -4,7 +4,6 @@ sidebar_label: "SSL/TLS & Schannel"
 title: "SSL/TLS & Schannel"
 description: Information relating to TLS and Windows Schannel
 keywords:
-  - ukfast
   - ans
   - ssl
   - schannel

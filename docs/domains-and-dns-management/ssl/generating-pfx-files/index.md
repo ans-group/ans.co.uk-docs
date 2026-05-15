@@ -8,7 +8,6 @@ keywords:
   - domains
   - dns
   - ans
-  - ukfast
 ---
 
 # Generating a PFX File

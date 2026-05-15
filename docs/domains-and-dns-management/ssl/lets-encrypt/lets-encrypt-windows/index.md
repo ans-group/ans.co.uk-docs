@@ -4,7 +4,6 @@ sidebar_label: "Using Let's Encrypt on Windows"
 title: How to use Let's Encrypt on Windows
 description: How to use Let's Encrypt on Windows
 keywords:
-  - ukfast
   - ans
   - ssl
   - letsencrypt

@@ -5,7 +5,6 @@ title: "File reading and editing"
 description: A guide to reading and editing files on Linux
 keywords:
   - ans
-  - ukfast
   - linux
   - reading
   - editing

@@ -2,9 +2,8 @@
 sidebar_position: 12
 sidebar_label: "Windows administration"
 title: "Windows administration"
-description: Guidance relating to various Windows Server administrative tasks on UKFast
+description: Guidance relating to various Windows Server administrative tasks on ANS
 keywords:
-  - ukfast
   - ans
   - hosting
   - windows

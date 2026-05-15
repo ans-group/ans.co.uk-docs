@@ -4,7 +4,6 @@ sidebar_label: "How to set up a multi-protocol VPN server using SoftEther"
 title: How to set up a multi-protocol VPN server using SoftEther
 description: Detailed guidance on setting up a multi-protocol VPN server using SoftEther
 keywords:
-  - ukfast
   - ans
   - vpn
   - softether

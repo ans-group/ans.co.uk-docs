@@ -5,7 +5,6 @@ title: "Support requests"
 description: Page providing information about raising a Support Request in ANS Glass
 keywords:
   - ans
-  - ukfast
   - support request
   - ticket
   - techincal support
@@ -72,7 +71,7 @@ In the `CC Responses To` box you can enter the email addresses of people you wis
 The `Reply Security` options allow you to change how we notify you of support ticket updates.
 
 - If `Replies must be made through ANS Glass` is set, we will send you an email to tell you we have replied, and you will need to log into [ANS Glass](https://ans.glass) to view it.
-- If `Replies can be made through MyUKFast or email` is set, we will send you the message content via email, and you will also be able to reply back using email.
+- If `Replies can be made through ANS Glass or email` is set, we will send you the message content via email, and you will also be able to reply back using email.
 
 For increased security, we recommend only having ticket replies delivered through [ANS Glass](https://ans.glass), as this allows us to keep all communication encrypted.
 

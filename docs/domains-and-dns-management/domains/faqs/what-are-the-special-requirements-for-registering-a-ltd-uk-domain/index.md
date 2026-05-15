@@ -7,7 +7,6 @@ keywords:
   - dns
   - faq
   - ans
-  - ukfast
 ---
 
 # What are the special requirements for registering a `.ltd.uk` domain?

@@ -4,7 +4,6 @@ sidebar_label: "Site To Site VPN dashboard"
 title: Site to Site VPN Dashboard
 description: A guide to site-to-site VPN administration and set up
 keywords:
-  - ukfast
   - ans
   - firewall
   - vpn

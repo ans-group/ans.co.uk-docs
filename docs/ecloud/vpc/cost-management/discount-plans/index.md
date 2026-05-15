@@ -12,7 +12,6 @@ keywords:
   - Discount Plans
   - Spend
   - ans
-  - ukfast
 ---
 
 # Discount Plans

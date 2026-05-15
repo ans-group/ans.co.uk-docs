@@ -12,7 +12,6 @@ keywords:
   - Instances
   - Firewall
   - ans
-  - ukfast
 ---
 
 # Firewall Policies (North-South Firewalling)

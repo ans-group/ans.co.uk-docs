@@ -5,7 +5,6 @@ title: Bandwidth usage
 description: How to see your bandwidth usage
 keywords:
   - ans
-  - ukfast
   - bandwidth
 ---
 

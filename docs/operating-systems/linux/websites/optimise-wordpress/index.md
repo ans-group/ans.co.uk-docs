@@ -4,7 +4,6 @@ sidebar_label: "Optimise WordPress"
 title: "Optimise WordPress"
 description: An article that discusses all the ways to improve you wordpress installation and servers performance.
 keywords:
-  - ukfast
   - ans
   - windows
   - iis

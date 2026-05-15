@@ -13,7 +13,6 @@ keywords:
   - mail
   - spam
   - ans
-  - ukfast
 ---
 
 # Sender Policy Framework (SPF) records

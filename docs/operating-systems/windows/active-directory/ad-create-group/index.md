@@ -4,7 +4,6 @@ sidebar_label: "How to create a group in Active Directory"
 title: "How to create a group in Active Directory"
 description: A guide to creating a group in Windows Active Directory
 keywords:
-  - ukfast
   - ans
   - windows
   - guide

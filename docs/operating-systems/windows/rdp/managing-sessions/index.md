@@ -5,7 +5,6 @@ title: "Managing Remote Desktop sessions"
 description: A guide on managing Remote Desktop sessions and connections on Windows
 keywords:
   - ans
-  - ukfast
   - windows
   - remote
   - deskop

@@ -4,7 +4,6 @@ sidebar_label: "Spam Confidence Level"
 title: "Spam Confidence Level"
 description: Information on Spam Confidence Level (SCL) for Microsoft Exchange
 keywords:
-  - ukfast
   - ans
   - windows
   - exchange

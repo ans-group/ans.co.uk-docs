@@ -11,7 +11,6 @@ keywords:
   - guide
   - tutorial
   - ans
-  - ukfast
 ---
 
 # How to perform common administrative tasks in MongoDB

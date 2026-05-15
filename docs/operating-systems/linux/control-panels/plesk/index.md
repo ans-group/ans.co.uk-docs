@@ -4,7 +4,6 @@ sidebar_label: "Connecting to your Plesk control panel"
 title: "Connecting to your Plesk control panel"
 description: A guide for getting into your Plesk Control Panel
 keywords:
-  - ukfast
   - ans
   - plesk
   - control

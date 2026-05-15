@@ -4,7 +4,6 @@ sidebar_label: "How to configure X-Forwarded-For (XFF) in IIS"
 title: "How to configure X-Forwarded-For (XFF) in IIS"
 description: A guide to configuring XFF in IIS on Windows Server
 keywords:
-  - ukfast
   - ans
   - windows
   - xff

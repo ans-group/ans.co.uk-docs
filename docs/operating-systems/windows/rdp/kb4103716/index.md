@@ -10,7 +10,6 @@ keywords:
   - rdp
   - authentication
   - CVE-2018-0886
-  - ukfast
   - ans
   - hosting
   - server

@@ -4,7 +4,6 @@ sidebar_label: "MySQL remote access"
 title: "MySQL remote access"
 description: Set up remote access to MySQL between a split role web server and database server, ensuring the application is aware of the new changes.
 keywords:
-  - ukfast
   - mysql
   - sql
   - db

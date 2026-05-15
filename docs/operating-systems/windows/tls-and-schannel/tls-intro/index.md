@@ -6,7 +6,6 @@ description: Introduction to TLS protocols and cipher suites
 keywords:
   - SSL
   - TLS
-  - ukfast
   - ans
   - schannel
   - IIS

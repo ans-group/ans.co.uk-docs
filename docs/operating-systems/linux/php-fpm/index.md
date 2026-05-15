@@ -4,7 +4,6 @@ sidebar_label: "PHP-FPM"
 title: "PHP-FPM"
 description: guides relating to using PHP-FPM on our Magento optimised stack
 keywords:
-  - ukfast
   - ans
   - Magento
   - Magento2

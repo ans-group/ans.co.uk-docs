@@ -4,7 +4,6 @@ sidebar_label: "Managing databases & users"
 title: "Managing databases & users"
 description: A guide to managing MySQL database users
 keywords:
-  - ukfast
   - ans
   - mysql
   - database

@@ -4,7 +4,6 @@ sidebar_label: "Wana Decryptor / Wana Decrypt0r 2.0 / WannaCry"
 title: Wana Decryptor / Wana Decrypt0r 2.0 / WannaCry
 description: Information on patching the WannaCry vulnerability
 keywords:
-  - ukfast
   - ans
   - pci
   - dss

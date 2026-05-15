@@ -4,7 +4,6 @@ sidebar_label: "CVE-2022-0847 - Dirty Pipe vulnerability"
 title: CVE-2022-0847 - Dirty Pipe Vulnerability
 description: Information for Dirty Pipe vulnerability ~ CVE-2022-0847
 keywords:
-  - ukfast
   - ans
   - linux
   - security

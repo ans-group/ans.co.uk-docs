@@ -5,7 +5,6 @@ title: "My company"
 description: Page providing information about changing your company details inside ANS Glass
 keywords:
   - ans
-  - ukfast
   - company name
   - company address
   - my company

@@ -4,7 +4,6 @@ sidebar_label: "Creating a new user in a Workgroup"
 title: "Creating a new user in a Workgroup"
 description: A guide for creating a new user account on your Windows Server
 keywords:
-  - ukfast
   - ans
   - server
   - windows

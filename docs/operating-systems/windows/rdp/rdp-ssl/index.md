@@ -5,7 +5,6 @@ title: "Encrypt RDP traffic using an SSL certificate"
 description: Instructions on how to encrypt RDP traffic using an SSL certificate
 keywords:
   - ans
-  - ukfast
   - remote
   - desktop
   - windows

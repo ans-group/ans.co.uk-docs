@@ -5,7 +5,6 @@ title: IPv6 on ANS solutions
 description: Information on how IPv6 is handled at ANS
 keywords:
   - ans
-  - ukfast
   - networks
   - network
   - ipv6

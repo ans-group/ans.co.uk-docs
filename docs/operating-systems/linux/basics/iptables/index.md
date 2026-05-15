@@ -4,7 +4,6 @@ sidebar_label: "Linux software firewall"
 title: "Linux software firewall"
 description: Information and guidance on using iptables in linux
 keywords:
-  - ukfast
   - ans
   - linux
   - firewall

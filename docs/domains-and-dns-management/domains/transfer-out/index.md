@@ -5,7 +5,6 @@ title: "Transferring from ANS"
 description: How to transfer your domain away from ANS
 keywords:
   - ans
-  - ukfast
   - transfers
   - domain
 ---

@@ -4,7 +4,6 @@ sidebar_label: "Resize the primary disk (suggested)"
 title: "Resize the primary disk (suggested)"
 description: An advanced-level guide to resizing the primary disk on an eCloud virtual server
 keywords:
-  - ukfast
   - ans
   - ecloud
   - cloud

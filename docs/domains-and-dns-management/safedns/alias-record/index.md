@@ -6,7 +6,6 @@ description: a guide to ALIAS records
 keywords:
 
 - ans
-- ukfast
 - domain
 - dns
 - cname

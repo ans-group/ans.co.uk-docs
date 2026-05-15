@@ -4,7 +4,6 @@ sidebar_label: "Import a database"
 title: "Import a database"
 description: A guide to importing a database from a MySQL .sql using different applicable methods.
 keywords:
-  - ukfast
   - linux
   - ans
   - mysql

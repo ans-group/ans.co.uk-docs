@@ -5,7 +5,6 @@ title: "Creating an MSSQL Maintenance Plan"
 description: A guide to creating a Microsoft SQL Server maintenance plan
 keywords:
   - ans
-  - ukfast
   - mssql
   - sql server
   - database

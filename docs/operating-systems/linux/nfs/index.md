@@ -4,7 +4,6 @@ sidebar_label: "NFS"
 title: "NFS"
 description: guides relating to using NFS
 keywords:
-  - ukfast
   - ans
   - Magento
   - Magento2

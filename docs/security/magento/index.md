@@ -4,7 +4,6 @@ sidebar_label: "Keeping Magento secure"
 title: Keeping Magento secure
 description: How to prevent the most common Magento security problems
 keywords:
-  - ukfast
   - ans
   - hosting
   - magento

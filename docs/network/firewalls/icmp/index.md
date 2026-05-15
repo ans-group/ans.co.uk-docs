@@ -4,7 +4,6 @@ sidebar_label: "Enabling ICMP traffic to ANS servers"
 title: Enabling ICMP traffic to ANS servers
 description: ICMP for ANS shared and dedicated firewalls
 keywords:
-  - ukfast
   - ans
   - firewall
   - icmp

@@ -4,7 +4,6 @@ sidebar_label: "CryptoLocker"
 title: CryptoLocker
 description: Best practice advice on protecting against CryptoLocker attacks
 keywords:
-  - ukfast
   - ans
   - hosting
   - crypto
