@@ -1,20 +1,30 @@
-# Website
+# ANS Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+All documentation is published at <https://www.ans.co.uk/docs/>.
 
-## Installation
+If you would like to contribute a guide or amendment to an existing one, please fork the repository and submit a pull request.
 
-```bash
-yarn
-```
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. All content is written in Markdown.
 
 ## Local Development
 
+### Using yarn
+
 ```bash
+yarn
 yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+This starts a local development server and opens a browser window. Most changes are reflected live without needing a restart.
+
+### Using Docker
+
+```bash
+docker build -t ans-docs .
+docker run --rm -p 8080:80 ans-docs
+```
+
+Then browse to `http://localhost:8080/docs`.
 
 ## Build
 
@@ -22,20 +32,63 @@ This command starts a local development server and opens up a browser window. Mo
 yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+This generates static content into the `build` directory.
 
-## Deployment
+## Contributing
 
-Using SSH:
+### Naming and Path
 
-```bash
-USE_SSH=true yarn deploy
+Please ensure pages and folders are easy to read and sensibly structured. Keep URLs lowercase and use hyphens instead of spaces, e.g.
+
+- `/docs/ecloud/example-page/`
+
+### Page Heading
+
+The page `h1` heading should give the reader a strong sense of what they are going to read. There should only be one `h1` on a page and it should be the first element.
+
+### Images
+
+Where relevant, add screenshots as `.png` files. Blur out any sensitive information such as account names or IP addresses.
+
+Given the following structure:
+
+```
+.
+├── document.md
+├── files
+│   ├── image.png
 ```
 
-Not using SSH:
+Include `image.png` in `document.md` like this:
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
+```markdown
+![alt text](files/image.png)
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### Hyperlinks
+
+For internal links:
+
+```markdown
+[link text](/docs/ecloud/example-page/)
+```
+
+For external links:
+
+```markdown
+[Go to the ANS Portal](https://portal.ans.co.uk)
+```
+
+Avoid using words like "link", "click here" or "here" as the link text. The text should give a clear indication of where the link leads.
+
+### Linting
+
+You can lint Markdown content with:
+
+```bash
+docker run \
+  -v "$PWD:/app" \
+  -w /app \
+  --rm \
+  markdownlint/markdownlint docs
+```
