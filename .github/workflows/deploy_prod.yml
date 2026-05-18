@@ -34,7 +34,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/ans-group/docs-app:${{ github.sha }}
+          tags: ghcr.io/ans-group/ans-docs:${{ github.sha }}
 
       - name: 'Deploy'
         uses: 'vimeda/helm@v1.7.0'
