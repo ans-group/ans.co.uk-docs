@@ -18,7 +18,7 @@ jobs:
       - name: 'Uninstall Helm Release'
         uses: 'vimeda/helm@v1.7.0'
         with:
-          release: new-docs-uat-${{ github.event.number }}
+          release: docs-uat-${{ github.event.number }}
           namespace: docs-uat
           chart: .helm
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -30,7 +30,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          PACKAGE_NAME="new-docs-app"
+          PACKAGE_NAME="docs-app"
           TAG="uat-${{ github.event.number }}"
           VERSION_ID=$(gh api \
             -H "Accept: application/vnd.github+json" \
