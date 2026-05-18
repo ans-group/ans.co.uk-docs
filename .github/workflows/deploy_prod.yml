@@ -14,7 +14,7 @@ jobs:
       contents: read
     environment:
       name: Production
-      url: https://docsnew.ans.co.uk/docs/
+      url: https://www.ans.co.uk/docs/
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v3
@@ -34,21 +34,21 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/ans-group/new-docs-app:${{ github.sha }}
+          tags: ghcr.io/ans-group/docs-app:${{ github.sha }}
 
       - name: 'Deploy'
         uses: 'vimeda/helm@v1.7.0'
         with:
-          release: docsnew
-          namespace: docsnew
+          release: docs
+          namespace: docs
           chart: .helm
           token: ${{ secrets.GITHUB_TOKEN }}
           values: |
             image:
               tag: ${{ github.sha }}
             ingress:
-              host: docsnew.ans.co.uk
+              host: docs.ans.co.uk
               tls:
-                secretName: docsnew-ans-co-uk-tls
+                secretName: docs-ans-co-uk-tls
         env:
           KUBECONFIG_FILE: '${{ secrets.PROD_KUBECONFIG_ANS }}'
