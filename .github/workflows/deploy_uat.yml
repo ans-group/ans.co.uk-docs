@@ -38,7 +38,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/ans-group/docs-app:uat-${{ github.event.number }}
+          tags: ghcr.io/ans-group/ans-docs:uat-${{ github.event.number }}
 
       - name: 'Deploy'
         uses: 'vimeda/helm@v1.7.0'

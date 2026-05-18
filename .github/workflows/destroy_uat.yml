@@ -30,7 +30,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          PACKAGE_NAME="docs-app"
+          PACKAGE_NAME="ans-docs"
           TAG="uat-${{ github.event.number }}"
           VERSION_ID=$(gh api \
             -H "Accept: application/vnd.github+json" \
