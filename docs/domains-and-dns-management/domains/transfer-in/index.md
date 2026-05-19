@@ -17,7 +17,7 @@ Due to the nature of this process, the majority of the steps will have to be car
 
 ## `.uk` domains
 
-For a domain with a `.uk` TLD, moving it to ANS from another registrar should just be a matter of changing the `IPS tag` to `ANS` with your current registrar. Once this is changed, you can add the domain into your [ANS Glass](https://www.ans.co.uk/login/) area using the `Import Domain` section found at `Domains` > `Import a Domain`. The whole process can usually happen within minutes, but it does depend when the IPS tag change is sent along by the old registrar.
+For a domain with a `.uk` TLD, moving it to ANS from another registrar should just be a matter of changing the `IPS tag` to `UKFAST` with your current registrar. Once this is changed, you can add the domain into your [ANS Glass](https://www.ans.co.uk/login/) area using the `Import Domain` section found at `Domains` > `Import a Domain`. The whole process can usually happen within minutes, but it does depend when the IPS tag change is sent along by the old registrar.
 
 ## Non `.uk` domains
 
