@@ -60,4 +60,4 @@ jobs:
             deployment:
               forceRestart: true
         env:
-          KUBECONFIG_FILE: '${{ secrets.UAT_KUBECONFIG_ANS }}'
+          KUBECONFIG_FILE: '${{ secrets.KUBECONFIG }}'
