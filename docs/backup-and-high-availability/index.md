@@ -23,7 +23,6 @@ Help and guidance to ensure your data and IT is sufficiently backed up, just in 
 
 - [Backup techniques](./backup-techniques/)
 - [General backup guidance](./general-backup-guidance/)
-- [FASTcloudbackup](./fastcloudbackup/)
 
 ## High Availability
 
