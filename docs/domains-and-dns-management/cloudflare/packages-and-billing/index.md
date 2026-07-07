@@ -51,7 +51,7 @@ If resources remain active, billing continues.
 ## Contract cancellation and PAYG
 
 If you cancel contract terms but do not delete your Cloudflare service in Glass, your
-service moves to **ANS Co-Managed Cloudflare full PAYG rate** until the service is
+service moves to **ANS Co-Managed Cloudflare full rate** until the service is
 deleted.
 
 ## Getting help

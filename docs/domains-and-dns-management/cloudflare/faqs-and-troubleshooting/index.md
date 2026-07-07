@@ -45,7 +45,7 @@ Billing stops only when your Cloudflare resources are deleted through Glass.
 ## What if I cancel my contract but keep Cloudflare active?
 
 If the Cloudflare service is not deleted in Glass, it moves to **ANS Co-Managed
-Cloudflare full PAYG rate**.
+Cloudflare full rate**.
 
 ## Who do I contact if I'm stuck?
 
