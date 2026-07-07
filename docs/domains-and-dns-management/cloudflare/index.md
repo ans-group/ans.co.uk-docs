@@ -16,7 +16,7 @@ keywords:
 
 ANS lets you use [Cloudflare](https://www.cloudflare.com) services — DNS, content
 delivery, and web security — alongside your other ANS products, managed from your
-ANS Glass client area.
+Glass account.
 
 For Cloudflare platform behaviour and feature-level guidance, use Cloudflare's official
 documentation: <https://developers.cloudflare.com/>.

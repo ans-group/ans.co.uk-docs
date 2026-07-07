@@ -1,7 +1,7 @@
 ---
 sidebar_label: "Getting started with Cloudflare"
 sidebar_position: 1
-description: How to set up Cloudflare through your ANS Glass client area
+description: How to set up Cloudflare through Glass
 keywords:
   - ans
   - cloudflare
@@ -11,10 +11,10 @@ keywords:
 
 # Getting started with Cloudflare
 
-Setting up Cloudflare through ANS takes just a few steps from your ANS Glass client
-area — you don't need a separate Cloudflare account or billing relationship.
+Setting up Cloudflare through ANS takes just a few steps in Glass — you don't need a
+separate Cloudflare account or billing relationship.
 
-1. Log in to your ANS Glass client area and select **Cloudflare** from the
+1. Log in to Glass and select **Cloudflare** from the
    `Services` menu.
 2. If this is your first time, you'll see an introduction to the service. Select
    **Get Started** to begin setup.
@@ -31,7 +31,7 @@ move your existing DNS records over safely.
 
 ## Managing your Cloudflare account afterwards
 
-From the same **Cloudflare** area of ANS Glass you can:
+From the same **Cloudflare** area in Glass you can:
 
 - View and manage the accounts and sites you've set up.
 - Request ANS support access changes through the Glass Services support workflow.

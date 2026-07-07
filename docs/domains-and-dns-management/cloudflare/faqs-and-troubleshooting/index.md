@@ -13,8 +13,8 @@ keywords:
 
 ## Do I need my own Cloudflare account?
 
-No. Cloudflare through ANS is set up and billed through your existing ANS Glass
-client area — you don't need a separate Cloudflare account or billing relationship.
+No. Cloudflare through ANS is set up and billed through your existing Glass account —
+you don't need a separate Cloudflare account or billing relationship.
 
 ## My site isn't resolving after setup — what should I check?
 
@@ -38,7 +38,16 @@ Cloudflare — see [Migrating from SafeDNS to Cloudflare](../migrating-from-safe
 Request access through the Glass Services support process. Do not add ANS staff
 members directly in Cloudflare.
 
+## When does billing stop?
+
+Billing stops only when your Cloudflare resources are deleted through Glass.
+
+## What if I cancel my contract but keep Cloudflare active?
+
+If the Cloudflare service is not deleted in Glass, it moves to **ANS Co-Managed
+Cloudflare full PAYG rate**.
+
 ## Who do I contact if I'm stuck?
 
-Contact ANS support via your Glass client area, and include the site/domain name and
-a description of what you're seeing.
+Contact ANS support via Glass, and include the site/domain name and a description of
+what you're seeing.

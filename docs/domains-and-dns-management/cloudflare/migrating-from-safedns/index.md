@@ -28,7 +28,7 @@ over automatically.
 
 ## Migration steps
 
-1. Log in to your ANS Glass client area and go to **Cloudflare** under the `Services`
+1. Log in to Glass and go to **Cloudflare** under the `Services`
    menu.
 2. Select the site you want to migrate, then choose **Migrate from SafeDNS**.
 3. Review the DNS records that will be copied from SafeDNS into Cloudflare. Confirm

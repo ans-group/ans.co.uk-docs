@@ -20,7 +20,7 @@ separate Cloudflare invoice to manage.
 When you set up a site with Cloudflare, you choose a package that determines the
 level of performance and security features available (for example caching behaviour
 and web application firewall protection). You can view your current package for a
-site, and change it, from the **Cloudflare** area of your ANS Glass client area.
+site, and change it, from the **Cloudflare** area in Glass.
 
 Current support scope is aligned to:
 
@@ -32,15 +32,27 @@ add-on, raise it with ANS support so the request can be reviewed.
 
 ## Viewing spend
 
-Your ANS Glass client area shows your Cloudflare spend alongside your other ANS
-services, including month-to-date spend. If you manage multiple sites or accounts,
-spend is broken down so you can see what each is contributing.
+Glass shows your Cloudflare spend alongside your other ANS services, including
+month-to-date spend. If you manage multiple sites or accounts, spend is broken down
+so you can see what each is contributing.
 
 ## Changing or removing a package
 
 You can upgrade or downgrade a site's package, or remove a site from Cloudflare
-entirely, from the **Cloudflare** area of ANS Glass. Changes to your package may
+entirely, from the **Cloudflare** area in Glass. Changes to your package may
 affect your billing from the point the change takes effect.
+
+## Stopping billing
+
+Billing only stops when Cloudflare resources are deleted through Glass.
+
+If resources remain active, billing continues.
+
+## Contract cancellation and PAYG
+
+If you cancel contract terms but do not delete your Cloudflare service in Glass, your
+service moves to **ANS Co-Managed Cloudflare full PAYG rate** until the service is
+deleted.
 
 ## Getting help
 

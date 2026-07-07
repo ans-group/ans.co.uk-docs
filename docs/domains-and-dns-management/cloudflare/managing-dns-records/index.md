@@ -12,12 +12,12 @@ keywords:
 # Managing DNS records in Cloudflare
 
 Once a site is set up with Cloudflare through ANS, DNS records for that domain are
-managed directly within Cloudflare rather than in your ANS Glass client area.
+managed directly within Cloudflare rather than in Glass.
 
 ## Where to manage records
 
 Cloudflare provides its own dashboard for adding, editing, and removing DNS records
-(A, AAAA, CNAME, MX, TXT, and others) for your site. Your ANS Glass client area is
+(A, AAAA, CNAME, MX, TXT, and others) for your site. Glass is
 used to manage the ANS side of the relationship — your package, billing, and account
 membership — while day-to-day record changes happen in Cloudflare directly.
 
@@ -49,4 +49,4 @@ validated before implementation.
 
 If you're unsure which record type you need, or a change isn't behaving as expected,
 see [FAQs and troubleshooting](../faqs-and-troubleshooting/) or contact ANS support
-via your Glass client area.
+via Glass.
