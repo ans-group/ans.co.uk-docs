@@ -23,6 +23,7 @@ Information relating to ANS security products and services, and general best pra
 - [McAfee antivirus](./antivirus/index.md)
 - [Vulnerability scans](./vulnerability-scans/index.md)
 - [ANS Protect](./ans-protect/index.md)
+- [Co-Managed Cloudflare](./co-managed-cloudflare/index.md)
 
 ## Security guidance for 3rd party software
 
