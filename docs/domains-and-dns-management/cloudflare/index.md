@@ -18,6 +18,9 @@ ANS lets you use [Cloudflare](https://www.cloudflare.com) services — DNS, cont
 delivery, and web security — alongside your other ANS products, managed from your
 ANS Glass client area.
 
+For Cloudflare platform behaviour and feature-level guidance, use Cloudflare's official
+documentation: <https://developers.cloudflare.com/>.
+
 - [Getting started with Cloudflare](./getting-started/)
 - [Migrating from SafeDNS to Cloudflare](./migrating-from-safedns/)
 - [Managing DNS records in Cloudflare](./managing-dns-records/)

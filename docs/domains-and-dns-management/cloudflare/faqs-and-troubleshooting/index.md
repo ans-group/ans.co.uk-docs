@@ -33,10 +33,10 @@ switch nameservers, so there's no need to recreate records manually. Keep the
 SafeDNS zone in place until you've confirmed everything resolves correctly through
 Cloudflare — see [Migrating from SafeDNS to Cloudflare](../migrating-from-safedns/).
 
-## How do I add someone else to manage my Cloudflare account?
+## How do I request ANS access to help manage my Cloudflare service?
 
-You can add additional account members from the **Cloudflare** area of your ANS
-Glass client area — see [Getting started with Cloudflare](../getting-started/).
+Request access through the Glass Services support process. Do not add ANS staff
+members directly in Cloudflare.
 
 ## Who do I contact if I'm stuck?
 

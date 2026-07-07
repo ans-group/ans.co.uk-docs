@@ -22,6 +22,14 @@ level of performance and security features available (for example caching behavi
 and web application firewall protection). You can view your current package for a
 site, and change it, from the **Cloudflare** area of your ANS Glass client area.
 
+Current support scope is aligned to:
+
+- Business plan features.
+- Core included feature entitlements.
+
+Paid Cloudflare add-ons are outside standard support scope. If you need an unsupported
+add-on, raise it with ANS support so the request can be reviewed.
+
 ## Viewing spend
 
 Your ANS Glass client area shows your Cloudflare spend alongside your other ANS

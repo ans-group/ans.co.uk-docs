@@ -39,6 +39,12 @@ DNS changes can take time to fully propagate across the internet. See
 [What factors affect DNS propagation time?](../../domains/dns-propagation/) for more
 detail on expected timings.
 
+## CNAME onboarding requests
+
+If you need a CNAME-based Cloudflare onboarding path rather than standard nameserver
+delegation, raise this with ANS support through Glass Services so the request can be
+validated before implementation.
+
 ## Getting help
 
 If you're unsure which record type you need, or a change isn't behaving as expected,

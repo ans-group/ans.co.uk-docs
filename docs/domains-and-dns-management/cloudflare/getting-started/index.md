@@ -34,7 +34,7 @@ move your existing DNS records over safely.
 From the same **Cloudflare** area of ANS Glass you can:
 
 - View and manage the accounts and sites you've set up.
-- Add additional members to an account.
+- Request ANS support access changes through the Glass Services support workflow.
 - Update or remove a site.
 - Change your package for a site.
 
