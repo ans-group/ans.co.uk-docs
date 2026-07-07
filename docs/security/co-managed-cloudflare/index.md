@@ -19,8 +19,7 @@ ANS lets you use Co-Managed Cloudflare — powered by
 delivery, and web security — alongside your other ANS products, managed from your
 Glass account.
 
-For Cloudflare platform behaviour and feature-level guidance, use Cloudflare's official
-documentation: <https://developers.cloudflare.com/>.
+For Cloudflare platform behaviour and feature-level guidance, use [Cloudflare's official documentation](https://developers.cloudflare.com/).
 
 ANS support applies only to sites in Co-Managed Cloudflare accounts provisioned by ANS.
 

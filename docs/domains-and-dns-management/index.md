@@ -19,4 +19,3 @@ Help with managing your domains, DNS records and SSL certificates.
 - [SafeDNS](./safedns/index.md)
 - [SSL Certificates](./ssl/index.md)
 - [Reverse DNS Records](./rdns/index.md)
-- [Co-Managed Cloudflare](./cloudflare/index.md)
