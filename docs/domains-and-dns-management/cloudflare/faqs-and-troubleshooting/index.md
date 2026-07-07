@@ -36,7 +36,8 @@ ANS support is only available for sites in Co-Managed Cloudflare accounts provis
 Migrating from SafeDNS copies your existing DNS records into Cloudflare before you
 switch nameservers, so there's no need to recreate records manually. Keep the
 SafeDNS zone in place until you've confirmed everything resolves correctly through
-Cloudflare — see [Migrating from SafeDNS to Cloudflare](../migrating-from-safedns/).
+Cloudflare — see
+[Migrating from SafeDNS to Co-Managed Cloudflare](../migrating-from-safedns/).
 
 ## How do I request ANS access to help manage my Co-Managed Cloudflare service?
 
