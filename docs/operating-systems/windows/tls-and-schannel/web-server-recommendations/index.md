@@ -47,7 +47,7 @@ Windows Server 2016, being the latest production version of Microsoft's server o
 
 Notably, Server 2016 supports the `TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256` cipher (and the `AES_256` variant) which provides both Forward Secrecy (using ECDHE) and Authenticated Encryption (AEAD) while using RSA authentication. All earlier versions of Windows need to either use ECDSA authentication (by using an ECC certificate) or rely on the much slower DHE in order to provide both AEAD and PFS (Perfect Forward Secrecy).
 
-A full list of supported ciphers and protocols for Windows Server 2016, can be found [here](<https://msdn.microsoft.com/en-us/library/windows/desktop/mt490158(v=vs.85).aspx>).
+A full list of supported ciphers and protocols for Windows Server 2016, can be found [here](https://msdn.microsoft.com/en-us/library/windows/desktop/mt490158(v=vs.85).aspx).
 
 As the table shows [above](#server-side-protocol-support), TLS 1.0 is still enabled by default on Windows Server 2016 for backwards compatibility. If you have no services that require this then you can go-ahead and disable the TLS 1.0 protocol.
 

@@ -28,7 +28,7 @@ The Group Policy Objects can be assigned to groups of users and/or groups of com
 
 For a full explanation of Group Policy modelling and implementation, please visit the following link. <b>If you are not familiar with Group Policy Objects, it is highly advised to review the explanation provided in the link below before proceeding with this guide.</b>
 
-- [Group Policy Planning and Deployment Guide](<https://technet.microsoft.com/en-us/library/cc754948(v=ws.10).aspx>)
+- [Group Policy Planning and Deployment Guide](https://technet.microsoft.com/en-us/library/cc754948(v=ws.10).aspx)
 
 For a Complete Reference guide of all of the available options, please visit the following link:
 

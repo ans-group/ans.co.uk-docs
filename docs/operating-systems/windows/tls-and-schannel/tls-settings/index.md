@@ -29,7 +29,7 @@ Please also check:
 
 Microsoft list all the supported cipher suites for each operating system version. The external link is provided below:
 
-- [Cipher Suites in Schannel by OS](<https://msdn.microsoft.com/en-us/library/windows/desktop/aa374757(v=vs.85).aspx>)
+- [Cipher Suites in Schannel by OS](https://msdn.microsoft.com/en-us/library/windows/desktop/aa374757(v=vs.85).aspx)
 
 :::warning
 Editing protocol and cipher compatibility requires making changes to the registry. Always make a backup by exporting the registry keys before making any changes. **Incorrect changes to the registry can cause operating system instability.**

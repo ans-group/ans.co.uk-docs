@@ -52,7 +52,7 @@ Our support engineers are have been working around the clock since information b
 
 ## How does this malware function?
 
-Wana Decrypt0r utilises an embedded installer which extracts a password protected `.zip` archive. This archive has a number of randomly named executable files within which are run to execute the Wana Decrypt0r functionality. Once the executable files are present on the Windows file system, execution of the start-up tasks utilising the newly extracted `.exe`'s. The ransomware will then utilise the TOR client and TOR network to allow communication between the malware and its command and control to be performed via an encrypted near untraceable network. More information regarding TOR can be found on Wikipedia [here](<https://en.wikipedia.org/wiki/Tor_(anonymity_network)>).
+Wana Decrypt0r utilises an embedded installer which extracts a password protected `.zip` archive. This archive has a number of randomly named executable files within which are run to execute the Wana Decrypt0r functionality. Once the executable files are present on the Windows file system, execution of the start-up tasks utilising the newly extracted `.exe`'s. The ransomware will then utilise the TOR client and TOR network to allow communication between the malware and its command and control to be performed via an encrypted near untraceable network. More information regarding TOR can be found on Wikipedia [here](https://en.wikipedia.org/wiki/Tor_(anonymity_network)).
 
 Once the ransomware is present on the operating system, the malware will perform remote connectivity to the following `.onion` addresses within the TOR network:
 
@@ -106,7 +106,7 @@ The above command significantly reduces the available backup set, however if you
 - ANS have taken steps to include Wana Decrypt0r mitigation within our McAfee Access Protection ruleset as per [McAfee](https://kc.mcafee.com/)'s recent KB article. If you are not currently using McAfee and require ANS to install/manage McAfee within your Windows infrastructure, please contact our ANS support team to arrange installation.
 - Enabling software firewall(s) between servers within the same subnet. Windows Firewall can be configured to prevent communication on SMB protocol ports between servers, this can be utilised to reduce risk of malware spread to multiple servers behind a firewall.
 - Disabling the SMB protocol - If you have no requirement for the SMB protocol to be utilised, this can be disabled via registry changes. Disabling SMB requires a server restart, SMB is required for certain server functionality, please contact our support team before proceeding with any changes to live systems.
-- AppLocker implementation (available within Windows Server 2008 R2 and above) - AppLocker can be implemented to allow system administrators to impose restrictions on user access of executables, prevention of user run scripts, denial of user performed software installation/updates and prevention of changes to system `.dll` and `.ocx` files. [Click here for details](<https://technet.microsoft.com/en-us/library/dd759117(v=ws.11).aspx>).
+- AppLocker implementation (available within Windows Server 2008 R2 and above) - AppLocker can be implemented to allow system administrators to impose restrictions on user access of executables, prevention of user run scripts, denial of user performed software installation/updates and prevention of changes to system `.dll` and `.ocx` files. [Click here for details](https://technet.microsoft.com/en-us/library/dd759117(v=ws.11).aspx).
 - Hosts file DNS redirection - <nospell>Wana DeCrypt0r</nospell> 2.0 is known to retrieve a TOR client via the following address: https://dist.torproject.org/torbrowser/6.5.1/tor-win32-0.2.9.10.zip
 
 The TOR `.onion` network is also utilised. Add new `/etc/hosts` entries to override DNS requests `.onion` network addresses:
@@ -148,7 +148,7 @@ Addition of this HOSTS entry will prevent the TOR aspect removing some command a
 
 Microsoft have released patching for Windows XP which is available via the Microsoft Update Catalog. Although these operating systems are no longer within Microsoft's supported operating systems, they have provided patching availability which needs to be applied manually.
 
-Patches for older operating systems are available [here](<http://www.catalog.update.microsoft.com/Search.aspx?q=KB4012598&ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-veALAaECnpbc3sX3qwgd3Q&tduid=(f359256c2e7587423e1da93cc0f03bff)(256380)(2459594)(TnL5HPStwNw-veALAaECnpbc3sX3qwgd3Q)()>).
+Patches for older operating systems are available [here](http://www.catalog.update.microsoft.com/Search.aspx?q=KB4012598&ranMID=24542&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-veALAaECnpbc3sX3qwgd3Q&tduid=(f359256c2e7587423e1da93cc0f03bff)(256380)(2459594)(TnL5HPStwNw-veALAaECnpbc3sX3qwgd3Q)()).
 
 ### Windows 2003 & XP – KB4012598
 

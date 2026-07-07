@@ -47,7 +47,7 @@ Enter a user name and a login name. The user name will be the displayed user nam
 
 On the `Owned Schemas` pane, you can select a variety of different schemas to assign this user to. An explanation of these schemas can be found at the link below. Once you have made your selection, select `Membership` from the `Select a page` menu on the left hand side of the pane.
 
-- [MSSQL Schemas](<https://technet.microsoft.com/en-us/library/ms191451(v=sql.90).aspx>)
+- [MSSQL Schemas](https://technet.microsoft.com/en-us/library/ms191451(v=sql.90).aspx)
 
 You will now be presented with the `Database role membership` selection pane as below. Within this pane you will need to select the appropriate roles for your user. This is entirely your own choice and should be set in accordance with what task the user will be carrying out.
 For an explanation of the different roles and their functions, please visit the following link:
