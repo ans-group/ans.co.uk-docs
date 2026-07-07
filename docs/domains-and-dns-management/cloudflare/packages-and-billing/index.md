@@ -1,7 +1,7 @@
 ---
 sidebar_label: "Packages and billing"
 sidebar_position: 4
-description: Understanding Cloudflare packages, spend, and billing through ANS
+description: Understanding Co-Managed Cloudflare packages, spend, and billing
 keywords:
   - ans
   - cloudflare
@@ -12,7 +12,7 @@ keywords:
 
 # Packages and billing
 
-Cloudflare through ANS is billed as part of your existing ANS account — there's no
+Co-Managed Cloudflare is billed as part of your existing ANS account — there's no
 separate Cloudflare invoice to manage.
 
 ## Packages
@@ -50,8 +50,8 @@ If resources remain active, billing continues.
 
 ## Contract cancellation and PAYG
 
-If you cancel contract terms but do not delete your Cloudflare service in Glass, your
-service moves to **ANS Co-Managed Cloudflare full rate** until the service is
+If you cancel contract terms but do not delete your Co-Managed Cloudflare service in
+Glass, your service moves to **Co-Managed Cloudflare full rate** until the service is
 deleted.
 
 ## Getting help

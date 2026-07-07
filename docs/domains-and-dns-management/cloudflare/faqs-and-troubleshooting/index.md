@@ -1,7 +1,7 @@
 ---
 sidebar_label: "FAQs and troubleshooting"
 sidebar_position: 5
-description: Frequently asked questions and troubleshooting for Cloudflare through ANS
+description: Frequently asked questions and troubleshooting for Co-Managed Cloudflare
 keywords:
   - ans
   - cloudflare
@@ -13,12 +13,12 @@ keywords:
 
 ## Do I need my own Cloudflare account?
 
-No. Cloudflare through ANS is set up and billed through your existing Glass account —
+No. Co-Managed Cloudflare is set up and billed through your existing Glass account —
 you don't need a separate Cloudflare account or billing relationship.
 
 ## Which sites are supported by ANS?
 
-ANS support is only available for sites in Cloudflare accounts provisioned by ANS.
+ANS support is only available for sites in Co-Managed Cloudflare accounts provisioned by ANS.
 
 ## My site isn't resolving after setup — what should I check?
 
@@ -28,7 +28,8 @@ ANS support is only available for sites in Cloudflare accounts provisioned by AN
   your previous DNS provider's TTL settings. See
   [What factors affect DNS propagation time?](../../domains/dns-propagation/).
 - Check that the relevant DNS record exists and is correctly configured in
-  Cloudflare — see [Managing DNS records in Cloudflare](../managing-dns-records/).
+  Cloudflare — see
+  [Managing DNS records in Co-Managed Cloudflare](../managing-dns-records/).
 
 ## Can I migrate from SafeDNS without downtime?
 
@@ -37,7 +38,7 @@ switch nameservers, so there's no need to recreate records manually. Keep the
 SafeDNS zone in place until you've confirmed everything resolves correctly through
 Cloudflare — see [Migrating from SafeDNS to Cloudflare](../migrating-from-safedns/).
 
-## How do I request ANS access to help manage my Cloudflare service?
+## How do I request ANS access to help manage my Co-Managed Cloudflare service?
 
 Request access through the Glass Services support process. Do not add ANS staff
 members directly in Cloudflare.
@@ -46,9 +47,9 @@ members directly in Cloudflare.
 
 Billing stops only when your Cloudflare resources are deleted through Glass.
 
-## What if I cancel my contract but keep Cloudflare active?
+## What if I cancel my contract but keep Co-Managed Cloudflare active?
 
-If the Cloudflare service is not deleted in Glass, it moves to **ANS Co-Managed
+If the Co-Managed Cloudflare service is not deleted in Glass, it moves to **Co-Managed
 Cloudflare full rate**.
 
 ## Who do I contact if I'm stuck?

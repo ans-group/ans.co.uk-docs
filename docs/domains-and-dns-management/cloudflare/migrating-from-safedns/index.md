@@ -1,7 +1,7 @@
 ---
-sidebar_label: "Migrating from SafeDNS to Cloudflare"
+sidebar_label: "Migrating from SafeDNS to Co-Managed Cloudflare"
 sidebar_position: 2
-description: How to migrate an existing SafeDNS domain to Cloudflare
+description: How to migrate an existing SafeDNS domain to Co-Managed Cloudflare
 keywords:
   - ans
   - cloudflare
@@ -10,10 +10,10 @@ keywords:
   - dns
 ---
 
-# Migrating from SafeDNS to Cloudflare
+# Migrating from SafeDNS to Co-Managed Cloudflare
 
 If your domain is currently managed in [SafeDNS](../../safedns/) and you want to move
-it to Cloudflare, ANS provides a guided migration so your existing DNS records carry
+it to Co-Managed Cloudflare, ANS provides a guided migration so your existing DNS records carry
 over automatically.
 
 ## Before you start
@@ -41,7 +41,7 @@ over automatically.
 ## After migrating
 
 - Your domain's DNS records are now managed in Cloudflare rather than SafeDNS — use
-  [Managing DNS records in Cloudflare](../managing-dns-records/) going forward.
+  [Managing DNS records in Co-Managed Cloudflare](../managing-dns-records/) going forward.
 - Keep the SafeDNS zone in place until you've confirmed the migration is working as
   expected; you can remove it once you're confident the cutover is complete.
 

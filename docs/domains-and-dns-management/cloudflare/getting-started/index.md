@@ -1,7 +1,7 @@
 ---
-sidebar_label: "Getting started with Cloudflare"
+sidebar_label: "Getting started with Co-Managed Cloudflare"
 sidebar_position: 1
-description: How to set up Cloudflare through Glass
+description: How to set up Co-Managed Cloudflare through Glass
 keywords:
   - ans
   - cloudflare
@@ -9,10 +9,10 @@ keywords:
   - setup
 ---
 
-# Getting started with Cloudflare
+# Getting started with Co-Managed Cloudflare
 
-Setting up Cloudflare through ANS takes just a few steps in Glass — you don't need a
-separate Cloudflare account or billing relationship.
+Setting up Co-Managed Cloudflare takes just a few steps in Glass — you don't need a
+separate direct Cloudflare account or billing relationship.
 
 1. Log in to Glass and select **Cloudflare** from the
    `Services` menu.
@@ -21,15 +21,15 @@ separate Cloudflare account or billing relationship.
 3. Choose the package that best matches your needs. Packages differ in the level of
    performance, caching, and security features included — see
    [Packages and billing](../packages-and-billing/) for details.
-4. Add the site (domain) you want to protect and accelerate with Cloudflare.
+4. Add the site (domain) you want to protect and accelerate with Co-Managed Cloudflare.
 5. Review your selections on the confirmation screen and confirm to complete setup.
 
 Once setup is complete, your domain will start resolving through Cloudflare's global
 network. If your domain currently uses SafeDNS, see
-[Migrating from SafeDNS to Cloudflare](../migrating-from-safedns/) for the steps to
+[Migrating from SafeDNS to Co-Managed Cloudflare](../migrating-from-safedns/) for the steps to
 move your existing DNS records over safely.
 
-## Managing your Cloudflare account afterwards
+## Managing your Co-Managed Cloudflare account afterwards
 
 From the same **Cloudflare** area in Glass you can:
 
@@ -38,5 +38,5 @@ From the same **Cloudflare** area in Glass you can:
 - Update or remove a site.
 - Change your package for a site.
 
-See [Managing DNS records in Cloudflare](../managing-dns-records/) for day-to-day DNS
-management once your site is live.
+See [Managing DNS records in Co-Managed Cloudflare](../managing-dns-records/) for
+day-to-day DNS management once your site is live.

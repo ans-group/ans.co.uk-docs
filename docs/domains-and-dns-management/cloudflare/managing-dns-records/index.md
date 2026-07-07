@@ -1,7 +1,7 @@
 ---
-sidebar_label: "Managing DNS records in Cloudflare"
+sidebar_label: "Managing DNS records in Co-Managed Cloudflare"
 sidebar_position: 3
-description: How to manage DNS records for a site set up in Cloudflare through ANS
+description: How to manage DNS records for a site set up in Co-Managed Cloudflare
 keywords:
   - ans
   - cloudflare
@@ -9,9 +9,9 @@ keywords:
   - records
 ---
 
-# Managing DNS records in Cloudflare
+# Managing DNS records in Co-Managed Cloudflare
 
-Once a site is set up with Cloudflare through ANS, DNS records for that domain are
+Once a site is set up with Co-Managed Cloudflare, DNS records for that domain are
 managed directly within Cloudflare rather than in Glass.
 
 ## Where to manage records
@@ -41,7 +41,7 @@ detail on expected timings.
 
 ## CNAME onboarding requests
 
-If you need a CNAME-based Cloudflare onboarding path rather than standard nameserver
+If you need a CNAME-based Co-Managed Cloudflare onboarding path rather than standard nameserver
 delegation, raise this with ANS support through Glass Services so the request can be
 validated before implementation.
 
