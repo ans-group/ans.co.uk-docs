@@ -18,7 +18,7 @@ separate Cloudflare invoice to manage.
 ## Packages
 
 When you set up a site with Cloudflare, you choose a package that determines the
-level of performance and security features available (for example caching behaviour
+level of performance and security features available (for example, caching behaviour
 and web application firewall protection). You can view your current package for a
 site, and change it, from the **Cloudflare** area in Glass.
 
