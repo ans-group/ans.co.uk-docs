@@ -26,7 +26,7 @@ membership — while day-to-day record changes happen in Cloudflare directly.
 - **Adding a record** — add the record type, name, and target value in Cloudflare,
   choosing whether traffic should be proxied through Cloudflare (orange cloud) or
   DNS-only (grey cloud).
-- **Updating a record** — edit the existing record's value, for example if a server's
+- **Updating a record** — edit the existing record's value, for example, if a server's
   IP address changes.
 - **Removing a record** — delete records that are no longer needed.
 - **Proxied vs. DNS-only records** — proxied records get Cloudflare's performance and
