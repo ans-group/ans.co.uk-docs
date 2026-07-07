@@ -16,6 +16,10 @@ keywords:
 No. Cloudflare through ANS is set up and billed through your existing Glass account —
 you don't need a separate Cloudflare account or billing relationship.
 
+## Which sites are supported by ANS?
+
+ANS support is only available for sites in Cloudflare accounts provisioned by ANS.
+
 ## My site isn't resolving after setup — what should I check?
 
 - Confirm your domain's nameservers point to the values shown in Cloudflare after

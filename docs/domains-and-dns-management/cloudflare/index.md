@@ -21,6 +21,8 @@ Glass account.
 For Cloudflare platform behaviour and feature-level guidance, use Cloudflare's official
 documentation: <https://developers.cloudflare.com/>.
 
+ANS support applies only to sites in Cloudflare accounts provisioned by ANS.
+
 - [Getting started with Cloudflare](./getting-started/)
 - [Migrating from SafeDNS to Cloudflare](./migrating-from-safedns/)
 - [Managing DNS records in Cloudflare](./managing-dns-records/)
