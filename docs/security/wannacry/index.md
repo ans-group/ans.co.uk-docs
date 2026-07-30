@@ -95,7 +95,7 @@ Command performed:
 C:\Windows\SysWOW64\cmd.exe /c vssadmin delete shadow /all /quiet & wmic shadowcopy delete & bcdedit /set {default} boostatuspolicy ignoreallfailures & bcdedit /set {default} recoveryenabled no & wbadmin delete catalog –quiet
 ```
 
-The above command significantly reduces the available backup set, however if you are protected by alternate ANS backup systems, please contact our support team regarding a restore request.
+The above command significantly reduces the available backup set. If you are protected by alternate backup systems, please contact our support team regarding a restore request.
 
 ## What steps can be taken to mitigate this malware and prevent re-infection?
 
