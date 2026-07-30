@@ -20,7 +20,7 @@ keywords:
 
 Ensuring your databases are safely and consistently backed up is vital.
 
-ANS offer "MySQL aware backups" with `Commvault` that allow for "Point-in-Time" backups and restores. However, if you wish to take your own database backups (e.g. for development) there are a few different methods to achieve this, depending on your needs.
+Some managed backup solutions offer "Point-in-Time" backups and restores for MySQL. However, if you wish to take your own database backups (e.g. for development) there are a few different methods to achieve this, depending on your needs.
 
 ## MySQL dumps
 

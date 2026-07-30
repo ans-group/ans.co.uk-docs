@@ -7,16 +7,6 @@ sidebar_position: 3
 
 Information relevant to backup, disaster recovery, and highly available solutions from ANS.
 
-## ANS Backup
-
-- [ANS Backup](./ans-backup/)
-  - [Getting started](./ans-backup/getting-started/)
-  - [Backup schedules](./ans-backup/backup-schedules/)
-  - [Deleting backups](./ans-backup/deleting-backups/)
-  - [Restoring files](./ans-backup/restoring-files/)
-  - [Frequently Asked Questions](./ans-backup/frequently-asked-questions/)
-  - [Glossary of terms](./ans-backup/glossary-of-terms/)
-
 ## General Backup Guidance
 
 Help and guidance to ensure your data and IT is sufficiently backed up, just in case.

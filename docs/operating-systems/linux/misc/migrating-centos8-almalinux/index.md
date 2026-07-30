@@ -20,7 +20,7 @@ On December 31, 2021, CentOS 8 will reach end-of-life, meaning that Red Hat will
 ## Prerequisites
 
 - Server running CentOS 8.3 or above. You can verify this by running `cat /etc/redhat-release`. If your server is on CentOS 8 but below 8.3, you can update by running `sudo yum update`. You can find more information on updates [here](../../basics/package-updates/).
-- If you are a ANS Backups customer, you can check on ANS Glass or contact one of our support engineers via the [ticketing system](https://ans.glass/support-and-help/incidents) to ensure that you have a recent full backup.
+- Ensure that you have a recent full backup before starting the migration.
 - Once the migration is completed, the server will require a reboot.
 - A minimum of 5GB free disk space
 - Roughly 5m-2h time

@@ -27,7 +27,7 @@ If you would like to add custom partitions to your server (to separate `/` and `
 Resizing disks should be done with care as it can lead to data loss. If you are uncomfortable with resizing a disk you could add a new separate disk.
 
 :::warning
-**For users without Commvault or ANS Backup in place:**
+**For users without a backup solution in place:**
 
 Before resizing any disk or performing any changes to the logical volume configuration on the server, please ensure that you have taken a backup of your data.
 :::
