@@ -22,7 +22,7 @@ keywords:
 
 # What to do if your emails get listed
 
-If you think your emails are listed, you can confirm this by checking on an IP reputation service checker. One example with a range of lists is [MultiRBL](http://multirbl.valli.org/). Another (less comprehensive) IP reputation check can be found at [MXtoolbox](https://mxtoolbox.com/blacklists.aspx). It's quite common to be shown as being listed, for example `rbldns.ru` has most IPs listed by default. Some lists may also return "Failed" - that's common and may simply mean the request timed out, rather than you being on the listed.
+If you think your emails are listed, you can confirm this by checking on an IP reputation service checker. One example with a range of lists is [MultiRBL](http://multirbl.valli.org/). Another (less comprehensive) IP reputation check can be found at [MXtoolbox](https://mxtoolbox.com/blacklists.aspx). It's quite common to be shown as being listed, for example `rbldns.ru` has most IPs listed by default. Some lists may also return "Failed" - that's common and may simply mean the request timed out, rather than you being on the listed. Another option is [Suped's Blocklist Checker](https://www.suped.com/tools/blocklist-checker), which checks IP addresses and domains against multiple email blocklists.
 
 ## What to do if you find yourself on a list
 
