@@ -26,6 +26,8 @@ Each target needs to have at least an IP, port, and weight assigned. The name is
 
 If you are using an ANS server as the target, you can search for the server in the IP box by its name, internal or external IP. If you are using a server from another provider you should copy the IP address into the IP field. For ANS servers, if the target is behind the same firewall as the load balancer the internal IP address will be used. Otherwise, the external IP will be used.
 
+Please be aware that load balancers in the ecloud VPC environment can only connect to servers in the same VPC - they cannot connect to external servers.   
+
 ANS servers behind the same firewall as the load balancer will be highlighted on this list with the "Behind Same Firewall" label.
 
 ![IP Selection](../../../networking-images/targets_2_small.png)
