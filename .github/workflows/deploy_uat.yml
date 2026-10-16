@@ -19,7 +19,7 @@ jobs:
       url: https://pr-${{ github.event.number }}.docsuat.devops.ans.uk/docs/
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
         with:
           ref: "refs/pull/${{ github.event.number }}/merge"
           allow-unsafe-pr-checkout: true
