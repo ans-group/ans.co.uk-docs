@@ -56,3 +56,5 @@ Each virtual private cloud you create gives you the ability to define networking
 - [eCloud VPC - Cost Management](./cost-management/)
 
 - [How to Migrate to eCloud VPC](./migrations/)
+
+- [Automating eCloud VPC with the ANS CLI](./automation/)
