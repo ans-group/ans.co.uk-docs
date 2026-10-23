@@ -474,7 +474,7 @@ curl -s "${H[@]}" -X POST "$ECLOUD/instances" -d '{
 }' | jq
 ```
 
-The API also accepts `vcpu_cores` on its own instead of `vcpu_sockets` and `vcpu_cores_per_socket`, but not both. For private images, leave out `volume_capacity`; the volume size comes from the image.
+For private images, leave out `volume_capacity`; the volume size comes from the image.
 
 ### Passing image parameters and a user script
 
@@ -497,7 +497,8 @@ jq -n --arg script "$(cat bootstrap.sh)" '{
   image_id: "img-abcdef12",
   ram_capacity: 4096,
   volume_capacity: 40,
-  vcpu_cores: 2,
+  vcpu_sockets: 1,
+  vcpu_cores_per_socket: 2,
   image_data: { mysql_root_password: "use-a-secret-store" },
   user_script: $script,
   requires_floating_ip: true
@@ -517,7 +518,7 @@ ans ecloud instance credential list "$INSTANCE_ID" -o value --property username,
 
 `curl -s "${H[@]}" "$ECLOUD/instances/i-abcdef12/credentials" | jq '.data[] | {name, username, password}'`
 
-The default user is `root` on Linux and `graphite.rack` on Windows. Each credential also has a `port`: ANS Linux images listen for SSH on port 2020, not 22, and Windows images use RDP on 3389. Open the right port in your firewall rules.
+Each credential includes the `username` and `password` to log in with, and a `port`: ANS Linux images listen for SSH on port 2020, not 22, and Windows images use RDP on 3389. Open the right port in your firewall rules.
 
 ### Give the instance a public IP
 
@@ -646,7 +647,8 @@ curl -s "${H[@]}" -X POST "$ECLOUD/instances" -d '{
   "vpc_id": "vpc-abcdef12",
   "network_id": "net-abcdef12",
   "image_id": "img-abcdef12",
-  "vcpu_cores": 2,
+  "vcpu_sockets": 1,
+  "vcpu_cores_per_socket": 2,
   "ram_capacity": 4096,
   "volume_capacity": 40,
   "backup_gateway_id": "bgw-abcdef12",
@@ -889,7 +891,7 @@ API list responses are paginated. Use `per_page` (up to 100) and `page`, and che
 
 ```bash
 ans ecloud instance show "$INSTANCE_ID" --with-all
-ans ecloud instance show "$INSTANCE_ID" -o json | jq '.[0] | {id, online, agent_running, sync, vcpu_cores, ram_capacity, volume_capacity}'
+ans ecloud instance show "$INSTANCE_ID" -o json | jq '.[0] | {id, online, agent_running, sync, vcpu_sockets, vcpu_cores_per_socket, ram_capacity, volume_capacity}'
 ans ecloud instance nic list "$INSTANCE_ID"
 ans ecloud instance floatingip list "$INSTANCE_ID"
 ```
@@ -1029,7 +1031,8 @@ INSTANCE_ID=$(jq -n \
   --arg vpc "$VPC_ID" --arg net "$NET_ID" --arg img "$IMAGE_ID" \
   --arg ssh "$SSH_KEY_ID" --arg bgw "$BGW_ID" --arg name "$NAME-web-01" '{
     name: $name, vpc_id: $vpc, network_id: $net, image_id: $img,
-    vcpu_cores: 2, ram_capacity: 4096, volume_capacity: 40,
+    vcpu_sockets: 1, vcpu_cores_per_socket: 2,
+    ram_capacity: 4096, volume_capacity: 40,
     ip_address: "10.0.0.10", ssh_key_pair_ids: [$ssh],
     backup_gateway_id: $bgw, backup_agent_enabled: true
   }' | curl -sf "${H[@]}" -X POST "$ECLOUD/instances" -d @- | jq -r '.data.id')
