@@ -23,7 +23,7 @@ The patch specifically addresses [CVE-2018-0886](https://portal.msrc.microsoft.c
 
 Following this update some ANS customers may find they are unable to access their servers with us and receive the following error message when attempting to connect via Remote Desktop:
 
-```console
+```shell-session
 An authentication error has occurred.
 
 The function requested is not supported.
@@ -37,7 +37,7 @@ For more information, see <https://go.microsoft.com/fwlink/?linkid=866660>
 
 Additionally, an event with `Event ID 6041` will be logged in the client's System Log with the following message text:
 
-```console
+```shell-session
 A CredSSP authentication to <hostname> failed to negotiate a common protocol version.
 The remote host offered version <Protocol Version> which is not permitted by Encryption Oracle Remediation.
 ```
@@ -52,7 +52,7 @@ This policy has a number of possible 'Protection Levels' - `Vulnerable`, `Mitiga
 
 The same policy is present on patched Windows servers, and connections from _unpatched_ clients will also be prevented if the server's 'Protection Level' is set to `Force Updated Clients`. In this instance, the following error will be presented on the client computer:
 
-```console
+```shell-session
 An authentication error has occurred.
 
 The token supplied to the function is invalid
@@ -66,7 +66,7 @@ If an interim workaround is required, the `Encryption Oracle Remediation` policy
 
 The policy can be accessed via the `Edit Group Policy` Windows Start Menu item or by pressing `Win + R` and typing `gpedit.msc` > OK and then navigating through the tree on the left-hand-side to:
 
-```console
+```shell-session
 Computer Configuration -> Administrative Templates -> System -> Credentials Delegation > Encryption Oracle Remediation
 ```
 
@@ -86,7 +86,7 @@ Additionally, the Policy can be created and applied prior to installation of any
 
 The following files will need to be replaced with their updated counterparts on a Domain Controller in the environment. The updated files can be pulled from a server that has already received the update:
 
-```console
+```shell-session
 C:\Windows\PolicyDefinitions\CredSsp.admx
 C:\Windows\PolicyDefinitions\en-US\CredSsp.adml
 ```

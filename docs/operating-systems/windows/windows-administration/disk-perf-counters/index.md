@@ -23,7 +23,7 @@ The steps below can be used to enable visibility in Task Manager:
 - Launch a `Command Prompt` or `PowerShell` window using the `Run as Administrator` option.
 - Enter the following line and press `Enter`:
 
-```console
+```shell-session
 diskperf -Y
 ```
 
@@ -35,6 +35,6 @@ diskperf -Y
 
 Disk performance counters can be hidden again if necessary using the `-N` switch:
 
-```console
+```shell-session
 diskperf -N
 ```

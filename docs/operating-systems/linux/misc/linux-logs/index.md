@@ -93,7 +93,7 @@ If you are experiencing issues with emails or would like to track an email then 
 [root@UKFast ~]# cat /var/log/maillog
 ```
 
-```console
+```shell-session
 Jan 12 17:38:40 ukfast postfix/local[3142]: EF76E22A55: to=<root@ukfast>, orig_to=<root>, relay=local, delay=680510, delays=680510/0.01/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
 Jan 12 17:38:40 ukfast postfix/qmgr[3113]: EF76E22A55: removed
 ```
@@ -132,7 +132,7 @@ The location of your web server logs will be dependant on the web service curren
 [root@UKFast ~]# grep "children" /var/log/php-fpm/error.log
 ```
 
-```console
+```shell-session
 WARNING: [pool domain] server reached pm.max_children setting (50), consider raising it
 ```
 

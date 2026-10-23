@@ -26,13 +26,13 @@ MySQL is available from the standard repositories on CentOS and can be installed
 
 CentOS 5 & 6:
 
-```console
+```shell-session
 yum install mysql-server
 ```
 
 CentOS 7:
 
-```console
+```shell-session
 yum install mariadb-server
 ```
 
@@ -42,13 +42,13 @@ This will also install the MySQL command line client to allow you to interact wi
 
 CentOS 5 & 6:
 
-```console
+```shell-session
 chkconfig mysqld on
 ```
 
 CentOS 7:
 
-```console
+```shell-session
 systemctl enable mariadb
 ```
 
@@ -56,13 +56,13 @@ systemctl enable mariadb
 
 CentOS 5 & 6:
 
-```console
+```shell-session
 service mysqld start
 ```
 
 CentOS 7:
 
-```console
+```shell-session
 systemctl start mariadb
 ```
 
@@ -70,7 +70,7 @@ systemctl start mariadb
 
 The MySQL configuration file is usually located in the following location:
 
-```console
+```shell-session
 /etc/my.cnf
 ```
 

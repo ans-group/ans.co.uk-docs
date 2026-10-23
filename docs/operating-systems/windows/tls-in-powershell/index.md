@@ -23,13 +23,13 @@ By default, PowerShell will use SSL3.0 and TLS1.0. This can prove problematic wh
 
 In order to allow a connection to be established, we can force PowerShell to use a more secure protocol, like TLS 1.2, using this command:
 
-```console
+```shell-session
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 ```
 
 You can use this command to see what protocols will be used:
 
-```console
+```shell-session
 [Net.ServicePointManager]::SecurityProtocol
 ```
 

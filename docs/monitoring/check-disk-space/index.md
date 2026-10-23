@@ -20,7 +20,7 @@ df -h
 
 This will produce output similar to the following:
 
-```console
+```shell-session
 [root@mail ~]# df -h
 Filesystem            Size  Used Avail Use% Mounted on
 /dev/mapper/VolGroup-lv_root
@@ -33,7 +33,7 @@ In this basic example, we can see that the `/` partition only has 9% used.
 
 For a more complex example that also covers using `df` to see various mountpoints, see below:
 
-```console
+```shell-session
 [root@mail ~]# df -h
 Filesystem            Size  Used Avail Use% Mounted on
 /dev/mapper/VG-root   1.9T  1.7T   89G  95% /

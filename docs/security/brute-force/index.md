@@ -40,13 +40,13 @@ WordPress have a [great guide](https://wordpress.org/support/article/brute-force
 
 A brute force attack will leave behind lots of log entries of failed attempts. For example, with `xmlrpc.php` as mentioned above, in the web server access logs you'll see a large number of requests such as the below:
 
-```console
+```shell-session
 X.X.X.X - - [25/Jul/2021:01:48:21 +0100] "POST //xmlrpc.php HTTP/1.1" 200 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
 ```
 
 Alternatively, in the server authorisation logs (`/var/log/secure` or `/var/log/auth.log`), you may see lots of entries such as:
 
-```console
+```shell-session
 Jul 28 18:48:22 78 sshd[19900]: Failed password for root from X.X.X.X port 47894 ssh2
 ```
 

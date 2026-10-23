@@ -118,7 +118,7 @@ Due to the age of this operating system, TLS 1.1 and 1.2 are not supported by de
 
 On systems that have a regular update schedule, it is possible that this patch has been superseded by a more recent update. You can check this by ensuring that the `schannel.dll` file is at least version `6.0.6002.24129` by running the following command from an elevated Command Prompt:
 
-```console
+```shell-session
 wmic datafile where Name="c:\\Windows\\System32\\schannel.dll" get Description,Version
 ```
 

@@ -39,7 +39,7 @@ service httpd start
 
 This will return some content letting you know if the service started successfully or not before dropping you back to your prompt ready to enter more commands:
 
-```console
+```shell-session
 [root@94 ~]# service httpd start
 Starting httpd:                                            [  OK  ]
 [root@94 ~]#
@@ -47,7 +47,7 @@ Starting httpd:                                            [  OK  ]
 
 If the service failed to start, it may give you information on why it failed to start or it may simply say `FAILED`:
 
-```console
+```shell-session
 [ukfastsupport@94 ~]$ service httpd start
 Starting httpd: (13)Permission denied: make_sock: could not bind to address [::]:80
 (13)Permission denied: make_sock: could not bind to address 0.0.0.0:80
@@ -69,7 +69,7 @@ service mysqld stop
 
 Again, similar to start, you'll usually get some amount of feedback to let you know that the service has stopped successfully:
 
-```console
+```shell-session
 [root@94 ~]# service mysqld start
 Starting mysqld:                                           [  OK  ]
 [root@94 ~]#
@@ -85,7 +85,7 @@ service httpd restart
 
 This will give a combined bit of output as it stops and then starts the service:
 
-```console
+```shell-session
 [root@94 ~]# service httpd restart
 Stopping httpd:                                            [  OK  ]
 Starting httpd:                                            [  OK  ]
@@ -96,14 +96,14 @@ Starting httpd:                                            [  OK  ]
 
 It's sometimes useful to see if a service is running or not, and it may not be immediately apparent, so most (but not all) services implement the `status` argument:
 
-```console
+```shell-session
 [root@94 ~]# service httpd status
 httpd (pid  17462) is running...
 ```
 
 Above, we can see that Apache is up and running quite happily (or at least the service is)
 
-```console
+```shell-session
 [root@94 ~]# service mysqld status
 mysqld is stopped
 ```
@@ -112,7 +112,7 @@ Whilst the output varies from service to service, it's usually fairly clear if t
 
 You can sometimes even get some information on if the service was stopped cleanly or crashed:
 
-```console
+```shell-session
 [root@94 ~]# service mysqld status
 mysqld dead but subsys locked
 ```
@@ -143,7 +143,7 @@ chkconfig --list|grep '3:on'
 
 This will likely generate quite a lot of output as there are a fair few services that start automatically, but looking down the left hand side you should be able to see that in the following example Red Hat is configured to start at boot but `MySQL` isn't:
 
-```console
+```shell-session
 [root@94 ~]# chkconfig --list|grep '3:on'
 auditd          0:off   1:off   2:on    3:on    4:on    5:on    6:off
 crond           0:off   1:off   2:on    3:on    4:on    5:on    6:off

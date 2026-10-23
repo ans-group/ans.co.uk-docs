@@ -276,7 +276,7 @@ Press `1` to select `Management of VPN Server or VPN Bridge`, then press `Enter`
 
 Then use command below to set the admin password:
 
-```console
+```shell-session
 ServerPasswordSet
 ```
 
@@ -286,7 +286,7 @@ Enter and then re-type your new password. You'll need this whenever you want to 
 
 To use SoftEther we must first create a Virtual Hub. Here as an example we create a hub named `VPN`, in order to do that enter command below in the `vpncmd` tool:
 
-```console
+```shell-session
 HubCreate VPN
 ```
 
@@ -294,7 +294,7 @@ Next you will be asked to enter an `administrator password` for the hub. This pa
 
 Now select the Virtual Hub you created using this command:
 
-```console
+```shell-session
 Hub VPN
 ```
 
@@ -313,7 +313,7 @@ Here we use `SecureNAT`, which is very easy to setup and works pretty well in mo
 
 You can enable `SecureNAT` using the command below:
 
-```console
+```shell-session
 SecureNatEnable
 ```
 
@@ -321,7 +321,7 @@ If you require `split routing`, whereby all VPN client traffic will not be force
 
 Unfortunately, you need to specify the full DHCP configuration again, so get the current values using `DhcpGet` first. Here's an example:
 
-```console
+```shell-session
 DhcpSet /START:192.168.30.10 /END:192.168.30.10 /MASK:192.168.30.10 /EXPIRE:7200 /GW:none /DNS:192.168.30.1 /DNS2:8.8.8.8 /DOMAIN:none /LOG:yes /PUSHROUTE:none
 ```
 
@@ -331,7 +331,7 @@ Now we have to create users for our Virtual Hub to use the VPN. We can create us
 
 By using command `UserCreate` we create a user named `test`:
 
-```console
+```shell-session
 UserCreate test
 ```
 
@@ -346,7 +346,7 @@ The default type of authentication is `Password` but we can change it to a diffe
 
 In this tutorial we use `Password` as the user authentication mode for our `test` user, so using this command set a password for user `test`:
 
-```console
+```shell-session
 UserPasswordSet test
 ```
 
@@ -354,7 +354,7 @@ UserPasswordSet test
 
 To enable L2TP/IPsec VPN server you can use the command below:
 
-```console
+```shell-session
 IPsecEnable
 ```
 
@@ -372,7 +372,7 @@ The SoftEther can clone the functions of Microsoft SSTP VPN Server and OpenVPN S
 
 Here we use SoftEther's `ServerCertSet` command to point it to the SSL certificate and key for our server. Change the `vpn.mydomainname.com` to the FQDN which you provided to Let's Encrypt's Certbot tool, which should be the same one which points to your VPN server. It's imperative that it matches the one you will use long-term:
 
-```console
+```shell-session
 ServerCertSet /LOADCERT:/etc/letsencrypt/live/vpn.mydomainname.com/fullchain.pem /LOADKEY:/etc/letsencrypt/live/vpn.mydomainname.com/privkey.pem
 ```
 
@@ -392,13 +392,13 @@ ServerCertSet /LOADCERT:/etc/letsencrypt/live/vpn.mydomainname.com/fullchain.pem
 
 Now that we have created and registered a SSL Certificate for our server, we can enable SSTP function with this command:
 
-```console
+```shell-session
 SstpEnable yes
 ```
 
 And to enable OpenVPN:
 
-```console
+```shell-session
 OpenVpnEnable yes /PORTS:1194
 ```
 
@@ -406,7 +406,7 @@ OpenVpnEnable yes /PORTS:1194
 
 After you enabled OpenVPN, you can download a sample configuration file for OpenVPN client. Here we create a sample OpenVPN configuration file and save it to `my_openvpn_config.zip`:
 
-```console
+```shell-session
 OpenVpnMakeConfig ~/my_openvpn_config.zip
 ```
 

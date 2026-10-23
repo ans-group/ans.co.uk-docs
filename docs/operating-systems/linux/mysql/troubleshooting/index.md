@@ -142,7 +142,7 @@ It is extremely important for you to fully understand each change you make to a 
 
 With that warning in mind, it is a useful tool for seeing a wide range of performance metrics quickly. If you wish to run it on your server, you can, via SSH:
 
-```console
+```shell-session
 wget http://mysqltuner.pl/ -O mysqltuner.pl
 wget https://raw.githubusercontent.com/major/MySQLTuner-perl/master/basic_passwords.txt -O basic_passwords.txt
 wget https://raw.githubusercontent.com/major/MySQLTuner-perl/master/vulnerabilities.csv -O vulnerabilities.csv

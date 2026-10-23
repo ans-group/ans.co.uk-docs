@@ -53,6 +53,6 @@ https://buildnumbers.wordpress.com/sqlserver/
 
 In this example I have a patch installed:
 
-```console
+```shell-session
 13.00.1711.0	2015.130.1711.0	3179258 Processing a partition causes data loss on other partitions after the database is restored in SQL Server 2016 (1200) August 17, 2016
 ```

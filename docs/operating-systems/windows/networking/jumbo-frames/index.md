@@ -61,13 +61,13 @@ ping 10.10.10.2 -f -l 8000
 
 You should see the following, if this is successful:
 
-```console
+```shell-session
 Reply from 10.10.10.2: bytes=8000 time<1ms TTL=128
 Reply from 10.10.10.1: bytes=8000 time<1ms TTL=128
 ```
 
 This is what you'll see if the packet size you are attempting to transmit is too large:
 
-```console
+```shell-session
 Packet needs to be fragmented but DF set.
 ```

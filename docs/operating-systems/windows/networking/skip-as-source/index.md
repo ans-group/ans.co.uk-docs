@@ -26,10 +26,10 @@ This is a known issue with Sage Pay and mail servers, but it will affect most ap
 
 Remove the additional IP, then in Command Prompt (as Administrator) use the following:
 
-```console
+```shell-session
 netsh interface ipv4 add address [network connection name] [ip address] [subnet mask] skipassource=true
 ```
 
-```console
+```shell-session
 netsh interface ipv4 add address "Local Area Connection" 172.31.0.0 255.255.255.0 skipassource=true
 ```
