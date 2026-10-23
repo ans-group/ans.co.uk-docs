@@ -25,7 +25,7 @@ The hosts file is located in `C:\Windows\System32\Drivers\etc\hosts`. You need t
 
 The formatting for the hosts file looks like this:
 
-```console
+```shell-session
 127.0.0.1       domain.com
 ::1             domain.com
 ```

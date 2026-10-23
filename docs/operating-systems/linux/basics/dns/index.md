@@ -117,7 +117,7 @@ This will give you the `MX` record for `bbc.co.uk`.
 
 This example gives the `SPF` record for `bbc.co.uk` but also contains the `+short` flag which will just output the actual record.
 
-```console
+```shell-session
 [root@c7 ~]# dig bbc.co.uk @8.8.8.8
 
 ; <<>> DiG 9.9.4-RedHat-9.9.4-29.el7_2.3 <<>> bbc.co.uk @8.8.8.8

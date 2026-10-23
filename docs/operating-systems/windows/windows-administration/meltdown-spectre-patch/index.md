@@ -57,7 +57,7 @@ Once the patch has been applied and the updates have been installed, you will ne
 
 Open a `CMD Prompt` as Administrator and run the following two commands, one after another. This will add the relevant registry keys to enable the mitigation. Always backup the registry before making changes. If you are an ANS customer and are not comfortable making these changes, please seek assistance from our support team by raising a support request in [ANS Glass](https://ans.glass/support-and-help/incidents).
 
-```console
+```shell-session
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v FeatureSettingsOverride /t REG_DWORD /d 0 /f
 
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v FeatureSettingsOverrideMask /t REG_DWORD /d 3 /f

@@ -46,7 +46,7 @@ Then run the script and see what it returns:
 
 The output should be fairly self explanatory, but if you're vulnerable it'll look something like this:
 
-```console
+```shell-session
  Your kernel is 3.10.0-327.10.1.el7.x86_64 which IS vulnerable.
  Red Hat recommends that you update your kernel. Alternatively, you can apply partial
  mitigation described at https://access.redhat.com/security/vulnerabilities/2706661 .
@@ -64,7 +64,7 @@ If you're on a Debian or Ubuntu based distribution, the Red Hat script won't wor
 
 This will return something like:
 
-```console
+```shell-session
  root@dev:~# uname -a
  Linux dev 3.13.0-76-generic #120-Ubuntu SMP Mon Jan 18 15:59:10 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
 ```

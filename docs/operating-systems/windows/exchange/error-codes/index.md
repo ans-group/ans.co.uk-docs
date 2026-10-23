@@ -30,7 +30,7 @@ You can see the Receive Connector settings by running the following:
 
 You will see something like this:
 
-```console
+```shell-session
   Name                                                        MessageRateLimit
 
   ----                                                        ----------------
@@ -51,7 +51,7 @@ This can then be changed with the following commands:
 
 The results:
 
-```console
+```shell-session
   Name                                                        MessageRateLimit
 
   ----                                                        ----------------

@@ -35,7 +35,7 @@ ping <ip.of.db.server>
 
 If ping resolves, you will get a response like this:
 
-```console
+```shell-session
 PING 8.8.8.8 ( 8.8.8.8 ) 56(84) bytes of data.
 64 bytes from  8.8.8.8: icmp_seq=1 ttl=57 time=0.462 ms
 64 bytes from  8.8.8.8: icmp_seq=2 ttl=57 time=0.553 ms
@@ -84,7 +84,7 @@ Now we have confirmed that the servers can communicate over the MySQL port and h
 mysql -u db_user -h <ip.of.db.server> -p
 ```
 
-```console
+```shell-session
 Enter password:
 ```
 

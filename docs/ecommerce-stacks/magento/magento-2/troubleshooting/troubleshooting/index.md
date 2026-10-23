@@ -38,13 +38,13 @@ You may need to run this command a few times to capture incoming traffic. This c
 
 You can also check the web services access logs to ensure traffic is going to the server in question. Typically the access logs are located in `/var/nginx/log/ukfast.net-access.log`. We can use the `tail` command to monitor the access log and the grep command to filter to our query string:
 
-```console
+```shell-session
 root@server:~# tail -f /var/log/nginx/ukfast.net-access.log | grep trafficflow
 ```
 
 Submit a request to the website with a query string of `trafficflow`:
 
-```console
+```shell-session
 user@server:~$ curl -IL ukfast.net?trafficflow
 ```
 

@@ -47,7 +47,7 @@ This means that port 25 is being occupied by hMailServer, which is as expected.
 
 The `netstat` command can be extended to count the number of connections on a specific port, you can do this by adding `/c` to the end of the command. For example:
 
-```console
+```shell-session
 netstat -ano | find ":25"` /c
 ```
 

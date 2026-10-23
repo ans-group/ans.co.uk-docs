@@ -35,7 +35,7 @@ Losing your MySQL root password can be a problem. Luckily there is a fairly quic
 
 Stop MySQL, and start it with the `--skip-grant-tables` option so you can login without the password. Log into MySQL as root:
 
-```console
+```shell-session
   service mysql stop
   mysqld --skip-grant-tables
   mysql -u root

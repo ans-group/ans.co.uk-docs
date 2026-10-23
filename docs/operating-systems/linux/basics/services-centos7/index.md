@@ -66,7 +66,7 @@ systemctl start httpd
 
 You can check the list of services by using the following command:
 
-```console
+```shell-session
 [root@centos ~]# systemctl list-unit-files --type=service
 UNIT FILE                                   STATE
 acpid.service                               enabled

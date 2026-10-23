@@ -146,7 +146,7 @@ You can use the following command from the MySQL CLI to clear the `eximstats` da
 
 This is a one liner that will remove parts of the `eximstats` database:
 
-```SQL
+```sql
 use eximstats;
 delete from sends;
 delete from smtp;

@@ -31,13 +31,13 @@ Presuming you're using Windows, head to one of the following locations to access
 
 On Windows 10:
 
-```console
+```shell-session
   Start > All Apps > Windows Accessories > Remote Desktop Connection
 ```
 
 On previous versions of Windows:
 
-```console
+```shell-session
   Start > All Programs > Accessories > Remote Desktop Connection
 ```
 

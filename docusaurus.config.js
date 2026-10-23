@@ -249,6 +249,18 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+        additionalLanguages: [
+          "bash",
+          "shell-session",
+          "powershell",
+          "sql",
+          "php",
+          "ini",
+          "nginx",
+          "apacheconf",
+          "yaml",
+          "diff",
+        ],
       },
     }),
 };

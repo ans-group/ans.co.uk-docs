@@ -26,7 +26,7 @@ The command `~/` is used often here. This is simply a shortcut to the path `/hom
 
 The command `ssh-keygen` will generate a pair of public and private keys for your user. You should see a prompt similar to the below. A passphrase is not necessary, but if entered you will have to enter this passphrase when logging into a remote server using this public key.
 
-```console
+```shell-session
 $ ssh-keygen
 Generating public/private rsa key pair.
 Enter file in which to save the key (/home/dave/.ssh/id_rsa):
@@ -54,7 +54,7 @@ The key's randomart image is:
 
 Once complete, you can either manually add the contents of the `~/.ssh/rsa.pub` file to the file `~/.ssh/authorized_keys` file on the remote server, or use the `ssh-copy-id` command, shown below.
 
-```console
+```shell-session
 $ ssh-copy-id root@1.2.3.4
 /bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
 /bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
@@ -77,7 +77,7 @@ You should now be able to log into the remote server, here `root@1.2.3.4`, witho
 
 You may also now wish to disable password authentication on your server. This is done simply by modifying the `/etc/ssh/sshd_config` file, and amending the line below.
 
-```console
+```shell-session
 PasswordAuthentication no
 ```
 
@@ -87,13 +87,13 @@ You can also disable password authentication for the root user only, or disable 
 
 This will enable root login with SSH keys only:
 
-```console
+```shell-session
 PermitRootLogin without-password
 ```
 
 Disables root login completely:
 
-```console
+```shell-session
 PermitRootLogin no
 ```
 
