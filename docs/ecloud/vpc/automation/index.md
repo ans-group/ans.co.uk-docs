@@ -593,6 +593,8 @@ In the API this is `"backup_vm_enabled": true` on create or `PATCH /instances/{i
 
 ### Agent-level backup with a Backup Gateway
 
+For an overview of what a Backup Gateway is, the Glass steps and troubleshooting, see [Backup Gateways](/docs/ecloud/vpc/backup-gateways/).
+
 #### 1. Create the Backup Gateway
 
 The gateway must be on the same router (and so in the same VPC and availability zone) as the instances it protects. It does not need a floating IP. The availability zone has to support Secure Backup, and the specification must be one offered there.

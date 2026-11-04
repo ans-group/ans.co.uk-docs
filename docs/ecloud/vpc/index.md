@@ -47,6 +47,8 @@ Each virtual private cloud you create gives you the ability to define networking
 
 - [Load Balancers](./load-balancers/)
 
+- [Backup Gateways](./backup-gateways/)
+
 - [VPNs](./vpn/)
 
 - [Firewall Policies (North-South Firewalling)](./firewall-policies/)

@@ -69,6 +69,15 @@ By default, passwords are hidden due to their sensitivity, you can click to copy
 
 ![instance credentials](../../vpc-images/instances/instance-credentials.png)
 
+## Backups
+
+Instances can be protected with two kinds of backup, and you can use either or both from the instance's Backup tab or when launching an instance.
+
+- **VM-level backup** takes a daily snapshot of the whole virtual machine, each kept for 30 days.
+- **Agent-level backup** installs a backup agent in the instance so you can restore individual files and application data. It sends backup traffic to ANS Secure Backup through a Backup Gateway on the instance's router.
+
+See [Backup Gateways](../backup-gateways/) for how to set up agent-level backup.
+
 ## Delete Instances
 
 You can delete your instances like all other resources using the trash can icon or form within the resource itself, note though if there is a floating IP or additional volumes attached these will be detached and still incur charges unless you clear them up also, the volume that the operating system sits on will always be deleted. This is slightly different behaviour to some of the other resources where it will error and prevent you from deleting, although the other resources will eventually do this too.
